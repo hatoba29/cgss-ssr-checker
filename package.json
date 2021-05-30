@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The iDOLM@STER Cinderella Girls Starlight Stage SSR Checker",
   "author": "hatoba29 <hatoba29@naver.com>",
-  "license": "MIT",
+  "license": "GPL-3.0-only",
   "private": "true",
   "scripts": {
     "start": "parcel ./src/index.html",
