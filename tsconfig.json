@@ -2,7 +2,14 @@
   "compilerOptions": {
     "target": "ES6",
     "lib": ["DOM", "ES6"],
-    "jsx": "preserve",
-    "removeComments": true
+    "jsx": "react",
+    "removeComments": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
+    "baseUrl": "./src",
+    "paths": {
+      "types/*": ["@types/*"]
+    }
   }
 }

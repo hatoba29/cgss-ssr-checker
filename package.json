@@ -7,15 +7,22 @@
   "private": "true",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel build --dist-dir build ./src/index.html"
+    "build": "rm -rf build && parcel build --dist-dir build ./src/index.html"
+  },
+  "alias": {
+    "types": "./src/@types",
+    "css": "./src/css"
   },
   "dependencies": {
     "@types/react": "^17.0.8",
     "@types/react-dom": "^17.0.5",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0"
   },
   "devDependencies": {
+    "@parcel/transformer-sass": "2.0.0-beta.3.1",
+    "@types/react-icons": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^4.25.0",
     "@typescript-eslint/parser": "^4.25.0",
     "eslint": "^7.27.0",

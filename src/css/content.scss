@@ -1,0 +1,27 @@
+#content {
+  height: calc(100vh - 96px);
+  background-color: azure;
+  overflow: scroll;
+  padding-bottom: 12px;
+
+  p {
+    margin: 0;
+  }
+
+  #card-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .card {
+    width: 90px;
+    height: 110px;
+    border: 1px solid black;
+  }
+
+  #footer {
+    margin-top: 12px;
+    font-size: 12px;
+  }
+}
