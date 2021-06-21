@@ -10,15 +10,17 @@ function Main() {
   const [option, setOption] = useState<Option>({
     cardName: "",
     idolName: "",
-    limited: "",
-    type: "",
+    limited: { none: true, monthly: true, blanc: true, noir: true },
+    type: { cute: true, cool: true, passion: true },
     showName: true,
     awaken: true,
   })
 
   return (
     <>
-      <div id="header">CGSS SSR Checker</div>
+      <div id="header">
+        <span>CGSS SSR Checker</span>
+      </div>
       <Content option={option} />
       <Search option={option} setOption={setOption} />
     </>

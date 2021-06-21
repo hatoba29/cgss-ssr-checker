@@ -7,7 +7,8 @@
   "private": "true",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "rm -rf build && parcel build --dist-dir build ./src/index.html"
+    "build": "rm -rf build && parcel build --dist-dir build ./src/index.html",
+    "deploy": "yarn run build && surge ./build cgss-ssr.surge.sh"
   },
   "alias": {
     "types": "./src/@types",
@@ -21,6 +22,7 @@
     "react-icons": "^4.2.0"
   },
   "devDependencies": {
+    "@parcel/transformer-image": "2.0.0-beta.3.1",
     "@parcel/transformer-sass": "2.0.0-beta.3.1",
     "@types/react-icons": "^3.0.0",
     "@typescript-eslint/eslint-plugin": "^4.25.0",

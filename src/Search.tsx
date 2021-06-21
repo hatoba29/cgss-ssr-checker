@@ -5,7 +5,7 @@ import "css/search.scss"
 
 interface SearchProps {
   option: Option
-  setOption: any
+  setOption: React.Dispatch<React.SetStateAction<Option>>
 }
 
 function Search(props: SearchProps) {
@@ -21,7 +21,21 @@ function Search(props: SearchProps) {
 
   function update(e: FormEvent<HTMLInputElement>) {
     const target = e.currentTarget
-    props.setOption({ ...props.option, [target.id]: target.value })
+    let changed: boolean | string
+
+    if (target.className == "type" || target.className == "limited") {
+      props.setOption({
+        ...props.option,
+        [target.className]: {
+          ...props.option[target.className],
+          [target.id]: target.checked,
+        },
+      })
+    } else if (target.type == "checkbox") {
+      props.setOption({ ...props.option, [target.id]: target.checked })
+    } else {
+      props.setOption({ ...props.option, [target.id]: target.value })
+    }
   }
 
   return (
@@ -30,8 +44,68 @@ function Search(props: SearchProps) {
         <IoIosArrowUp id="arrow" className={isOpen} size="24px" />
       </div>
       <div id="options">
-        <div className="option-item">Type</div>
-        <div className="option-item">Gacha</div>
+        <div className="option-item">
+          Type
+          <input
+            type="checkbox"
+            id="cute"
+            className="type"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="cute">Cute</label>
+          <input
+            type="checkbox"
+            id="cool"
+            className="type"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="cool">Cool</label>
+          <input
+            type="checkbox"
+            id="passion"
+            className="type"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="passion">Passion</label>
+        </div>
+        <div className="option-item">
+          Gacha
+          <input
+            type="checkbox"
+            id="none"
+            className="limited"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="none">none</label>
+          <input
+            type="checkbox"
+            id="monthly"
+            className="limited"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="monthly">monthly</label>
+          <input
+            type="checkbox"
+            id="blanc"
+            className="limited"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="blanc">blanc</label>
+          <input
+            type="checkbox"
+            id="noir"
+            className="limited"
+            defaultChecked={true}
+            onInput={update}
+          />
+          <label htmlFor="noir">noir</label>
+        </div>
         <div className="option-item">
           Card Name: <input id="cardName" onInput={update} />
         </div>
@@ -40,10 +114,21 @@ function Search(props: SearchProps) {
         </div>
         <div className="option-item">
           Show Card Name&nbsp;
-          <input id="showName" type="checkbox" onInput={update} />
+          <input
+            id="showName"
+            type="checkbox"
+            onInput={update}
+            defaultChecked={props.option.showName}
+          />
         </div>
         <div className="option-item">
-          Awaken <input id="awaken" type="checkbox" onInput={update} />
+          Awaken&nbsp;
+          <input
+            id="awaken"
+            type="checkbox"
+            onInput={update}
+            defaultChecked={props.option.awaken}
+          />
         </div>
       </div>
     </div>
