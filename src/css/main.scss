@@ -11,4 +11,12 @@ body {
 
 #header {
   height: 36px;
+  padding: 0 8px;
+  display: flex;
+  align-items: center;
+  span {
+    font-size: 20px;
+    font-weight: bold;
+    padding-bottom: 3px;
+  }
 }
