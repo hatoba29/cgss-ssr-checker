@@ -1,6 +1,8 @@
 #search {
-  position: absolute;
-  top: calc(100vh - 48px);
+  // position: absolute;
+  // top: calc(100vh - 48px);
+  position: fixed;
+  bottom: -200px;
   width: 100%;
   background-color: white;
 
@@ -35,19 +37,19 @@
 
   @keyframes open {
     0% {
-      top: calc(100vh - 48px);
+      bottom: -200px;
     }
     100% {
-      top: calc(100vh - 248px);
+      bottom: 0;
     }
   }
 
   @keyframes close {
     0% {
-      top: calc(100vh - 248px);
+      bottom: 0;
     }
     100% {
-      top: calc(100vh - 48px);
+      bottom: -200px;
     }
   }
 
