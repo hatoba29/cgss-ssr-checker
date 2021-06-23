@@ -1,3674 +1,4592 @@
 [
   {
     "card_name": "ステージオブマジック",
-    "name_jp": "島村卯月",
+    "name_jp": "しまむらうづき",
     "name_kr": "시마무라 우즈키",
     "name_en": "shimamura uzuki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "島村卯月",
+    "img": "uzuki1"
   },
   {
     "card_name": "ステージオブマジック",
-    "name_jp": "渋谷凛",
+    "name_jp": "しぶやりん",
     "name_kr": "시부야 린",
-    "name_en": "渋谷凛",
+    "name_en": "shibuya rin",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "渋谷凛",
+    "img": "rin1"
   },
   {
     "card_name": "ステージオブマジック",
-    "name_jp": "本田未央",
+    "name_jp": "ほんだみお",
     "name_kr": "혼다 미오",
-    "name_en": "本田未央",
+    "name_en": "honda mio",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "本田未央",
+    "img": "mio1"
   },
   {
     "card_name": "ぐうたら王国",
-    "name_jp": "双葉杏",
-    "name_kr": "双葉杏",
-    "name_en": "双葉杏",
+    "name_jp": "ふたばあんず",
+    "name_kr": "후타바 안즈",
+    "name_en": "futaba anzu",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "双葉杏",
+    "img": "anzu1"
   },
   {
     "card_name": "薔薇の闇姫",
-    "name_jp": "神崎蘭子",
-    "name_kr": "神崎蘭子",
-    "name_en": "神崎蘭子",
+    "name_jp": "かんざきらんこ",
+    "name_kr": "칸자키 란코",
+    "name_en": "kanzaki ranko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "神崎蘭子",
+    "img": "ranko1"
   },
   {
     "card_name": "グレイトプレゼント",
-    "name_jp": "諸星きらり",
-    "name_kr": "諸星きらり",
-    "name_en": "諸星きらり",
+    "name_jp": "もろぼしきらり",
+    "name_kr": "모로보시 키라리",
+    "name_en": "moroboshi kirari",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "諸星きらり",
+    "img": "kirari1"
   },
   {
     "card_name": "キャットパーティー",
-    "name_jp": "前川みく",
-    "name_kr": "前川みく",
-    "name_en": "前川みく",
+    "name_jp": "まえかわみく",
+    "name_kr": "마에카와 미쿠",
+    "name_en": "maekawa miku",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "前川みく",
+    "img": "miku1"
   },
   {
     "card_name": "パンプキンパーティー",
-    "name_jp": "十時愛梨",
-    "name_kr": "十時愛梨",
-    "name_en": "十時愛梨",
+    "name_jp": "とときあいり",
+    "name_kr": "토토키 아이리",
+    "name_en": "totoki airi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "十時愛梨",
+    "img": "airi1"
   },
   {
     "card_name": "ホワイトウィッチ",
-    "name_jp": "三村かな子",
-    "name_kr": "三村かな子",
-    "name_en": "三村かな子",
+    "name_jp": "みむらかなこ",
+    "name_kr": "미무라 카나코",
+    "name_en": "mimura kanako",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三村かな子",
+    "img": "kanako1"
   },
   {
     "card_name": "ノーブルヴィーナス",
-    "name_jp": "新田美波",
-    "name_kr": "新田美波",
-    "name_en": "新田美波",
+    "name_jp": "にったみなみ",
+    "name_kr": "닛타 미나미",
+    "name_en": "nitta minami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "新田美波",
+    "img": "minami1"
   },
   {
     "card_name": "夢色クローバー",
-    "name_jp": "緒方智絵里",
+    "name_jp": "おがたちえり",
     "name_kr": "오가타 치에리",
-    "name_en": "緒方智絵里",
+    "name_en": "ogata chieri",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "緒方智絵里",
+    "img": "chieri1"
   },
   {
     "card_name": "ヒート＆ビート",
-    "name_jp": "多田李衣菜",
-    "name_kr": "多田李衣菜",
-    "name_en": "多田李衣菜",
+    "name_jp": "ただりいな",
+    "name_kr": "타다 리이나",
+    "name_en": "tada riina",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "多田李衣菜",
+    "img": "riina1"
   },
   {
     "card_name": "ブライトメモリーズ",
-    "name_jp": "鷺沢文香",
-    "name_kr": "鷺沢文香",
-    "name_en": "鷺沢文香",
+    "name_jp": "さぎさわふみか",
+    "name_kr": "사기사와 후미카",
+    "name_en": "sagisawa fumika",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "鷺沢文香",
+    "img": "fumika1"
   },
   {
     "card_name": "キラデコ☆パレード",
-    "name_jp": "城ヶ崎莉嘉",
-    "name_kr": "城ヶ崎莉嘉",
-    "name_en": "城ヶ崎莉嘉",
+    "name_jp": "じょうがさきりか",
+    "name_kr": "죠가사키 리카",
+    "name_en": "jougasaki rika",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "城ヶ崎莉嘉",
+    "img": "rika1"
   },
   {
     "card_name": "クリスタルスノー",
-    "name_jp": "アナスタシア",
-    "name_kr": "アナスタシア",
-    "name_en": "アナスタシア",
+    "name_jp": "あなすたしあ",
+    "name_kr": "아나스타샤",
+    "name_en": "anastasia",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "アナスタシア",
+    "img": "anastasia1"
   },
   {
     "card_name": "バーニングプレゼント",
-    "name_jp": "日野茜",
-    "name_kr": "日野茜",
-    "name_en": "日野茜",
+    "name_jp": "ひのあかね",
+    "name_kr": "히노 아카네",
+    "name_en": "hino akane",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "日野茜",
+    "img": "akane1"
   },
   {
     "card_name": "自称・カンペキ",
-    "name_jp": "輿水幸子",
+    "name_jp": "こしみずさちこ",
     "name_kr": "코시미즈 사치코",
-    "name_en": "輿水幸子",
+    "name_en": "koshimizu sachiko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "輿水幸子",
+    "img": "sachiko1"
   },
   {
     "card_name": "ともだちたくさん",
-    "name_jp": "市原仁奈",
-    "name_kr": "市原仁奈",
-    "name_en": "市原仁奈",
+    "name_jp": "いちはらにな",
+    "name_kr": "이치하라 니나",
+    "name_en": "ichihara nina",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "市原仁奈",
+    "img": "nina1"
   },
   {
     "card_name": "プリプリウサミン",
-    "name_jp": "安部菜々",
-    "name_kr": "安部菜々",
-    "name_en": "安部菜々",
+    "name_jp": "あべなな",
+    "name_kr": "아베 나나",
+    "name_en": "abe nana",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "安部菜々",
+    "img": "nana1"
   },
   {
     "card_name": "ハート★オーバーフロー",
-    "name_jp": "城ヶ崎美嘉",
-    "name_kr": "城ヶ崎美嘉",
-    "name_en": "城ヶ崎美嘉",
+    "name_jp": "じょうがさきみか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "城ヶ崎美嘉",
+    "img": "mika1"
   },
   {
     "card_name": "エンドレスナイト",
-    "name_jp": "速水奏",
-    "name_kr": "速水奏",
-    "name_en": "速水奏",
+    "name_jp": "はやみかなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "速水奏",
+    "img": "kanade1"
   },
   {
     "card_name": "フルスイング☆エール",
-    "name_jp": "姫川友紀",
-    "name_kr": "姫川友紀",
-    "name_en": "姫川友紀",
+    "name_jp": "ひめかわゆき",
+    "name_kr": "히메카와 유키",
+    "name_en": "himekawa yuki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "姫川友紀",
+    "img": "yuki1"
   },
   {
     "card_name": "フィールマイハート",
-    "name_jp": "佐久間まゆ",
-    "name_kr": "佐久間まゆ",
-    "name_en": "佐久間まゆ",
+    "name_jp": "さくままゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐久間まゆ",
+    "img": "mayu1"
   },
   {
     "card_name": "ハッピーホイップ",
-    "name_jp": "赤城みりあ",
-    "name_kr": "赤城みりあ",
-    "name_en": "赤城みりあ",
+    "name_jp": "あかぎみりあ",
+    "name_kr": "아카기 미리아",
+    "name_en": "akagi miria",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "赤城みりあ",
+    "img": "miria1"
   },
   {
     "card_name": "ラグジュアリーメモリー",
-    "name_jp": "川島瑞樹",
-    "name_kr": "川島瑞樹",
-    "name_en": "川島瑞樹",
+    "name_jp": "かわしまみずき",
+    "name_kr": "카와시마 미즈키",
+    "name_en": "kawashima mizuki",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "川島瑞樹",
+    "img": "mizuki1"
   },
   {
     "card_name": "ミスティックエリクシル",
-    "name_jp": "一ノ瀬志希",
-    "name_kr": "一ノ瀬志希",
-    "name_en": "一ノ瀬志希",
+    "name_jp": "いちのせしき",
+    "name_kr": "이치노세 시키",
+    "name_en": "ichinose shiki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "一ノ瀬志希",
+    "img": "shiki1"
   },
   {
     "card_name": "オーバー・ザ・レインボー",
-    "name_jp": "神谷奈緒",
-    "name_kr": "神谷奈緒",
-    "name_en": "神谷奈緒",
+    "name_jp": "かみやなお",
+    "name_kr": "카미야 나오",
+    "name_en": "kamiya nao",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "神谷奈緒",
+    "img": "nao1"
   },
   {
     "card_name": "てづくりのしあわせ",
-    "name_jp": "高森藍子",
-    "name_kr": "高森藍子",
-    "name_en": "高森藍子",
+    "name_jp": "たかもりあいこ",
+    "name_kr": "타카모리 아이코",
+    "name_en": "takamori aiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "高森藍子",
+    "img": "aiko1"
   },
   {
     "card_name": "夜風の誘い",
-    "name_jp": "高垣楓",
-    "name_kr": "高垣楓",
-    "name_en": "高垣楓",
+    "name_jp": "たかがきかえで",
+    "name_kr": "타카가키 카에데",
+    "name_en": "takagaki kaede",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "高垣楓",
+    "img": "kaede1"
   },
   {
     "card_name": "ユースフルロマンス",
-    "name_jp": "小日向美穂",
-    "name_kr": "小日向美穂",
-    "name_en": "小日向美穂",
+    "name_jp": "こひなたみほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "小日向美穂",
+    "img": "miho1"
   },
   {
     "card_name": "煌めきのひととき",
-    "name_jp": "北条加蓮",
-    "name_kr": "北条加蓮",
-    "name_en": "北条加蓮",
+    "name_jp": "ほうじょうかれん",
+    "name_kr": "호죠 카렌",
+    "name_en": "hojo karen",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "北条加蓮",
+    "img": "karen1"
   },
   {
     "card_name": "マッシュアップ★ボルテージ",
-    "name_jp": "星輝子",
-    "name_kr": "星輝子",
-    "name_en": "星輝子",
+    "name_jp": "ほししょうこ",
+    "name_kr": "호시 쇼코",
+    "name_en": "hoshi syoko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "星輝子",
+    "img": "syoko1"
   },
   {
     "card_name": "花舞うまほろば",
-    "name_jp": "小早川紗枝",
-    "name_kr": "小早川紗枝",
-    "name_en": "小早川紗枝",
+    "name_jp": "こばやかわさえ",
+    "name_kr": "코바야카와 사에",
+    "name_en": "kobayakawa sae",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "小早川紗枝",
+    "img": "sae1"
   },
   {
     "card_name": "ローズフルール",
-    "name_jp": "櫻井桃華",
-    "name_kr": "櫻井桃華",
-    "name_en": "櫻井桃華",
+    "name_jp": "さくらいももか",
+    "name_kr": "사쿠라이 모모카",
+    "name_en": "sakurai momoka",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "櫻井桃華",
+    "img": "momoka1"
   },
   {
     "card_name": "拳火上等",
-    "name_jp": "向井拓海",
-    "name_kr": "向井拓海",
-    "name_en": "向井拓海",
+    "name_jp": "むかいたくみ",
+    "name_kr": "무카이 타쿠미",
+    "name_en": "mukai takumi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "向井拓海",
+    "img": "takumi1"
   },
   {
     "card_name": "《偶像》のフラグメント",
-    "name_jp": "二宮飛鳥",
-    "name_kr": "二宮飛鳥",
-    "name_en": "二宮飛鳥",
+    "name_jp": "にのみやあすか",
+    "name_kr": "니노미야 아스카",
+    "name_en": "ninomiya asuka",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "二宮飛鳥",
+    "img": "asuka1"
   },
   {
     "card_name": "夢みるプリンセス",
-    "name_jp": "喜多日菜子",
-    "name_kr": "喜多日菜子",
-    "name_en": "喜多日菜子",
+    "name_jp": "きたひなこ",
+    "name_kr": "키타 히나코",
+    "name_en": "kita hinako",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "喜多日菜子",
+    "img": "hinako1"
   },
   {
     "card_name": "あったかハート",
-    "name_jp": "五十嵐響子",
-    "name_kr": "五十嵐響子",
-    "name_en": "五十嵐響子",
+    "name_jp": "いがらしきょうこ",
+    "name_kr": "이가라시 쿄코",
+    "name_en": "igarashi kyoko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "五十嵐響子",
+    "img": "kyoko1"
   },
   {
     "card_name": "エモーショナルビート",
-    "name_jp": "木村夏樹",
-    "name_kr": "木村夏樹",
-    "name_en": "木村夏樹",
+    "name_jp": "きむらなつき",
+    "name_kr": "키무라 나츠키",
+    "name_en": "kimura natsuki",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "木村夏樹",
+    "img": "natsuki1"
   },
   {
     "card_name": "はじめての表情",
-    "name_jp": "橘ありす",
-    "name_kr": "橘ありす",
-    "name_en": "橘ありす",
+    "name_jp": "たちばなありす",
+    "name_kr": "타치바나 아리스",
+    "name_en": "tachibana arisu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "橘ありす",
+    "img": "arisu1"
   },
   {
     "card_name": "センリツノヨル",
-    "name_jp": "白坂小梅",
-    "name_kr": "白坂小梅",
-    "name_en": "白坂小梅",
+    "name_jp": "しらさかこうめ",
+    "name_kr": "시라사카 코우메",
+    "name_en": "shirasaka koume",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "白坂小梅",
+    "img": "koume1"
   },
   {
     "card_name": "アベニュー・モード",
-    "name_jp": "宮本フレデリカ",
-    "name_kr": "宮本フレデリカ",
-    "name_en": "宮本フレデリカ",
+    "name_jp": "みやもとふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "宮本フレデリカ",
+    "img": "frederica1"
   },
   {
     "card_name": "わだつみの導き手",
-    "name_jp": "依田芳乃",
-    "name_kr": "依田芳乃",
-    "name_en": "依田芳乃",
+    "name_jp": "よりたよしの",
+    "name_kr": "요리타 요시노",
+    "name_en": "yorita yoshino",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "依田芳乃",
+    "img": "yoshino1"
   },
   {
     "card_name": "運命の待ち人",
-    "name_jp": "神崎蘭子",
-    "name_kr": "神崎蘭子",
-    "name_en": "神崎蘭子",
+    "name_jp": "かんざきらんこ",
+    "name_kr": "칸자키 란코",
+    "name_en": "kanzaki ranko",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "神崎蘭子",
+    "img": "ranko2"
   },
   {
     "card_name": "ドリーミンブライド",
-    "name_jp": "前川みく",
-    "name_kr": "前川みく",
-    "name_en": "前川みく",
+    "name_jp": "まえかわみく",
+    "name_kr": "마에카와 미쿠",
+    "name_en": "maekawa miku",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "前川みく",
+    "img": "miku2"
   },
   {
     "card_name": "はつらつハーヴェスト",
-    "name_jp": "及川雫",
+    "name_jp": "おいかわしずく",
     "name_kr": "오이카와 시즈쿠",
-    "name_en": "及川雫",
+    "name_en": "oikawa shizuku",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "及川雫",
+    "img": "shizuku1"
   },
   {
     "card_name": "夜色の暁風",
-    "name_jp": "塩見周子",
+    "name_jp": "しおみしゅうこ",
     "name_kr": "시오미 슈코",
-    "name_en": "塩見周子",
+    "name_en": "shiomi syuko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "塩見周子",
+    "img": "syuko1"
   },
   {
     "card_name": "マイ・フェアリーテイル",
-    "name_jp": "緒方智絵里",
+    "name_jp": "おがたちえり",
     "name_kr": "오가타 치에리",
-    "name_en": "緒方智絵里",
+    "name_en": "ogata chieri",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "緒方智絵里",
+    "img": "chieri2"
   },
   {
     "card_name": "ピースフルデイズ",
-    "name_jp": "島村卯月",
+    "name_jp": "しまむらうづき",
     "name_kr": "시마무라 우즈키",
     "name_en": "shimamura uzuki",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "島村卯月",
+    "img": "uzuki2"
   },
   {
     "card_name": "オーバー・マイセルフ",
-    "name_jp": "渋谷凛",
+    "name_jp": "しぶやりん",
     "name_kr": "시부야 린",
-    "name_en": "渋谷凛",
+    "name_en": "shibuya rin",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "渋谷凛",
+    "img": "rin2"
   },
   {
     "card_name": "ワンダーエンターテイナー",
-    "name_jp": "本田未央",
+    "name_jp": "ほんだみお",
     "name_kr": "혼다 미오",
-    "name_en": "本田未央",
+    "name_en": "honda mio",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "本田未央",
+    "img": "mio2"
   },
   {
     "card_name": "なまけものフェアリー",
-    "name_jp": "双葉杏",
-    "name_kr": "双葉杏",
-    "name_en": "双葉杏",
+    "name_jp": "ふたばあんず",
+    "name_kr": "후타바 안즈",
+    "name_en": "futaba anzu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "双葉杏",
+    "img": "anzu2"
   },
   {
     "card_name": "サマータイム☆ハイ",
-    "name_jp": "大槻唯",
-    "name_kr": "大槻唯",
-    "name_en": "大槻唯",
+    "name_jp": "おおつきゆい",
+    "name_kr": "오오츠키 유이",
+    "name_en": "ootsuki yui",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "大槻唯",
+    "img": "yui1"
   },
   {
     "card_name": "ルージュクチュール",
-    "name_jp": "三船美優",
-    "name_kr": "三船美優",
-    "name_en": "三船美優",
+    "name_jp": "みふねみゆ",
+    "name_kr": "미후네 미유",
+    "name_en": "mifune miyu",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "三船美優",
+    "img": "miyu1"
   },
   {
     "card_name": "束ねた気持ち",
-    "name_jp": "相葉夕美",
-    "name_kr": "相葉夕美",
-    "name_en": "相葉夕美",
+    "name_jp": "あいばゆみ",
+    "name_kr": "아이바 유미",
+    "name_en": "aiba yumi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "相葉夕美",
+    "img": "yumi1"
   },
   {
     "card_name": "スターティングデイズ",
-    "name_jp": "乙倉悠貴",
-    "name_kr": "乙倉悠貴",
-    "name_en": "乙倉悠貴",
+    "name_jp": "おとくらゆうき",
+    "name_kr": "오토쿠라 유우키",
+    "name_en": "otokura yuuki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "乙倉悠貴",
+    "img": "yuuki1"
   },
   {
     "card_name": "めろめろサマー",
-    "name_jp": "諸星きらり",
-    "name_kr": "諸星きらり",
-    "name_en": "諸星きらり",
+    "name_jp": "もろぼしきらり",
+    "name_kr": "모로보시 키라리",
+    "name_en": "moroboshi kirari",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "諸星きらり",
+    "img": "kirari2"
   },
   {
     "card_name": "夏色の南風",
-    "name_jp": "新田美波",
-    "name_kr": "新田美波",
-    "name_en": "新田美波",
+    "name_jp": "にったみなみ",
+    "name_kr": "닛타 미나미",
+    "name_en": "nitta minami",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "新田美波",
+    "img": "minami2"
   },
   {
     "card_name": "メイク★インパクト",
-    "name_jp": "早坂美玲",
-    "name_kr": "早坂美玲",
-    "name_en": "早坂美玲",
+    "name_jp": "はやさかみれい",
+    "name_kr": "하야사카 미레이",
+    "name_en": "hayasaka mirei",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "早坂美玲",
+    "img": "mirei1"
   },
   {
     "card_name": "澄みきった世界",
-    "name_jp": "上条春菜",
-    "name_kr": "上条春菜",
-    "name_en": "上条春菜",
+    "name_jp": "かみじょうはるな",
+    "name_kr": "카미죠 하루나",
+    "name_en": "kamijo haruna",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "上条春菜",
+    "img": "haruna1"
   },
   {
     "card_name": "カップオブラブ",
-    "name_jp": "十時愛梨",
-    "name_kr": "十時愛梨",
-    "name_en": "十時愛梨",
+    "name_jp": "とときあいり",
+    "name_kr": "토토키 아이리",
+    "name_en": "totoki airi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "十時愛梨",
+    "img": "airi2"
   },
   {
     "card_name": "密やかな饗宴",
-    "name_jp": "鷺沢文香",
-    "name_kr": "鷺沢文香",
-    "name_en": "鷺沢文香",
+    "name_jp": "さぎさわふみか",
+    "name_kr": "사기사와 후미카",
+    "name_en": "sagisawa fumika",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "鷺沢文香",
+    "img": "fumika2"
   },
   {
     "card_name": "インビテーション・ダイブ",
-    "name_jp": "一ノ瀬志希",
-    "name_kr": "一ノ瀬志希",
-    "name_en": "一ノ瀬志希",
+    "name_jp": "いちのせしき",
+    "name_kr": "이치노세 시키",
+    "name_en": "ichinose shiki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "一ノ瀬志希",
+    "img": "shiki2"
   },
   {
     "card_name": "セーシュンエナジー",
-    "name_jp": "堀裕子",
-    "name_kr": "堀裕子",
-    "name_en": "堀裕子",
+    "name_jp": "ほりゆうこ",
+    "name_kr": "호리 유코",
+    "name_en": "hori yuko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "堀裕子",
+    "img": "yuko1"
   },
   {
     "card_name": "星巡る物語",
-    "name_jp": "アナスタシア",
-    "name_kr": "アナスタシア",
-    "name_en": "アナスタシア",
+    "name_jp": "あなすたしあ",
+    "name_kr": "아나스타샤",
+    "name_en": "anastasia",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "アナスタシア",
+    "img": "anastasia2"
   },
   {
     "card_name": "P.C.S",
-    "name_jp": "小日向美穂",
-    "name_kr": "小日向美穂",
-    "name_en": "小日向美穂",
+    "name_jp": "こひなたみほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "小日向美穂",
+    "img": "miho2"
   },
   {
     "card_name": "自称・スウィートヒロイン",
-    "name_jp": "輿水幸子",
+    "name_jp": "こしみずさちこ",
     "name_kr": "코시미즈 사치코",
-    "name_en": "輿水幸子",
+    "name_en": "koshimizu sachiko",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "輿水幸子",
+    "img": "sachiko2"
   },
   {
     "card_name": "茜色の彩り",
-    "name_jp": "高垣楓",
-    "name_kr": "高垣楓",
-    "name_en": "高垣楓",
+    "name_jp": "たかがきかえで",
+    "name_kr": "타카가키 카에데",
+    "name_en": "takagaki kaede",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "高垣楓",
+    "img": "kaede2"
   },
   {
     "card_name": "グロリアス★グロウ",
-    "name_jp": "城ヶ崎美嘉",
-    "name_kr": "城ヶ崎美嘉",
-    "name_en": "城ヶ崎美嘉",
+    "name_jp": "じょうがさきみか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "城ヶ崎美嘉",
+    "img": "mika2"
   },
   {
     "card_name": "トリート・オア・トリート",
-    "name_jp": "佐久間まゆ",
-    "name_kr": "佐久間まゆ",
-    "name_en": "佐久間まゆ",
+    "name_jp": "さくままゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐久間まゆ",
+    "img": "mayu2"
   },
   {
     "card_name": "ぱーりぃー★ひゃっはー",
-    "name_jp": "星輝子",
-    "name_kr": "星輝子",
-    "name_en": "星輝子",
+    "name_jp": "ほししょうこ",
+    "name_kr": "호시 쇼코",
+    "name_en": "hoshi syoko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "星輝子",
+    "img": "syoko2"
   },
   {
     "card_name": "くのいちのいろは",
-    "name_jp": "浜口あやめ",
-    "name_kr": "浜口あやめ",
-    "name_en": "浜口あやめ",
+    "name_jp": "はまぐちあやめ",
+    "name_kr": "하마구치 아야메",
+    "name_en": "hamaguchi ayame",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "浜口あやめ",
+    "img": "ayame1"
   },
   {
     "card_name": "ただひとつの器",
-    "name_jp": "藤原肇",
-    "name_kr": "藤原肇",
-    "name_en": "藤原肇",
+    "name_jp": "ふじわらはじめ",
+    "name_kr": "후지와라 하지메",
+    "name_en": "fujiwara hajime",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "藤原肇",
+    "img": "hajime1"
   },
   {
     "card_name": "ドルチェ・クラシカ",
-    "name_jp": "三村かな子",
-    "name_kr": "三村かな子",
-    "name_en": "三村かな子",
+    "name_jp": "みむらかなこ",
+    "name_kr": "미무라 카나코",
+    "name_en": "mimura kanako",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "三村かな子",
+    "img": "kanako2"
   },
   {
     "card_name": "ソング・フォー・ライフ",
-    "name_jp": "北条加蓮",
-    "name_kr": "北条加蓮",
-    "name_en": "北条加蓮",
+    "name_jp": "ほうじょうかれん",
+    "name_kr": "호죠 카렌",
+    "name_en": "hojo karen",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "北条加蓮",
+    "img": "karen2"
   },
   {
     "card_name": "あたたかな居場所",
-    "name_jp": "高森藍子",
-    "name_kr": "高森藍子",
-    "name_en": "高森藍子",
+    "name_jp": "たかもりあいこ",
+    "name_kr": "타카모리 아이코",
+    "name_en": "takamori aiko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "高森藍子",
+    "img": "aiko2"
   },
   {
     "card_name": "ディアマイレディ",
-    "name_jp": "櫻井桃華",
-    "name_kr": "櫻井桃華",
-    "name_en": "櫻井桃華",
+    "name_jp": "さくらいももか",
+    "name_kr": "사쿠라이 모모카",
+    "name_en": "sakurai momoka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "櫻井桃華",
+    "img": "momoka2"
   },
   {
     "card_name": "はぁとトゥハート",
-    "name_jp": "佐藤心",
-    "name_kr": "佐藤心",
-    "name_en": "佐藤心",
+    "name_jp": "さとうしん",
+    "name_kr": "사토 신",
+    "name_en": "sato shin",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐藤心",
+    "img": "shin1"
   },
   {
     "card_name": "森のものがたり",
-    "name_jp": "森久保乃々",
-    "name_kr": "森久保乃々",
-    "name_en": "森久保乃々",
+    "name_jp": "もりくぼのの",
+    "name_kr": "모리쿠보 노노",
+    "name_en": "morikubo nono",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "森久保乃々",
+    "img": "nono1"
   },
   {
     "card_name": "リュミエール・エトワール",
-    "name_jp": "宮本フレデリカ",
-    "name_kr": "宮本フレデリカ",
-    "name_en": "宮本フレデリカ",
+    "name_jp": "みやもとふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "宮本フレデリカ",
+    "img": "frederica2"
   },
   {
     "card_name": "ドレスアップナイト",
-    "name_jp": "神谷奈緒",
-    "name_kr": "神谷奈緒",
-    "name_en": "神谷奈緒",
+    "name_jp": "かみやなお",
+    "name_kr": "카미야 나오",
+    "name_en": "kamiya nao",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "神谷奈緒",
+    "img": "nao2"
   },
   {
     "card_name": "ひまわりサニーデイ",
-    "name_jp": "龍崎薫",
-    "name_kr": "龍崎薫",
-    "name_en": "龍崎薫",
+    "name_jp": "りゅうざきかおる",
+    "name_kr": "류자키 카오루",
+    "name_en": "ryuzaki kaoru",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "龍崎薫",
+    "img": "kaoru1"
   },
   {
     "card_name": "エアリアルメロディア",
-    "name_jp": "水本ゆかり",
-    "name_kr": "水本ゆかり",
-    "name_en": "水本ゆかり",
+    "name_jp": "みずもとゆかり",
+    "name_kr": "미즈모토 유카리",
+    "name_en": "mizumoto yukari",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "水本ゆかり",
+    "img": "yukari1"
   },
   {
     "card_name": "ネクスト☆ページ",
-    "name_jp": "荒木比奈",
-    "name_kr": "荒木比奈",
-    "name_en": "荒木比奈",
+    "name_jp": "あらきひな",
+    "name_kr": "아라키 히나",
+    "name_en": "araki hina",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "荒木比奈",
+    "img": "hina1"
   },
   {
     "card_name": "ウサミン・ザ・シークレット",
-    "name_jp": "安部菜々",
-    "name_kr": "安部菜々",
-    "name_en": "安部菜々",
+    "name_jp": "あべなな",
+    "name_kr": "아베 나나",
+    "name_en": "abe nana",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "安部菜々",
+    "img": "nana2"
   },
   {
     "card_name": "うつつの華模様",
-    "name_jp": "塩見周子",
+    "name_jp": "しおみしゅうこ",
     "name_kr": "시오미 슈코",
-    "name_en": "塩見周子",
+    "name_en": "shiomi syuko",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "塩見周子",
+    "img": "syuko2"
   },
   {
     "card_name": "ソル・パライソ",
-    "name_jp": "大槻唯",
-    "name_kr": "大槻唯",
-    "name_en": "大槻唯",
+    "name_jp": "おおつきゆい",
+    "name_kr": "오오츠키 유이",
+    "name_en": "ootsuki yui",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "大槻唯",
+    "img": "yui2"
   },
   {
     "card_name": "華ほころびる宴",
-    "name_jp": "小早川紗枝",
-    "name_kr": "小早川紗枝",
-    "name_en": "小早川紗枝",
+    "name_jp": "こばやかわさえ",
+    "name_kr": "코바야카와 사에",
+    "name_en": "kobayakawa sae",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "小早川紗枝",
+    "img": "sae2"
   },
   {
     "card_name": "ことほぎの祈り",
-    "name_jp": "依田芳乃",
-    "name_kr": "依田芳乃",
-    "name_en": "依田芳乃",
+    "name_jp": "よりたよしの",
+    "name_kr": "요리타 요시노",
+    "name_en": "yorita yoshino",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "依田芳乃",
+    "img": "yoshino2"
   },
   {
     "card_name": "メイクミー・キスユー",
-    "name_jp": "赤城みりあ",
-    "name_kr": "赤城みりあ",
-    "name_en": "赤城みりあ",
+    "name_jp": "あかぎみりあ",
+    "name_kr": "아카기 미리아",
+    "name_en": "akagi miria",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "赤城みりあ",
+    "img": "miria2"
   },
   {
     "card_name": "インサイト・エクステンド",
-    "name_jp": "八神マキノ",
-    "name_kr": "八神マキノ",
-    "name_en": "八神マキノ",
+    "name_jp": "やがみまきの",
+    "name_kr": "야가미 마키노",
+    "name_en": "yagami makino",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "八神マキノ",
+    "img": "makino1"
   },
   {
     "card_name": "ラブ ! ストレート",
-    "name_jp": "中野有香",
-    "name_kr": "中野有香",
-    "name_en": "中野有香",
+    "name_jp": "なかのゆか",
+    "name_kr": "나카노 유카",
+    "name_en": "nakano yuka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "中野有香",
+    "img": "yuka1"
   },
   {
     "card_name": "パレス・オブ・ファンタジア",
-    "name_jp": "二宮飛鳥",
-    "name_kr": "二宮飛鳥",
-    "name_en": "二宮飛鳥",
+    "name_jp": "にのみやあすか",
+    "name_kr": "니노미야 아스카",
+    "name_en": "ninomiya asuka",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "二宮飛鳥",
+    "img": "asuka2"
   },
   {
     "card_name": "重ねた花びら",
-    "name_jp": "相葉夕美",
-    "name_kr": "相葉夕美",
-    "name_en": "相葉夕美",
+    "name_jp": "あいばゆみ",
+    "name_kr": "아이바 유미",
+    "name_en": "aiba yumi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "相葉夕美",
+    "img": "yumi2"
   },
   {
     "card_name": "Ring♪Ring♪フィーリン",
-    "name_jp": "椎名法子",
-    "name_kr": "椎名法子",
-    "name_en": "椎名法子",
+    "name_jp": "しいなのりこ",
+    "name_kr": "시이나 노리코",
+    "name_en": "shiina noriko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "椎名法子",
+    "img": "noriko1"
   },
   {
     "card_name": "ハイテンションスマッシュ",
-    "name_jp": "喜多見柚",
-    "name_kr": "喜多見柚",
-    "name_en": "喜多見柚",
+    "name_jp": "きたみゆず",
+    "name_kr": "키타미 유즈",
+    "name_en": "kitami yuzu",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "喜多見柚",
+    "img": "yuzu1"
   },
   {
     "card_name": "目をあけてみる夢",
-    "name_jp": "多田李衣菜",
-    "name_kr": "多田李衣菜",
-    "name_en": "多田李衣菜",
+    "name_jp": "ただりいな",
+    "name_kr": "타다 리이나",
+    "name_en": "tada riina",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "多田李衣菜",
+    "img": "riina2"
   },
   {
     "card_name": "ドラマティック・ナイト",
-    "name_jp": "五十嵐響子",
-    "name_kr": "五十嵐響子",
-    "name_en": "五十嵐響子",
+    "name_jp": "いがらしきょうこ",
+    "name_kr": "이가라시 쿄코",
+    "name_en": "igarashi kyoko",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "五十嵐響子",
+    "img": "kyoko2"
   },
   {
     "card_name": "こころ、酔わせて",
-    "name_jp": "三船美優",
-    "name_kr": "三船美優",
-    "name_en": "三船美優",
+    "name_jp": "みふねみゆ",
+    "name_kr": "미후네 미유",
+    "name_en": "mifune miyu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三船美優",
+    "img": "miyu2"
   },
   {
     "card_name": "セクシーBANG☆BANG",
-    "name_jp": "片桐早苗",
-    "name_kr": "片桐早苗",
-    "name_en": "片桐早苗",
+    "name_jp": "かたぎりさなえ",
+    "name_kr": "카타기리 사나에",
+    "name_en": "katagiri sanae",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "片桐早苗",
+    "img": "sanae1"
   },
   {
     "card_name": "SOUND A ROUND",
-    "name_jp": "松永涼",
-    "name_kr": "松永涼",
-    "name_en": "松永涼",
+    "name_jp": "まつながりょう",
+    "name_kr": "마츠나가 료",
+    "name_en": "matsunaga ryo",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "松永涼",
+    "img": "ryo1"
   },
   {
     "card_name": "出逢えた憧憬",
-    "name_jp": "関裕美",
-    "name_kr": "関裕美",
-    "name_en": "関裕美",
+    "name_jp": "せきひろみ",
+    "name_kr": "세키 히로미",
+    "name_en": "seki hiromi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "関裕美",
+    "img": "hiromi1"
   },
   {
     "card_name": "エンド・オブ・ザ・ブルー",
-    "name_jp": "速水奏",
-    "name_kr": "速水奏",
-    "name_en": "速水奏",
+    "name_jp": "はやみかなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "速水奏",
+    "img": "kanade2"
   },
   {
     "card_name": "カム・ウィズミー ! ",
-    "name_jp": "乙倉悠貴",
-    "name_kr": "乙倉悠貴",
-    "name_en": "乙倉悠貴",
+    "name_jp": "おとくらゆうき",
+    "name_kr": "오토쿠라 유우키",
+    "name_en": "otokura yuuki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "乙倉悠貴",
+    "img": "yuuki2"
   },
   {
     "card_name": "サークル☆オブ☆フレンズ",
-    "name_jp": "城ヶ崎莉嘉",
-    "name_kr": "城ヶ崎莉嘉",
-    "name_en": "城ヶ崎莉嘉",
+    "name_jp": "じょうがさきりか",
+    "name_kr": "죠가사키 리카",
+    "name_en": "jougasaki rika",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "城ヶ崎莉嘉",
+    "img": "rika2"
   },
   {
     "card_name": "ひみつの小夜曲",
-    "name_jp": "佐城雪美",
-    "name_kr": "佐城雪美",
-    "name_en": "佐城雪美",
+    "name_jp": "さじょうゆきみ",
+    "name_kr": "사죠 유키미",
+    "name_en": "sajo yukimi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐城雪美",
+    "img": "yukimi1"
   },
   {
     "card_name": "ポジティブパッション",
-    "name_jp": "日野茜",
-    "name_kr": "日野茜",
-    "name_en": "日野茜",
+    "name_jp": "ひのあかね",
+    "name_kr": "히노 아카네",
+    "name_en": "hino akane",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "日野茜",
+    "img": "akane2"
   },
   {
     "card_name": "ラブモリ☆パーリィー",
-    "name_jp": "藤本里奈",
-    "name_kr": "藤本里奈",
-    "name_en": "藤本里奈",
+    "name_jp": "ふじもとりな",
+    "name_kr": "후지모토 리나",
+    "name_en": "fujimoto rina",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "藤本里奈",
+    "img": "rina1"
   },
   {
     "card_name": "ヨモスガラ・パーティー",
-    "name_jp": "白坂小梅",
-    "name_kr": "白坂小梅",
-    "name_en": "白坂小梅",
+    "name_jp": "しらさかこうめ",
+    "name_kr": "시라사카 코우메",
+    "name_en": "shirasaka koume",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "白坂小梅",
+    "img": "koume2"
   },
   {
     "card_name": "レッツゴー☆パレード",
-    "name_jp": "姫川友紀",
-    "name_kr": "姫川友紀",
-    "name_en": "姫川友紀",
+    "name_jp": "ひめかわゆき",
+    "name_kr": "히메카와 유키",
+    "name_en": "himekawa yuki",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "姫川友紀",
+    "img": "yuki2"
   },
   {
     "card_name": "ようせいのこ",
-    "name_jp": "遊佐こずえ",
-    "name_kr": "遊佐こずえ",
-    "name_en": "遊佐こずえ",
+    "name_jp": "ゆさこずえ",
+    "name_kr": "유사 코즈에",
+    "name_en": "yusa kozue",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "遊佐こずえ",
+    "img": "kozue1"
   },
   {
     "card_name": "ステップトゥーミライ",
-    "name_jp": "佐々木千枝",
-    "name_kr": "佐々木千枝",
-    "name_en": "佐々木千枝",
+    "name_jp": "ささきちえ",
+    "name_kr": "사사키 치에",
+    "name_en": "sasaki chie",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐々木千枝",
+    "img": "chie1"
   },
   {
     "card_name": "こぶし・紅",
-    "name_jp": "村上巴",
-    "name_kr": "村上巴",
-    "name_en": "村上巴",
+    "name_jp": "むらかみともえ",
+    "name_kr": "무라카미 토모에",
+    "name_en": "murakami tomoe",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "村上巴",
+    "img": "tomoe1"
   },
   {
     "card_name": "えにしの結び手",
-    "name_jp": "道明寺歌鈴",
-    "name_kr": "道明寺歌鈴",
-    "name_en": "道明寺歌鈴",
+    "name_jp": "どうみょうじかりん",
+    "name_kr": "도묘지 카린",
+    "name_en": "domyoji karin",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "道明寺歌鈴",
+    "img": "karin1"
   },
   {
     "card_name": "エターナルブルーム",
-    "name_jp": "渋谷凛",
+    "name_jp": "しぶやりん",
     "name_kr": "시부야 린",
-    "name_en": "渋谷凛",
+    "name_en": "shibuya rin",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "渋谷凛",
+    "img": "rin3"
   },
   {
     "card_name": "FEEL SO FREE",
-    "name_jp": "木村夏樹",
-    "name_kr": "木村夏樹",
-    "name_en": "木村夏樹",
+    "name_jp": "きむらなつき",
+    "name_kr": "키무라 나츠키",
+    "name_en": "kimura natsuki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "木村夏樹",
+    "img": "natsuki2"
   },
   {
     "card_name": "わきわきわんだほー",
-    "name_jp": "棟方愛海",
-    "name_kr": "棟方愛海",
-    "name_en": "棟方愛海",
+    "name_jp": "むなかたあつみ",
+    "name_kr": "무나카타 아츠미",
+    "name_en": "munakata atsumi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "棟方愛海",
+    "img": "atsumi1"
   },
   {
     "card_name": "コマンドー・オブ・ステージ",
-    "name_jp": "大和亜季",
-    "name_kr": "大和亜季",
-    "name_en": "大和亜季",
+    "name_jp": "やまとあき",
+    "name_kr": "야마토 아키",
+    "name_en": "yamato aki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "大和亜季",
+    "img": "aki1"
   },
   {
     "card_name": "アヴァンチュール・シャト",
-    "name_jp": "前川みく",
-    "name_kr": "前川みく",
-    "name_en": "前川みく",
+    "name_jp": "まえかわみく",
+    "name_kr": "마에카와 미쿠",
+    "name_en": "maekawa miku",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "前川みく",
+    "img": "miku3"
   },
   {
     "card_name": "自称・パーリーピーポー",
-    "name_jp": "輿水幸子",
+    "name_jp": "こしみずさちこ",
     "name_kr": "코시미즈 사치코",
-    "name_en": "輿水幸子",
+    "name_en": "koshimizu sachiko",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "輿水幸子",
+    "img": "sachiko3"
   },
   {
     "card_name": "ラブ・モゥ・スイート",
-    "name_jp": "及川雫",
+    "name_jp": "おいかわしずく",
     "name_kr": "오이카와 시즈쿠",
-    "name_en": "及川雫",
+    "name_en": "oikawa shizuku",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "及川雫",
+    "img": "shizuku2"
   },
   {
     "card_name": "真剣・一閃",
-    "name_jp": "脇山珠美",
-    "name_kr": "脇山珠美",
-    "name_en": "脇山珠美",
+    "name_jp": "わきやまたまみ",
+    "name_kr": "와키야마 타마미",
+    "name_en": "wakiyama tamami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "脇山珠美",
+    "img": "tamami1"
   },
   {
     "card_name": "ビビッド★エゴイスト",
-    "name_jp": "的場梨沙",
-    "name_kr": "的場梨沙",
-    "name_en": "的場梨沙",
+    "name_jp": "まとばりさ",
+    "name_kr": "마토바 리사",
+    "name_en": "matoba risa",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "的場梨沙",
+    "img": "risa1"
   },
   {
     "card_name": "手折られぬ花",
-    "name_jp": "白菊ほたる",
-    "name_kr": "白菊ほたる",
-    "name_en": "白菊ほたる",
+    "name_jp": "しらぎくほたる",
+    "name_kr": "시라기쿠 호타루",
+    "name_en": "shiragiku hotaru",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "白菊ほたる",
+    "img": "hotaru1"
   },
   {
     "card_name": "太陽より熱く ! ",
-    "name_jp": "中野有香",
-    "name_kr": "中野有香",
-    "name_en": "中野有香",
+    "name_jp": "なかのゆか",
+    "name_kr": "나카노 유카",
+    "name_en": "nakano yuka",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "中野有香",
+    "img": "yuka2"
   },
   {
     "card_name": "ブルー・ホライゾン",
-    "name_jp": "塩見周子",
+    "name_jp": "しおみしゅうこ",
     "name_kr": "시오미 슈코",
-    "name_en": "塩見周子",
+    "name_en": "shiomi syuko",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "塩見周子",
+    "img": "syuko3"
   },
   {
     "card_name": "本日の主役",
-    "name_jp": "難波笑美",
-    "name_kr": "難波笑美",
-    "name_en": "難波笑美",
+    "name_jp": "なんばえみ",
+    "name_kr": "남바 에미",
+    "name_en": "nanba emi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "難波笑美",
+    "img": "emi1"
   },
   {
     "card_name": "アンビバレント・アクト",
-    "name_jp": "川島瑞樹",
-    "name_kr": "川島瑞樹",
-    "name_en": "川島瑞樹",
+    "name_jp": "かわしまみずき",
+    "name_kr": "카와시마 미즈키",
+    "name_en": "kawashima mizuki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "川島瑞樹",
+    "img": "mizuki2"
   },
   {
     "card_name": "メモリアルデイズ",
-    "name_jp": "今井加奈",
-    "name_kr": "今井加奈",
-    "name_en": "今井加奈",
+    "name_jp": "いまいかな",
+    "name_kr": "이마이 카나",
+    "name_en": "imai kana",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "今井加奈",
+    "img": "kana1"
   },
   {
     "card_name": "プライベート・メイド",
-    "name_jp": "十時愛梨",
-    "name_kr": "十時愛梨",
-    "name_en": "十時愛梨",
+    "name_jp": "とときあいり",
+    "name_kr": "토토키 아이리",
+    "name_en": "totoki airi",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "十時愛梨",
+    "img": "airi3"
   },
   {
     "card_name": "ギフト・フォー・アンサー",
-    "name_jp": "森久保乃々",
-    "name_kr": "森久保乃々",
-    "name_en": "森久保乃々",
+    "name_jp": "もりくぼのの",
+    "name_kr": "모리쿠보 노노",
+    "name_en": "morikubo nono",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "森久保乃々",
+    "img": "nono2"
   },
   {
     "card_name": "ブリリアント・はぁと",
-    "name_jp": "佐藤心",
-    "name_kr": "佐藤心",
-    "name_en": "佐藤心",
+    "name_jp": "さとうしん",
+    "name_kr": "사토 신",
+    "name_en": "sato shin",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐藤心",
+    "img": "shin2"
   },
   {
     "card_name": "等身大の距離で",
-    "name_jp": "高垣楓",
-    "name_kr": "高垣楓",
-    "name_en": "高垣楓",
+    "name_jp": "たかがきかえで",
+    "name_kr": "타카가키 카에데",
+    "name_en": "takagaki kaede",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "高垣楓",
+    "img": "kaede3"
   },
   {
     "card_name": "ピュア・ユーフォリア",
-    "name_jp": "西園寺琴歌",
-    "name_kr": "西園寺琴歌",
-    "name_en": "西園寺琴歌",
+    "name_jp": "さいおんじことか",
+    "name_kr": "사이온지 코토카",
+    "name_en": "saionji kotoka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "西園寺琴歌",
+    "img": "kotoka1"
   },
   {
     "card_name": "ヒートビート・サンバ ! ",
-    "name_jp": "ナターリア",
-    "name_kr": "ナターリア",
-    "name_en": "ナターリア",
+    "name_jp": "なたーりあ",
+    "name_kr": "나탈리아",
+    "name_en": "natalia",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "ナターリア",
+    "img": "natalia1"
   },
   {
     "card_name": "スマイル・アンド・トリート",
-    "name_jp": "島村卯月",
+    "name_jp": "しまむらうづき",
     "name_kr": "시마무라 우즈키",
     "name_en": "shimamura uzuki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "島村卯月",
+    "img": "uzuki3"
   },
   {
     "card_name": "はろうぃんもんすたー",
-    "name_jp": "市原仁奈",
-    "name_kr": "市原仁奈",
-    "name_en": "市原仁奈",
+    "name_jp": "いちはらにな",
+    "name_kr": "이치하라 니나",
+    "name_en": "ichihara nina",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "市原仁奈",
+    "img": "nina2"
   },
   {
     "card_name": "ありすのティーパーティー",
-    "name_jp": "橘ありす",
-    "name_kr": "橘ありす",
-    "name_en": "橘ありす",
+    "name_jp": "たちばなありす",
+    "name_kr": "타치바나 아리스",
+    "name_en": "tachibana arisu",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "橘ありす",
+    "img": "arisu2"
   },
   {
     "card_name": "プレイ・ザ・ゲーム ! ",
-    "name_jp": "三好紗南",
-    "name_kr": "三好紗南",
-    "name_en": "三好紗南",
+    "name_jp": "みよしさな",
+    "name_kr": "미요시 사나",
+    "name_en": "miyoshi sana",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "三好紗南",
+    "img": "sana1"
   },
   {
     "card_name": "あこがれのプリンセス",
-    "name_jp": "古賀小春",
-    "name_kr": "古賀小春",
-    "name_en": "古賀小春",
+    "name_jp": "こがこはる",
+    "name_kr": "코가 코하루",
+    "name_en": "koga koharu",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "古賀小春",
+    "img": "koharu1"
   },
   {
     "card_name": "極光のしらべ",
-    "name_jp": "アナスタシア",
-    "name_kr": "アナスタシア",
-    "name_en": "アナスタシア",
+    "name_jp": "あなすたしあ",
+    "name_kr": "아나스타샤",
+    "name_en": "anastasia",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "アナスタシア",
+    "img": "anastasia3"
   },
   {
     "card_name": "ミスティック・ドーン",
-    "name_jp": "速水奏",
-    "name_kr": "速水奏",
-    "name_en": "速水奏",
+    "name_jp": "はやみかなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "速水奏",
+    "img": "kanade3"
   },
   {
     "card_name": "トリック☆ジョーカー",
-    "name_jp": "堀裕子",
-    "name_kr": "堀裕子",
-    "name_en": "堀裕子",
+    "name_jp": "ほりゆうこ",
+    "name_kr": "호리 유코",
+    "name_en": "hori yuko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "堀裕子",
+    "img": "yuko2"
   },
   {
     "card_name": "夢追い人の光",
-    "name_jp": "工藤忍",
-    "name_kr": "工藤忍",
-    "name_en": "工藤忍",
+    "name_jp": "くどうしのぶ",
+    "name_kr": "쿠도 시노부",
+    "name_en": "kudo shinobu",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "工藤忍",
+    "img": "shinobu1"
   },
   {
     "card_name": "ロリポップ・ハニー",
-    "name_jp": "大槻唯",
-    "name_kr": "大槻唯",
-    "name_en": "大槻唯",
+    "name_jp": "おおつきゆい",
+    "name_kr": "오오츠키 유이",
+    "name_en": "ootsuki yui",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "大槻唯",
+    "img": "yui3"
   },
   {
     "card_name": "異国に吹く風",
-    "name_jp": "ライラ",
-    "name_kr": "ライラ",
-    "name_en": "ライラ",
+    "name_jp": "らいら",
+    "name_kr": "라이라",
+    "name_en": "layla",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "ライラ",
+    "img": "layla1"
   },
   {
     "card_name": "メリー・メリー・ホワイト",
-    "name_jp": "緒方智絵里",
+    "name_jp": "おがたちえり",
     "name_kr": "오가타 치에리",
-    "name_en": "緒方智絵里",
+    "name_en": "ogata chieri",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "緒方智絵里",
+    "img": "chieri3"
   },
   {
     "card_name": "カレイドスノー",
-    "name_jp": "本田未央",
+    "name_jp": "ほんだみお",
     "name_kr": "혼다 미오",
-    "name_en": "本田未央",
+    "name_en": "honda mio",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "本田未央",
+    "img": "mio3"
   },
   {
     "card_name": "オーダー・フォー・トップ",
-    "name_jp": "桐生つかさ",
-    "name_kr": "桐生つかさ",
-    "name_en": "桐生つかさ",
+    "name_jp": "きりゅうつかさ",
+    "name_kr": "키류 츠카사",
+    "name_en": "kiryu tsukasa",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "桐生つかさ",
+    "img": "tsukasa1"
   },
   {
     "card_name": "祝福のまなざし",
-    "name_jp": "クラリス",
-    "name_kr": "クラリス",
-    "name_en": "クラリス",
+    "name_jp": "くらりす",
+    "name_kr": "클라리스",
+    "name_en": "clarice",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "クラリス",
+    "img": "clarice1"
   },
   {
     "card_name": "桃色怒髪天",
-    "name_jp": "向井拓海",
-    "name_kr": "向井拓海",
-    "name_en": "向井拓海",
+    "name_jp": "むかいたくみ",
+    "name_kr": "무카이 타쿠미",
+    "name_en": "mukai takumi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "向井拓海",
+    "img": "takumi2"
   },
   {
     "card_name": "おーる・ふぉー・ふぁん",
-    "name_jp": "双葉杏",
-    "name_kr": "双葉杏",
-    "name_en": "双葉杏",
+    "name_jp": "ふたばあんず",
+    "name_kr": "후타바 안즈",
+    "name_en": "futaba anzu",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "双葉杏",
+    "img": "anzu3"
   },
   {
     "card_name": "はぴはぴ☆わんだーらんど",
-    "name_jp": "諸星きらり",
-    "name_kr": "諸星きらり",
-    "name_en": "諸星きらり",
+    "name_jp": "もろぼしきらり",
+    "name_kr": "모로보시 키라리",
+    "name_en": "moroboshi kirari",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "諸星きらり",
+    "img": "kirari3"
   },
   {
     "card_name": "新春の彩り",
-    "name_jp": "三村かな子",
-    "name_kr": "三村かな子",
-    "name_en": "三村かな子",
+    "name_jp": "みむらかなこ",
+    "name_kr": "미무라 카나코",
+    "name_en": "mimura kanako",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三村かな子",
+    "img": "kanako3"
   },
   {
     "card_name": "福を呼ぶ舞姫",
-    "name_jp": "鷹富士茄子",
-    "name_kr": "鷹富士茄子",
-    "name_en": "鷹富士茄子",
+    "name_jp": "たかふじかこ",
+    "name_kr": "타카후지 카코",
+    "name_en": "takafuji kako",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "鷹富士茄子",
+    "img": "kako1"
   },
   {
     "card_name": "クイーン・オブ・クイーン",
-    "name_jp": "財前時子",
-    "name_kr": "財前時子",
-    "name_en": "財前時子",
+    "name_jp": "ざいぜんときこ",
+    "name_kr": "자이젠 토키코",
+    "name_en": "zaizen tokiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "財前時子",
+    "img": "tokiko1"
   },
   {
     "card_name": "ドリーミン☆ウサミン",
-    "name_jp": "安部菜々",
-    "name_kr": "安部菜々",
-    "name_en": "安部菜々",
+    "name_jp": "あべなな",
+    "name_kr": "아베 나나",
+    "name_en": "abe nana",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "安部菜々",
+    "img": "nana3"
   },
   {
     "card_name": "心躍るアドベンチャー",
-    "name_jp": "氏家むつみ",
-    "name_kr": "氏家むつみ",
-    "name_en": "氏家むつみ",
+    "name_jp": "うじいえむつみ",
+    "name_kr": "우지이에 무츠미",
+    "name_en": "ujiie mutsumi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "氏家むつみ",
+    "img": "mutsumi1"
   },
   {
     "card_name": "ビタースイート・タイム",
-    "name_jp": "小日向美穂",
-    "name_kr": "小日向美穂",
-    "name_en": "小日向美穂",
+    "name_jp": "こひなたみほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "小日向美穂",
+    "img": "miho3"
   },
   {
     "card_name": "ドキワク ! ユズレシピ",
-    "name_jp": "喜多見柚",
-    "name_kr": "喜多見柚",
-    "name_en": "喜多見柚",
+    "name_jp": "きたみゆず",
+    "name_kr": "키타미 유즈",
+    "name_en": "kitami yuzu",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "喜多見柚",
+    "img": "yuzu2"
   },
   {
     "card_name": "ニューウェーブ・ネイビー",
-    "name_jp": "大石泉",
-    "name_kr": "大石泉",
-    "name_en": "大石泉",
+    "name_jp": "おおいしいずみ",
+    "name_kr": "오오이시 이즈미",
+    "name_en": "ooishi izumi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "大石泉",
+    "img": "izumi1"
   },
   {
     "card_name": "センター・オブ・ストリート",
-    "name_jp": "城ヶ崎美嘉",
-    "name_kr": "城ヶ崎美嘉",
-    "name_en": "城ヶ崎美嘉",
+    "name_jp": "じょうがさきみか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "城ヶ崎美嘉",
+    "img": "mika3"
   },
   {
     "card_name": "すこやかな願い",
-    "name_jp": "栗原ネネ",
-    "name_kr": "栗原ネネ",
-    "name_en": "栗原ネネ",
+    "name_jp": "くりはらねね",
+    "name_kr": "쿠리하라 네네",
+    "name_en": "kurihara nene",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "栗原ネネ",
+    "img": "nene1"
   },
   {
     "card_name": "アイロニカル・エトランゼ",
-    "name_jp": "一ノ瀬志希",
-    "name_kr": "一ノ瀬志希",
-    "name_en": "一ノ瀬志希",
+    "name_jp": "いちのせしき",
+    "name_kr": "이치노세 시키",
+    "name_en": "ichinose shiki",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "一ノ瀬志希",
+    "img": "shiki3"
   },
   {
     "card_name": "おしゃまなコアクマ",
-    "name_jp": "佐々木千枝",
-    "name_kr": "佐々木千枝",
-    "name_en": "佐々木千枝",
+    "name_jp": "ささきちえ",
+    "name_kr": "사사키 치에",
+    "name_en": "sasaki chie",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐々木千枝",
+    "img": "chie2"
   },
   {
     "card_name": "ポッピン・ハイ☆",
-    "name_jp": "赤城みりあ",
-    "name_kr": "赤城みりあ",
-    "name_en": "赤城みりあ",
+    "name_jp": "あかぎみりあ",
+    "name_kr": "아카기 미리아",
+    "name_en": "akagi miria",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "赤城みりあ",
+    "img": "miria3"
   },
   {
     "card_name": "ニューウェーブ・ピーチ",
-    "name_jp": "村松さくら",
-    "name_kr": "村松さくら",
-    "name_en": "村松さくら",
+    "name_jp": "むらまつさくら",
+    "name_kr": "무라마츠 사쿠라",
+    "name_en": "muramatsu sakura",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "村松さくら",
+    "img": "sakura1"
   },
   {
     "card_name": "バーン・アンド・ドーン ! ! ",
-    "name_jp": "小関麗奈",
-    "name_kr": "小関麗奈",
-    "name_en": "小関麗奈",
+    "name_jp": "こせきれいな",
+    "name_kr": "코세키 레이나",
+    "name_en": "koseki reina",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "小関麗奈",
+    "img": "reina1"
   },
   {
     "card_name": "ブレイク・ワン・モーメント",
-    "name_jp": "水木聖來",
-    "name_kr": "水木聖來",
-    "name_en": "水木聖來",
+    "name_jp": "みずきせいら",
+    "name_kr": "미즈키 세이라",
+    "name_en": "mizuki seira",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "水木聖來",
+    "img": "seira1"
   },
   {
     "card_name": "青春デビュー",
-    "name_jp": "関裕美",
-    "name_kr": "関裕美",
-    "name_en": "関裕美",
+    "name_jp": "せきひろみ",
+    "name_kr": "세키 히로미",
+    "name_en": "seki hiromi",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "関裕美",
+    "img": "hiromi2"
   },
   {
     "card_name": "放課後ロックスター",
-    "name_jp": "多田李衣菜",
-    "name_kr": "多田李衣菜",
-    "name_en": "多田李衣菜",
+    "name_jp": "ただりいな",
+    "name_kr": "타다 리이나",
+    "name_en": "tada riina",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "多田李衣菜",
+    "img": "riina3"
   },
   {
     "card_name": "ニューウェーブ・サルファー",
-    "name_jp": "土屋亜子",
-    "name_kr": "土屋亜子",
-    "name_en": "土屋亜子",
+    "name_jp": "つちやあこ",
+    "name_kr": "츠치야 아코",
+    "name_en": "tsuchiya ako",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "土屋亜子",
+    "img": "ako1"
   },
   {
     "card_name": "プレイ・ウィズ・ミー",
-    "name_jp": "結城晴",
-    "name_kr": "結城晴",
-    "name_en": "結城晴",
+    "name_jp": "ゆうきはる",
+    "name_kr": "유우키 하루",
+    "name_en": "yuki haru",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "結城晴",
+    "img": "haru1"
   },
   {
     "card_name": "ひたむきな歩み",
-    "name_jp": "道明寺歌鈴",
-    "name_kr": "道明寺歌鈴",
-    "name_en": "道明寺歌鈴",
+    "name_jp": "どうみょうじかりん",
+    "name_kr": "도묘지 카린",
+    "name_en": "domyoji karin",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "道明寺歌鈴",
+    "img": "karin2"
   },
   {
     "card_name": "幻想と神話の紡ぎ手",
-    "name_jp": "神崎蘭子",
-    "name_kr": "神崎蘭子",
-    "name_en": "神崎蘭子",
+    "name_jp": "かんざきらんこ",
+    "name_kr": "칸자키 란코",
+    "name_en": "kanzaki ranko",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "神崎蘭子",
+    "img": "ranko3"
   },
   {
     "card_name": "魅惑のショウタイム",
-    "name_jp": "佐久間まゆ",
-    "name_kr": "佐久間まゆ",
-    "name_en": "佐久間まゆ",
+    "name_jp": "さくままゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐久間まゆ",
+    "img": "mayu3"
   },
   {
     "card_name": "姉御の心粋",
-    "name_jp": "村上巴",
-    "name_kr": "村上巴",
-    "name_en": "村上巴",
+    "name_jp": "むらかみともえ",
+    "name_kr": "무라카미 토모에",
+    "name_en": "murakami tomoe",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "村上巴",
+    "img": "tomoe2"
   },
   {
     "card_name": "ビター・エレガンス",
-    "name_jp": "東郷あい",
-    "name_kr": "東郷あい",
-    "name_en": "東郷あい",
+    "name_jp": "とうごうあい",
+    "name_kr": "토고 아이",
+    "name_en": "togo ai",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "東郷あい",
+    "img": "ai1"
   },
   {
     "card_name": "パンパンの夢",
-    "name_jp": "大原みちる",
-    "name_kr": "大原みちる",
-    "name_en": "大原みちる",
+    "name_jp": "おおはらみちる",
+    "name_kr": "오오하라 미치루",
+    "name_en": "oohara michiru",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "大原みちる",
+    "img": "michiru1"
   },
   {
     "card_name": "ときめきトラベラー",
-    "name_jp": "並木芽衣子",
-    "name_kr": "並木芽衣子",
-    "name_en": "並木芽衣子",
+    "name_jp": "なみきめいこ",
+    "name_kr": "나미키 메이코",
+    "name_en": "namiki meiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "並木芽衣子",
+    "img": "meiko1"
   },
   {
     "card_name": "渚の花嫁",
-    "name_jp": "新田美波",
-    "name_kr": "新田美波",
-    "name_en": "新田美波",
+    "name_jp": "にったみなみ",
+    "name_kr": "닛타 미나미",
+    "name_en": "nitta minami",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "新田美波",
+    "img": "minami3"
   },
   {
     "card_name": "永遠の相棒",
-    "name_jp": "片桐早苗",
-    "name_kr": "片桐早苗",
-    "name_en": "片桐早苗",
+    "name_jp": "かたぎりさなえ",
+    "name_kr": "카타기리 사나에",
+    "name_en": "katagiri sanae",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "片桐早苗",
+    "img": "sanae2"
   },
   {
     "card_name": "ひらめきロボティクス",
-    "name_jp": "池袋晶葉",
-    "name_kr": "池袋晶葉",
-    "name_en": "池袋晶葉",
+    "name_jp": "いけぶくろあきは",
+    "name_kr": "이케부쿠로 아키하",
+    "name_en": "ikebukuro akiha",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "池袋晶葉",
+    "img": "akiha1"
   },
   {
     "card_name": "笑うたい樹",
-    "name_jp": "上田鈴帆",
-    "name_kr": "上田鈴帆",
-    "name_en": "上田鈴帆",
+    "name_jp": "うえだすずほ",
+    "name_kr": "우에다 스즈호",
+    "name_en": "ueda suzuho",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "上田鈴帆",
+    "img": "suzuho1"
   },
   {
     "card_name": "イン・ヒューマン",
-    "name_jp": "高峯のあ",
-    "name_kr": "高峯のあ",
-    "name_en": "高峯のあ",
+    "name_jp": "たかみねのあ",
+    "name_kr": "타카미네 노아",
+    "name_en": "takamine noa",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "高峯のあ",
+    "img": "noa1"
   },
   {
     "card_name": "うたかたの結び手",
-    "name_jp": "依田芳乃",
-    "name_kr": "依田芳乃",
-    "name_en": "依田芳乃",
+    "name_jp": "よりたよしの",
+    "name_kr": "요리타 요시노",
+    "name_en": "yorita yoshino",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "依田芳乃",
+    "img": "yoshino3"
   },
   {
     "card_name": "モンスター・パーティー ! ",
-    "name_jp": "早坂美玲",
-    "name_kr": "早坂美玲",
-    "name_en": "早坂美玲",
+    "name_jp": "はやさかみれい",
+    "name_kr": "하야사카 미레이",
+    "name_en": "hayasaka mirei",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "早坂美玲",
+    "img": "mirei2"
   },
   {
     "card_name": "星祭りの夜",
-    "name_jp": "鷺沢文香",
-    "name_kr": "鷺沢文香",
-    "name_en": "鷺沢文香",
+    "name_jp": "さぎさわふみか",
+    "name_kr": "사기사와 후미카",
+    "name_en": "sagisawa fumika",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "鷺沢文香",
+    "img": "fumika3"
   },
   {
     "card_name": "超☆志貫徹",
-    "name_jp": "冴島清美",
-    "name_kr": "冴島清美",
-    "name_en": "冴島清美",
+    "name_jp": "さえじまきよみ",
+    "name_kr": "사에지마 키요미",
+    "name_en": "saejima kiyomi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "冴島清美",
+    "img": "kiyomi1"
   },
   {
     "card_name": "P.C.S",
-    "name_jp": "五十嵐響子",
-    "name_kr": "五十嵐響子",
-    "name_en": "五十嵐響子",
+    "name_jp": "いがらしきょうこ",
+    "name_kr": "이가라시 쿄코",
+    "name_en": "igarashi kyoko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "五十嵐響子",
+    "img": "kyoko3"
   },
   {
     "card_name": "すいすいオーシャン",
-    "name_jp": "浅利七海",
-    "name_kr": "浅利七海",
-    "name_en": "浅利七海",
+    "name_jp": "あさりななみ",
+    "name_kr": "아사리 나나미",
+    "name_en": "asari nanami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "浅利七海",
+    "img": "nanami1"
   },
   {
     "card_name": "愛盛り☆フラッペ",
-    "name_jp": "棟方愛海",
-    "name_kr": "棟方愛海",
-    "name_en": "棟方愛海",
+    "name_jp": "むなかたあつみ",
+    "name_kr": "무나카타 아츠미",
+    "name_en": "munakata atsumi",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "棟方愛海",
+    "img": "atsumi2"
   },
   {
     "card_name": "サマーサニーブーケ",
-    "name_jp": "相葉夕美",
-    "name_kr": "相葉夕美",
-    "name_en": "相葉夕美",
+    "name_jp": "あいばゆみ",
+    "name_kr": "아이바 유미",
+    "name_en": "aiba yumi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "相葉夕美",
+    "img": "yumi3"
   },
   {
     "card_name": "シーサイドドリーム",
-    "name_jp": "荒木比奈",
-    "name_kr": "荒木比奈",
-    "name_en": "荒木比奈",
+    "name_jp": "あらきひな",
+    "name_kr": "아라키 히나",
+    "name_en": "araki hina",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "荒木比奈",
+    "img": "hina2"
   },
   {
     "card_name": "お祭り小町大作戦",
-    "name_jp": "桃井あずき",
-    "name_kr": "桃井あずき",
-    "name_en": "桃井あずき",
+    "name_jp": "ももいあずき",
+    "name_kr": "모모이 아즈키",
+    "name_en": "momoi azuki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "桃井あずき",
+    "img": "azuki1"
   },
   {
     "card_name": "夢うたうチカラ",
-    "name_jp": "南条光",
-    "name_kr": "南条光",
-    "name_en": "南条光",
+    "name_jp": "なんじょうひかる",
+    "name_kr": "난죠 히카루",
+    "name_en": "nanjo hikaru",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "南条光",
+    "img": "hikaru1"
   },
   {
     "card_name": "憧れへのステップ",
-    "name_jp": "乙倉悠貴",
-    "name_kr": "乙倉悠貴",
-    "name_en": "乙倉悠貴",
+    "name_jp": "おとくらゆうき",
+    "name_kr": "오토쿠라 유우키",
+    "name_en": "otokura yuuki",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "乙倉悠貴",
+    "img": "yuuki3"
   },
   {
     "card_name": "一陣の情熱",
-    "name_jp": "神谷奈緒",
-    "name_kr": "神谷奈緒",
-    "name_en": "神谷奈緒",
+    "name_jp": "かみやなお",
+    "name_kr": "카미야 나오",
+    "name_en": "kamiya nao",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "神谷奈緒",
+    "img": "nao3"
   },
   {
     "card_name": "トゥインクル・パーティー",
-    "name_jp": "北条加蓮",
-    "name_kr": "北条加蓮",
-    "name_en": "北条加蓮",
+    "name_jp": "ほうじょうかれん",
+    "name_kr": "호죠 카렌",
+    "name_en": "hojo karen",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "北条加蓮",
+    "img": "karen3"
   },
   {
     "card_name": "笑顔のレセプション",
-    "name_jp": "高森藍子",
-    "name_kr": "高森藍子",
-    "name_en": "高森藍子",
+    "name_jp": "たかもりあいこ",
+    "name_kr": "타카모리 아이코",
+    "name_en": "takamori aiko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "高森藍子",
+    "img": "aiko3"
   },
   {
     "card_name": "P.C.S",
-    "name_jp": "島村卯月",
+    "name_jp": "しまむらうづき",
     "name_kr": "시마무라 우즈키",
     "name_en": "shimamura uzuki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "島村卯月",
+    "img": "uzuki4"
   },
   {
     "card_name": "お菓子なドリーミング",
-    "name_jp": "喜多日菜子",
-    "name_kr": "喜多日菜子",
-    "name_en": "喜多日菜子",
+    "name_jp": "きたひなこ",
+    "name_kr": "키타 히나코",
+    "name_en": "kita hinako",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "喜多日菜子",
+    "img": "hinako2"
   },
   {
     "card_name": "なよ竹の美器",
-    "name_jp": "藤原肇",
-    "name_kr": "藤原肇",
-    "name_en": "藤原肇",
+    "name_jp": "ふじわらはじめ",
+    "name_kr": "후지와라 하지메",
+    "name_en": "fujiwara hajime",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "藤原肇",
+    "img": "hajime2"
   },
   {
     "card_name": "自称・魔法少女",
-    "name_jp": "輿水幸子",
+    "name_jp": "こしみずさちこ",
     "name_kr": "코시미즈 사치코",
-    "name_en": "輿水幸子",
+    "name_en": "koshimizu sachiko",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "輿水幸子",
+    "img": "sachiko4"
   },
   {
     "card_name": "はぴはぴ☆はろうぃん",
-    "name_jp": "諸星きらり",
-    "name_kr": "諸星きらり",
-    "name_en": "諸星きらり",
+    "name_jp": "もろぼしきらり",
+    "name_kr": "모로보시 키라리",
+    "name_en": "moroboshi kirari",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "諸星きらり",
+    "img": "kirari4"
   },
   {
     "card_name": "巡り会えた彩り",
-    "name_jp": "鷹富士茄子",
-    "name_kr": "鷹富士茄子",
-    "name_en": "鷹富士茄子",
+    "name_jp": "たかふじかこ",
+    "name_kr": "타카후지 카코",
+    "name_en": "takafuji kako",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "鷹富士茄子",
+    "img": "kako2"
   },
   {
     "card_name": "ライドオンステージ",
-    "name_jp": "原田美世",
-    "name_kr": "原田美世",
-    "name_en": "原田美世",
+    "name_jp": "はらだみよ",
+    "name_kr": "하라다 미요",
+    "name_en": "harada miyo",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "原田美世",
+    "img": "miyo1"
   },
   {
     "card_name": "フリースタイル☆ライフ",
-    "name_jp": "小松伊吹",
-    "name_kr": "小松伊吹",
-    "name_en": "小松伊吹",
+    "name_jp": "こまついぶき",
+    "name_kr": "코마츠 이부키",
+    "name_en": "komatsu ibuki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "小松伊吹",
+    "img": "ibuki1"
   },
   {
     "card_name": "オーダーメイド・はぁと",
-    "name_jp": "佐藤心",
-    "name_kr": "佐藤心",
-    "name_en": "佐藤心",
+    "name_jp": "さとうしん",
+    "name_kr": "사토 신",
+    "name_en": "sato shin",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "佐藤心",
+    "img": "shin3"
   },
   {
     "card_name": "ソレイユ・エ・リュヌ",
-    "name_jp": "宮本フレデリカ",
-    "name_kr": "宮本フレデリカ",
-    "name_en": "宮本フレデリカ",
+    "name_jp": "みやもとふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "宮本フレデリカ",
+    "img": "frederica3"
   },
   {
     "card_name": "灼熱のリベリオン",
-    "name_jp": "二宮飛鳥",
-    "name_kr": "二宮飛鳥",
-    "name_en": "二宮飛鳥",
+    "name_jp": "にのみやあすか",
+    "name_kr": "니노미야 아스카",
+    "name_en": "ninomiya asuka",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "二宮飛鳥",
+    "img": "asuka3"
   },
   {
     "card_name": "individuals",
-    "name_jp": "星輝子",
-    "name_kr": "星輝子",
-    "name_en": "星輝子",
+    "name_jp": "ほししょうこ",
+    "name_kr": "호시 쇼코",
+    "name_en": "hoshi syoko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "星輝子",
+    "img": "syoko3"
   },
   {
     "card_name": "羽衣小町",
-    "name_jp": "小早川紗枝",
-    "name_kr": "小早川紗枝",
-    "name_en": "小早川紗枝",
+    "name_jp": "こばやかわさえ",
+    "name_kr": "코바야카와 사에",
+    "name_en": "kobayakawa sae",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "小早川紗枝",
+    "img": "sae3"
   },
   {
     "card_name": "individuals",
-    "name_jp": "森久保乃々",
-    "name_kr": "森久保乃々",
-    "name_en": "森久保乃々",
+    "name_jp": "もりくぼのの",
+    "name_kr": "모리쿠보 노노",
+    "name_en": "morikubo nono",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "森久保乃々",
+    "img": "nono3"
   },
   {
     "card_name": "聖夜の約束",
-    "name_jp": "三船美優",
-    "name_kr": "三船美優",
-    "name_en": "三船美優",
+    "name_jp": "みふねみゆ",
+    "name_kr": "미후네 미유",
+    "name_en": "mifune miyu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三船美優",
+    "img": "miyu3"
   },
   {
     "card_name": "キラピカ☆ホーリーナイト",
-    "name_jp": "城ヶ崎莉嘉",
-    "name_kr": "城ヶ崎莉嘉",
-    "name_en": "城ヶ崎莉嘉",
+    "name_jp": "じょうがさきりか",
+    "name_kr": "죠가사키 리카",
+    "name_en": "jougasaki rika",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "城ヶ崎莉嘉",
+    "img": "rika3"
   },
   {
     "card_name": "individuals",
-    "name_jp": "早坂美玲",
-    "name_kr": "早坂美玲",
-    "name_en": "早坂美玲",
+    "name_jp": "はやさかみれい",
+    "name_kr": "하야사카 미레이",
+    "name_en": "hayasaka mirei",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "早坂美玲",
+    "img": "mirei3"
   },
   {
     "card_name": "ウォーミング・ハート",
-    "name_jp": "アナスタシア",
-    "name_kr": "アナスタシア",
-    "name_en": "アナスタシア",
+    "name_jp": "あなすたしあ",
+    "name_kr": "아나스타샤",
+    "name_en": "anastasia",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "アナスタシア",
+    "img": "anastasia4"
   },
   {
     "card_name": "ミラクルホーリーナイト",
-    "name_jp": "イヴ・サンタクロース",
-    "name_kr": "イヴ・サンタクロース",
-    "name_en": "イヴ・サンタクロース",
+    "name_jp": "いうﾞ・さんたくろーす",
+    "name_kr": "이브 산타클로스",
+    "name_en": "eve santaclaus",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "イヴ・サンタクロース",
+    "img": "santaclaus1"
   },
   {
     "card_name": "ホワイト・ハピネス",
-    "name_jp": "緒方智絵里",
+    "name_jp": "おがたちえり",
     "name_kr": "오가타 치에리",
-    "name_en": "緒方智絵里",
+    "name_en": "ogata chieri",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "緒方智絵里",
+    "img": "chieri4"
   },
   {
     "card_name": "一夜の魔法",
-    "name_jp": "赤城みりあ",
-    "name_kr": "赤城みりあ",
-    "name_en": "赤城みりあ",
+    "name_jp": "あかぎみりあ",
+    "name_kr": "아카기 미리아",
+    "name_en": "akagi miria",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "赤城みりあ",
+    "img": "miria4"
   },
   {
     "card_name": "悠久の羽根",
-    "name_jp": "高垣楓",
-    "name_kr": "高垣楓",
-    "name_en": "高垣楓",
+    "name_jp": "たかがきかえで",
+    "name_kr": "타카가키 카에데",
+    "name_en": "takagaki kaede",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "高垣楓",
+    "img": "kaede4"
   },
   {
     "card_name": "錦雅信念",
-    "name_jp": "向井拓海",
-    "name_kr": "向井拓海",
-    "name_en": "向井拓海",
+    "name_jp": "むかいたくみ",
+    "name_kr": "무카이 타쿠미",
+    "name_en": "mukai takumi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "向井拓海",
+    "img": "takumi3"
   },
   {
     "card_name": "ディーラーズディライト",
-    "name_jp": "兵藤レナ",
-    "name_kr": "兵藤レナ",
-    "name_en": "兵藤レナ",
+    "name_jp": "ひょうどうれな",
+    "name_kr": "효도 레나",
+    "name_en": "hyodo rena",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "兵藤レナ",
+    "img": "rena1"
   },
   {
     "card_name": "羽衣小町",
-    "name_jp": "塩見周子",
+    "name_jp": "しおみしゅうこ",
     "name_kr": "시오미 슈코",
-    "name_en": "塩見周子",
+    "name_en": "shiomi syuko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "塩見周子",
+    "img": "syuko4"
   },
   {
     "card_name": "ステップ・マイ・ステップ",
-    "name_jp": "福山舞",
-    "name_kr": "福山舞",
-    "name_en": "福山舞",
+    "name_jp": "ふくやままい",
+    "name_kr": "후쿠야마 마이",
+    "name_en": "fukuyama mai",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "福山舞",
+    "img": "mai1"
   },
   {
     "card_name": "ポジティブパッション",
-    "name_jp": "本田未央",
+    "name_jp": "ほんだみお",
     "name_kr": "혼다 미오",
-    "name_en": "本田未央",
+    "name_en": "honda mio",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "本田未央",
+    "img": "mio4"
   },
   {
     "card_name": "想いプレゼント",
-    "name_jp": "佐久間まゆ",
-    "name_kr": "佐久間まゆ",
-    "name_en": "佐久間まゆ",
+    "name_jp": "さくままゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐久間まゆ",
+    "img": "mayu4"
   },
   {
     "card_name": "スウィート・ミント",
-    "name_jp": "結城晴",
-    "name_kr": "結城晴",
-    "name_en": "結城晴",
+    "name_jp": "ゆうきはる",
+    "name_kr": "유우키 하루",
+    "name_en": "yuki haru",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "結城晴",
+    "img": "haru2"
   },
   {
     "card_name": "エレガンス・プラス",
-    "name_jp": "十時愛梨",
-    "name_kr": "十時愛梨",
-    "name_en": "十時愛梨",
+    "name_jp": "とときあいり",
+    "name_kr": "토토키 아이리",
+    "name_en": "totoki airi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "十時愛梨",
+    "img": "airi4"
   },
   {
     "card_name": "イノセント・ホワイト",
-    "name_jp": "櫻井桃華",
-    "name_kr": "櫻井桃華",
-    "name_en": "櫻井桃華",
+    "name_jp": "さくらいももか",
+    "name_kr": "사쿠라이 모모카",
+    "name_en": "sakurai momoka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "櫻井桃華",
+    "img": "momoka3"
   },
   {
     "card_name": "色とりどりのゆめ",
-    "name_jp": "成宮由愛",
-    "name_kr": "成宮由愛",
-    "name_en": "成宮由愛",
+    "name_jp": "なるみやゆめ",
+    "name_kr": "나루미야 유메",
+    "name_en": "narumiya yume",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "成宮由愛",
+    "img": "yume1"
   },
   {
     "card_name": "舞台上のエレガンテ",
-    "name_jp": "松山久美子",
-    "name_kr": "松山久美子",
-    "name_en": "松山久美子",
+    "name_jp": "まつやまくみこ",
+    "name_kr": "마츠야마 쿠미코",
+    "name_en": "matsuyama kumiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "松山久美子",
+    "img": "kumiko1"
   },
   {
     "card_name": "ありすの物語",
-    "name_jp": "橘ありす",
-    "name_kr": "橘ありす",
-    "name_en": "橘ありす",
+    "name_jp": "たちばなありす",
+    "name_kr": "타치바나 아리스",
+    "name_en": "tachibana arisu",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "橘ありす",
+    "img": "arisu3"
   },
   {
     "card_name": "夜を脱いで、一小節",
-    "name_jp": "速水奏",
-    "name_kr": "速水奏",
-    "name_en": "速水奏",
+    "name_jp": "はやみかなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "速水奏",
+    "img": "kanade4"
   },
   {
     "card_name": "ラブ・ワンダー",
-    "name_jp": "大槻唯",
-    "name_kr": "大槻唯",
-    "name_en": "大槻唯",
+    "name_jp": "おおつきゆい",
+    "name_kr": "오오츠키 유이",
+    "name_en": "ootsuki yui",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "大槻唯",
+    "img": "yui4"
   },
   {
     "card_name": "しゅまいるプレゼント",
-    "name_jp": "大沼くるみ",
-    "name_kr": "大沼くるみ",
-    "name_en": "大沼くるみ",
+    "name_jp": "おおぬまくるみ",
+    "name_kr": "오오누마 쿠루미",
+    "name_en": "oonuma kurumi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "大沼くるみ",
+    "img": "kurumi1"
   },
   {
     "card_name": "Triad Primus",
-    "name_jp": "渋谷凛",
+    "name_jp": "しぶやりん",
     "name_kr": "시부야 린",
-    "name_en": "渋谷凛",
+    "name_en": "shibuya rin",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "渋谷凛",
+    "img": "rin4"
   },
   {
     "card_name": "にこにこキッチン",
-    "name_jp": "龍崎薫",
-    "name_kr": "龍崎薫",
-    "name_en": "龍崎薫",
+    "name_jp": "りゅうざきかおる",
+    "name_kr": "류자키 카오루",
+    "name_en": "ryuzaki kaoru",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "龍崎薫",
+    "img": "kaoru2"
   },
   {
     "card_name": "音色を抱きしめて",
-    "name_jp": "水本ゆかり",
-    "name_kr": "水本ゆかり",
-    "name_en": "水本ゆかり",
+    "name_jp": "みずもとゆかり",
+    "name_kr": "미즈모토 유카리",
+    "name_en": "mizumoto yukari",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "水本ゆかり",
+    "img": "yukari2"
   },
   {
     "card_name": "あんず色の青春",
-    "name_jp": "双葉杏",
-    "name_kr": "双葉杏",
-    "name_en": "双葉杏",
+    "name_jp": "ふたばあんず",
+    "name_kr": "후타바 안즈",
+    "name_en": "futaba anzu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "双葉杏",
+    "img": "anzu4"
   },
   {
     "card_name": "ぴかぴかのさくらぐみ♪",
-    "name_jp": "市原仁奈",
-    "name_kr": "市原仁奈",
-    "name_en": "市原仁奈",
+    "name_jp": "いちはらにな",
+    "name_kr": "이치하라 니나",
+    "name_en": "ichihara nina",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "市原仁奈",
+    "img": "nina3"
   },
   {
     "card_name": "無限大オーバーフロー",
-    "name_jp": "真鍋いつき",
-    "name_kr": "真鍋いつき",
-    "name_en": "真鍋いつき",
+    "name_jp": "まなべいつき",
+    "name_kr": "마나베 이츠키",
+    "name_en": "manabe itsuki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "真鍋いつき",
+    "img": "itsuki1"
   },
   {
     "card_name": "ブランニュー・ビート",
-    "name_jp": "多田李衣菜",
-    "name_kr": "多田李衣菜",
-    "name_en": "多田李衣菜",
+    "name_jp": "ただりいな",
+    "name_kr": "타다 리이나",
+    "name_en": "tada riina",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "多田李衣菜",
+    "img": "riina4"
   },
   {
     "card_name": "緋薔薇の令嬢",
-    "name_jp": "黒埼ちとせ",
-    "name_kr": "黒埼ちとせ",
-    "name_en": "黒埼ちとせ",
+    "name_jp": "くろさきちとせ",
+    "name_kr": "쿠로사키 치토세",
+    "name_en": "kurosaki chitose",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "黒埼ちとせ",
+    "img": "chitose1"
   },
   {
     "card_name": "白面の騎士",
-    "name_jp": "白雪千夜",
-    "name_kr": "白雪千夜",
-    "name_en": "白雪千夜",
+    "name_jp": "しらゆきちよ",
+    "name_kr": "시라유키 치요",
+    "name_en": "shirayuki chiyo",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "白雪千夜",
+    "img": "chiyo1"
   },
   {
     "card_name": "ノブレス・ノワール",
-    "name_jp": "黒川千秋",
-    "name_kr": "黒川千秋",
-    "name_en": "黒川千秋",
+    "name_jp": "くろかわちあき",
+    "name_kr": "쿠로카와 치아키",
+    "name_en": "kurokawa chiaki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "黒川千秋",
+    "img": "chiaki1"
   },
   {
     "card_name": "日向の乙女",
-    "name_jp": "小日向美穂",
-    "name_kr": "小日向美穂",
-    "name_en": "小日向美穂",
+    "name_jp": "こひなたみほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "小日向美穂",
+    "img": "miho4"
   },
   {
     "card_name": "ほの甘いロマンス",
-    "name_jp": "三村かな子",
-    "name_kr": "三村かな子",
-    "name_en": "三村かな子",
+    "name_jp": "みむらかなこ",
+    "name_kr": "미무라 카나코",
+    "name_en": "mimura kanako",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三村かな子",
+    "img": "kanako4"
   },
   {
     "card_name": "朱華色の夢",
-    "name_jp": "藤原肇",
-    "name_kr": "藤原肇",
-    "name_en": "藤原肇",
+    "name_jp": "ふじわらはじめ",
+    "name_kr": "후지와라 하지메",
+    "name_en": "fujiwara hajime",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "藤原肇",
+    "img": "hajime3"
   },
   {
     "card_name": "星へのピチカート",
-    "name_jp": "涼宮星花",
-    "name_kr": "涼宮星花",
-    "name_en": "涼宮星花",
+    "name_jp": "すずみやせいか",
+    "name_kr": "스즈미야 세이카",
+    "name_en": "suzumiya seika",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "涼宮星花",
+    "img": "seika1"
   },
   {
     "card_name": "オンタイム・ハーモニー",
-    "name_jp": "久川颯",
-    "name_kr": "久川颯",
-    "name_en": "久川颯",
+    "name_jp": "ひさかわはやて",
+    "name_kr": "히사카와 하야테",
+    "name_en": "hisakawa hayate",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "久川颯",
+    "img": "hayate1"
   },
   {
     "card_name": "オフタイム・ナギルーム",
-    "name_jp": "久川凪",
-    "name_kr": "久川凪",
-    "name_en": "久川凪",
+    "name_jp": "ひさかわなぎ",
+    "name_kr": "히사카와 나기",
+    "name_en": "hisakawa nagi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "久川凪",
+    "img": "nagi1"
   },
   {
     "card_name": "歓びのアティチュード",
-    "name_jp": "綾瀬穂乃香",
-    "name_kr": "綾瀬穂乃香",
-    "name_en": "綾瀬穂乃香",
+    "name_jp": "あやせほのか",
+    "name_kr": "아야세 호노카",
+    "name_en": "ayase honoka",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "綾瀬穂乃香",
+    "img": "honoka1"
   },
   {
     "card_name": "いっぱいの感謝",
-    "name_jp": "相原雪乃",
-    "name_kr": "相原雪乃",
-    "name_en": "相原雪乃",
+    "name_jp": "あいはらゆきの",
+    "name_kr": "아이하라 유키노",
+    "name_en": "aihara yukino",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "相原雪乃",
+    "img": "yukino1"
   },
   {
     "card_name": "ル・マリアージュ",
-    "name_jp": "宮本フレデリカ",
-    "name_kr": "宮本フレデリカ",
-    "name_en": "宮本フレデリカ",
+    "name_jp": "みやもとふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "宮本フレデリカ",
+    "img": "frederica4"
   },
   {
     "card_name": "約束のまなざし",
-    "name_jp": "城ヶ崎美嘉",
-    "name_kr": "城ヶ崎美嘉",
-    "name_en": "城ヶ崎美嘉",
+    "name_jp": "じょうがさきみか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "城ヶ崎美嘉",
+    "img": "mika4"
   },
   {
     "card_name": "エール・フォー・オール",
-    "name_jp": "若林智香",
-    "name_kr": "若林智香",
-    "name_en": "若林智香",
+    "name_jp": "わかばやしともか",
+    "name_kr": "와카바야시 토모카",
+    "name_en": "wakabayashi tomoka",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "若林智香",
+    "img": "tomoka1"
   },
   {
     "card_name": "わたし色の羽根で",
-    "name_jp": "白菊ほたる",
-    "name_kr": "白菊ほたる",
-    "name_en": "白菊ほたる",
+    "name_jp": "しらぎくほたる",
+    "name_kr": "시라기쿠 호타루",
+    "name_en": "shiragiku hotaru",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "白菊ほたる",
+    "img": "hotaru2"
   },
   {
     "card_name": "ほわあまプリンセス",
-    "name_jp": "榊原里美",
-    "name_kr": "榊原里美",
-    "name_en": "榊原里美",
+    "name_jp": "さかきばらさとみ",
+    "name_kr": "사카키바라 사토미",
+    "name_en": "sakakibara satomi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "榊原里美",
+    "img": "satomi1"
   },
   {
     "card_name": "アップビート・ラン",
-    "name_jp": "北川真尋",
-    "name_kr": "北川真尋",
-    "name_en": "北川真尋",
+    "name_jp": "きたがわまひろ",
+    "name_kr": "키타가와 마히로",
+    "name_en": "kitagawa mahiro",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "北川真尋",
+    "img": "mahiro1"
   },
   {
     "card_name": "アドバンス・アバンチュール",
-    "name_jp": "川島瑞樹",
-    "name_kr": "川島瑞樹",
-    "name_en": "川島瑞樹",
+    "name_jp": "かわしまみずき",
+    "name_kr": "카와시마 미즈키",
+    "name_en": "kawashima mizuki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "川島瑞樹",
+    "img": "mizuki3"
   },
   {
     "card_name": "潮風の一頁",
-    "name_jp": "鷺沢文香",
-    "name_kr": "鷺沢文香",
-    "name_en": "鷺沢文香",
+    "name_jp": "さぎさわふみか",
+    "name_kr": "사기사와 후미카",
+    "name_en": "sagisawa fumika",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "鷺沢文香",
+    "img": "fumika4"
   },
   {
     "card_name": "夜の一輪",
-    "name_jp": "相葉夕美",
-    "name_kr": "相葉夕美",
-    "name_en": "相葉夕美",
+    "name_jp": "あいばゆみ",
+    "name_kr": "아이바 유미",
+    "name_en": "aiba yumi",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "相葉夕美",
+    "img": "yumi4"
   },
   {
     "card_name": "星逢う夜に",
-    "name_jp": "鷹富士茄子",
-    "name_kr": "鷹富士茄子",
-    "name_en": "鷹富士茄子",
+    "name_jp": "たかふじかこ",
+    "name_kr": "타카후지 카코",
+    "name_en": "takafuji kako",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "鷹富士茄子",
+    "img": "kako3"
   },
   {
     "card_name": "彩☆きっく乙女",
-    "name_jp": "堀裕子",
-    "name_kr": "堀裕子",
-    "name_en": "堀裕子",
+    "name_jp": "ほりゆうこ",
+    "name_kr": "호리 유코",
+    "name_en": "hori yuko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "堀裕子",
+    "img": "yuko3"
   },
   {
     "card_name": "おめかし☆あかりんご",
-    "name_jp": "辻野あかり",
-    "name_kr": "辻野あかり",
-    "name_en": "辻野あかり",
+    "name_jp": "つじのあかり",
+    "name_kr": "츠지노 아카리",
+    "name_en": "tsujino akari",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "辻野あかり",
+    "img": "akari1"
   },
   {
     "card_name": "夜更けに咲く才媛",
-    "name_jp": "和久井留美",
-    "name_kr": "和久井留美",
-    "name_en": "和久井留美",
+    "name_jp": "わくいるみ",
+    "name_kr": "와쿠이 루미",
+    "name_en": "wakui rumi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "和久井留美",
+    "img": "rumi1"
   },
   {
     "card_name": "想いは深く、歌声は遠く",
-    "name_jp": "瀬名詩織",
-    "name_kr": "瀬名詩織",
-    "name_en": "瀬名詩織",
+    "name_jp": "せなしおり",
+    "name_kr": "세나 시오리",
+    "name_en": "sena shiori",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "瀬名詩織",
+    "img": "shiori1"
   },
   {
     "card_name": "エキゾチックプレイヤー",
-    "name_jp": "杉坂海",
-    "name_kr": "杉坂海",
-    "name_en": "杉坂海",
+    "name_jp": "すぎさかうみ",
+    "name_kr": "스기사카 우미",
+    "name_en": "sugisaka umi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "杉坂海",
+    "img": "umi1"
   },
   {
     "card_name": "カントリー・ステップ",
-    "name_jp": "関裕美",
-    "name_kr": "関裕美",
-    "name_en": "関裕美",
+    "name_jp": "せきひろみ",
+    "name_kr": "세키 히로미",
+    "name_en": "seki hiromi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "関裕美",
+    "img": "hiromi3"
   },
   {
     "card_name": "レットイットキュート ! ",
-    "name_jp": "メアリー・コクラン",
-    "name_kr": "メアリー・コクラン",
-    "name_en": "メアリー・コクラン",
+    "name_jp": "めありー・こくらん",
+    "name_kr": "메어리 코크란",
+    "name_en": "mary cochran",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "メアリー・コクラン",
+    "img": "cochran1"
   },
   {
     "card_name": "夏色☆サニーデイ",
-    "name_jp": "乙倉悠貴",
-    "name_kr": "乙倉悠貴",
-    "name_en": "乙倉悠貴",
+    "name_jp": "おとくらゆうき",
+    "name_kr": "오토쿠라 유우키",
+    "name_en": "otokura yuuki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "乙倉悠貴",
+    "img": "yuuki4"
   },
   {
     "card_name": "サンセットヴィーナス",
-    "name_jp": "三船美優",
-    "name_kr": "三船美優",
-    "name_en": "三船美優",
+    "name_jp": "みふねみゆ",
+    "name_kr": "미후네 미유",
+    "name_en": "mifune miyu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三船美優",
+    "img": "miyu4"
   },
   {
     "card_name": "全力全開 ! サマーサプライズ",
-    "name_jp": "姫川友紀",
-    "name_kr": "姫川友紀",
-    "name_en": "姫川友紀",
+    "name_jp": "ひめかわゆき",
+    "name_kr": "히메카와 유키",
+    "name_en": "himekawa yuki",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "姫川友紀",
+    "img": "yuki3"
   },
   {
     "card_name": "ユリユリフェスティバル",
-    "name_jp": "大西由里子",
-    "name_kr": "大西由里子",
-    "name_en": "大西由里子",
+    "name_jp": "おおにしゆりこ",
+    "name_kr": "오오니시 유리코",
+    "name_en": "oonishi yuriko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "大西由里子",
+    "img": "yuriko1"
   },
   {
     "card_name": "ライフ・オンライン",
-    "name_jp": "砂塚あきら",
-    "name_kr": "砂塚あきら",
-    "name_en": "砂塚あきら",
+    "name_jp": "すなづかあきら",
+    "name_kr": "스나즈카 아키라",
+    "name_en": "sunazuka akira",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "砂塚あきら",
+    "img": "akira1"
   },
   {
     "card_name": "プールサイド・マーメイド",
-    "name_jp": "西島櫂",
-    "name_kr": "西島櫂",
-    "name_en": "西島櫂",
+    "name_jp": "にしじまかい",
+    "name_kr": "니시지마 카이",
+    "name_en": "nishijima kai",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "西島櫂",
+    "img": "kai1"
   },
   {
     "card_name": "トップ・オブ・ウェーブ",
-    "name_jp": "沢田麻理菜",
-    "name_kr": "沢田麻理菜",
-    "name_en": "沢田麻理菜",
+    "name_jp": "さわだまりな",
+    "name_kr": "사와다 마리나",
+    "name_en": "sawada marina",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "沢田麻理菜",
+    "img": "marina1"
   },
   {
     "card_name": "プロミネンス・プライド",
-    "name_jp": "北条加蓮",
-    "name_kr": "北条加蓮",
-    "name_en": "北条加蓮",
+    "name_jp": "ほうじょうかれん",
+    "name_kr": "호죠 카렌",
+    "name_en": "hojo karen",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "北条加蓮",
+    "img": "karen4"
   },
   {
     "card_name": "トゥルー・ドリーム",
-    "name_jp": "喜多日菜子",
-    "name_kr": "喜多日菜子",
-    "name_en": "喜多日菜子",
+    "name_jp": "きたひなこ",
+    "name_kr": "키타 히나코",
+    "name_en": "kita hinako",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "喜多日菜子",
+    "img": "hinako3"
   },
   {
     "card_name": "ドレスアップ☆ウサミン",
-    "name_jp": "安部菜々",
-    "name_kr": "安部菜々",
-    "name_en": "安部菜々",
+    "name_jp": "あべなな",
+    "name_kr": "아베 나나",
+    "name_en": "abe nana",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "安部菜々",
+    "img": "nana4"
   },
   {
     "card_name": "祝宴の白姫",
-    "name_jp": "神崎蘭子",
-    "name_kr": "神崎蘭子",
-    "name_en": "神崎蘭子",
+    "name_jp": "かんざきらんこ",
+    "name_kr": "칸자키 란코",
+    "name_en": "kanzaki ranko",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "神崎蘭子",
+    "img": "ranko4"
   },
   {
     "card_name": "軌跡のギフト",
-    "name_jp": "日野茜",
-    "name_kr": "日野茜",
-    "name_en": "日野茜",
+    "name_jp": "ひのあかね",
+    "name_kr": "히노 아카네",
+    "name_en": "hino akane",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "日野茜",
+    "img": "akane3"
   },
   {
     "card_name": "夢見りあむは救われたい",
-    "name_jp": "夢見りあむ",
-    "name_kr": "夢見りあむ",
-    "name_en": "夢見りあむ",
+    "name_jp": "ゆめみりあむ",
+    "name_kr": "유메미 리아무",
+    "name_en": "yumemi riamu",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "夢見りあむ",
+    "img": "riamu1"
   },
   {
     "card_name": "風のゆくさき",
-    "name_jp": "浅野風香",
-    "name_kr": "浅野風香",
-    "name_en": "浅野風香",
+    "name_jp": "あさのふうか",
+    "name_kr": "아사노 후카",
+    "name_en": "asano fuuka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "浅野風香",
+    "img": "fuuka1"
   },
   {
     "card_name": "幸せのお告げ",
-    "name_jp": "藤居朋",
-    "name_kr": "藤居朋",
-    "name_en": "藤居朋",
+    "name_jp": "ふじいとも",
+    "name_kr": "후지이 토모",
+    "name_en": "fujii tomo",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "藤居朋",
+    "img": "tomo1"
   },
   {
     "card_name": "ブラッシング・ユー ! ",
-    "name_jp": "太田優",
-    "name_kr": "太田優",
-    "name_en": "太田優",
+    "name_jp": "おおたゆう",
+    "name_kr": "오오타 유우",
+    "name_en": "ohta yuu",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "太田優",
+    "img": "yuu1"
   },
   {
     "card_name": "重ねた手と日々",
-    "name_jp": "佐城雪美",
-    "name_kr": "佐城雪美",
-    "name_en": "佐城雪美",
+    "name_jp": "さじょうゆきみ",
+    "name_kr": "사죠 유키미",
+    "name_en": "sajo yukimi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐城雪美",
+    "img": "yukimi2"
   },
   {
     "card_name": "いたずらキャット大集合♪",
-    "name_jp": "椎名法子",
-    "name_kr": "椎名法子",
-    "name_en": "椎名法子",
+    "name_jp": "しいなのりこ",
+    "name_kr": "시이나 노리코",
+    "name_en": "shiina noriko",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "椎名法子",
+    "img": "noriko2"
   },
   {
     "card_name": "魔性の夜会",
-    "name_jp": "神谷奈緒",
-    "name_kr": "神谷奈緒",
-    "name_en": "神谷奈緒",
+    "name_jp": "かみやなお",
+    "name_kr": "카미야 나오",
+    "name_en": "kamiya nao",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "神谷奈緒",
+    "img": "nao4"
   },
   {
     "card_name": "ヒーローオブシャドウ",
-    "name_jp": "南条光",
-    "name_kr": "南条光",
-    "name_en": "南条光",
+    "name_jp": "なんじょうひかる",
+    "name_kr": "난죠 히카루",
+    "name_en": "nanjo hikaru",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "南条光",
+    "img": "hikaru2"
   },
   {
     "card_name": "学び舎のペルソナ",
-    "name_jp": "八神マキノ",
-    "name_kr": "八神マキノ",
-    "name_en": "八神マキノ",
+    "name_jp": "やがみまきの",
+    "name_kr": "야가미 마키노",
+    "name_en": "yagami makino",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "八神マキノ",
+    "img": "makino2"
   },
   {
     "card_name": "みんなの人気者",
-    "name_jp": "赤西瑛梨華",
-    "name_kr": "赤西瑛梨華",
-    "name_en": "赤西瑛梨華",
+    "name_jp": "あかにしえりか",
+    "name_kr": "아카니시 에리카",
+    "name_en": "akanishi erika",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "赤西瑛梨華",
+    "img": "erika1"
   },
   {
     "card_name": "笑いの中心",
-    "name_jp": "キャシー・グラハム",
-    "name_kr": "キャシー・グラハム",
-    "name_en": "キャシー・グラハム",
+    "name_jp": "きゃしー・ぐらはむ",
+    "name_kr": "캐시 그라함",
+    "name_en": "cathy graham",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "キャシー・グラハム",
+    "img": "graham1"
   },
   {
     "card_name": "戦国愛☆一代",
-    "name_jp": "丹羽仁美",
-    "name_kr": "丹羽仁美",
-    "name_en": "丹羽仁美",
+    "name_jp": "にわひとみ",
+    "name_kr": "니와 히토미",
+    "name_en": "niwa hitomi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "丹羽仁美",
+    "img": "hitomi1"
   },
   {
     "card_name": "喝采のディーヴァ",
-    "name_jp": "西川保奈美",
-    "name_kr": "西川保奈美",
-    "name_en": "西川保奈美",
+    "name_jp": "にしかわほなみ",
+    "name_kr": "니시카와 호나미",
+    "name_en": "nishikawa honami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "西川保奈美",
+    "img": "honami1"
   },
   {
     "card_name": "風まとう光",
-    "name_jp": "小早川紗枝",
-    "name_kr": "小早川紗枝",
-    "name_en": "小早川紗枝",
+    "name_jp": "こばやかわさえ",
+    "name_kr": "코바야카와 사에",
+    "name_en": "kobayakawa sae",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "小早川紗枝",
+    "img": "sae4"
   },
   {
     "card_name": "清澄のエッセンス",
-    "name_jp": "一ノ瀬志希",
-    "name_kr": "一ノ瀬志希",
-    "name_en": "一ノ瀬志希",
+    "name_jp": "いちのせしき",
+    "name_kr": "이치노세 시키",
+    "name_en": "ichinose shiki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "一ノ瀬志希",
+    "img": "shiki4"
   },
   {
     "card_name": "ワンマン・アイドルタイム",
-    "name_jp": "桐生つかさ",
-    "name_kr": "桐生つかさ",
-    "name_en": "桐生つかさ",
+    "name_jp": "きりゅうつかさ",
+    "name_kr": "키류 츠카사",
+    "name_en": "kiryu tsukasa",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "桐生つかさ",
+    "img": "tsukasa2"
   },
   {
     "card_name": "キノコがいっぱい",
-    "name_jp": "星輝子",
-    "name_kr": "星輝子",
-    "name_en": "星輝子",
+    "name_jp": "ほししょうこ",
+    "name_kr": "호시 쇼코",
+    "name_en": "hoshi syoko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "星輝子",
+    "img": "syoko4"
   },
   {
     "card_name": "華美爛漫",
-    "name_jp": "楊菲菲",
-    "name_kr": "楊菲菲",
-    "name_en": "楊菲菲",
+    "name_jp": "やおふぇいふぇい",
+    "name_kr": "야오 페이페이",
+    "name_en": "yao feifei",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "楊菲菲",
+    "img": "feifei1"
   },
   {
     "card_name": "モード・ラフィネ",
-    "name_jp": "相川千夏",
-    "name_kr": "相川千夏",
-    "name_en": "相川千夏",
+    "name_jp": "あいかわちなつ",
+    "name_kr": "아이카와 치나츠",
+    "name_en": "aikawa chinatsu",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "相川千夏",
+    "img": "chinatsu1"
   },
   {
     "card_name": "ライジングビート",
-    "name_jp": "仙崎恵磨",
-    "name_kr": "仙崎恵磨",
-    "name_en": "仙崎恵磨",
+    "name_jp": "せんざきえま",
+    "name_kr": "센자키 에마",
+    "name_en": "senzaki ema",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "仙崎恵磨",
+    "img": "ema1"
   },
   {
     "card_name": "ライフイズアート",
-    "name_jp": "吉岡沙紀",
-    "name_kr": "吉岡沙紀",
-    "name_en": "吉岡沙紀",
+    "name_jp": "よしおかさき",
+    "name_kr": "요시오카 사키",
+    "name_en": "yoshioka saki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "吉岡沙紀",
+    "img": "saki1"
   },
   {
     "card_name": "こずえからみんなへ",
-    "name_jp": "遊佐こずえ",
-    "name_kr": "遊佐こずえ",
-    "name_en": "遊佐こずえ",
+    "name_jp": "ゆさこずえ",
+    "name_kr": "유사 코즈에",
+    "name_en": "yusa kozue",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "遊佐こずえ",
+    "img": "kozue2"
   },
   {
     "card_name": "スウィートハートロマンス",
-    "name_jp": "五十嵐響子",
-    "name_kr": "五十嵐響子",
-    "name_en": "五十嵐響子",
+    "name_jp": "いがらしきょうこ",
+    "name_kr": "이가라시 쿄코",
+    "name_en": "igarashi kyoko",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "五十嵐響子",
+    "img": "kyoko4"
   },
   {
     "card_name": "ホワイトスノードール",
-    "name_jp": "白坂小梅",
-    "name_kr": "白坂小梅",
-    "name_en": "白坂小梅",
+    "name_jp": "しらさかこうめ",
+    "name_kr": "시라사카 코우메",
+    "name_en": "shirasaka koume",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "白坂小梅",
+    "img": "koume3"
   },
   {
     "card_name": "フリータイム☆クリスマス",
-    "name_jp": "喜多見柚",
-    "name_kr": "喜多見柚",
-    "name_en": "喜多見柚",
+    "name_jp": "きたみゆず",
+    "name_kr": "키타미 유즈",
+    "name_en": "kitami yuzu",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "喜多見柚",
+    "img": "yuzu3"
   },
   {
     "card_name": "トワ・エ・モワ",
-    "name_jp": "柊志乃",
-    "name_kr": "柊志乃",
-    "name_en": "柊志乃",
+    "name_jp": "ひいらぎしの",
+    "name_kr": "히이라기 시노",
+    "name_en": "hiiragi shino",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "柊志乃",
+    "img": "shino1"
   },
   {
     "card_name": "アットホーム・マイルーツ",
-    "name_jp": "ナターリア",
-    "name_kr": "ナターリア",
-    "name_en": "ナターリア",
+    "name_jp": "なたーりあ",
+    "name_kr": "나탈리아",
+    "name_en": "natalia",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "ナターリア",
+    "img": "natalia2"
   },
   {
     "card_name": "私に恋をする私",
-    "name_jp": "井村雪菜",
-    "name_kr": "井村雪菜",
-    "name_en": "井村雪菜",
+    "name_jp": "いむらせつな",
+    "name_kr": "이무라 세츠나",
+    "name_en": "imura setsuna",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "井村雪菜",
+    "img": "setsuna1"
   },
   {
     "card_name": "聖歌の天使",
-    "name_jp": "望月聖",
-    "name_kr": "望月聖",
-    "name_en": "望月聖",
+    "name_jp": "もちづきひじり",
+    "name_kr": "모치즈키 히지리",
+    "name_en": "mochizuki hijiri",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "望月聖",
+    "img": "hijiri1"
   },
   {
     "card_name": "エクステンド・ワールド",
-    "name_jp": "二宮飛鳥",
-    "name_kr": "二宮飛鳥",
-    "name_en": "二宮飛鳥",
+    "name_jp": "にのみやあすか",
+    "name_kr": "니노미야 아스카",
+    "name_en": "ninomiya asuka",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "二宮飛鳥",
+    "img": "asuka4"
   },
   {
     "card_name": "トキメキ☆ラブハート",
-    "name_jp": "城ヶ崎莉嘉",
-    "name_kr": "城ヶ崎莉嘉",
-    "name_en": "城ヶ崎莉嘉",
+    "name_jp": "じょうがさきりか",
+    "name_kr": "죠가사키 리카",
+    "name_en": "jougasaki rika",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "城ヶ崎莉嘉",
+    "img": "rika4"
   },
   {
     "card_name": "ハッピーにゃーイヤー",
-    "name_jp": "前川みく",
-    "name_kr": "前川みく",
-    "name_en": "前川みく",
+    "name_jp": "まえかわみく",
+    "name_kr": "마에카와 미쿠",
+    "name_en": "maekawa miku",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "前川みく",
+    "img": "miku4"
   },
   {
     "card_name": "一歩ずつ前へ",
-    "name_jp": "森久保乃々",
-    "name_kr": "森久保乃々",
-    "name_en": "森久保乃々",
+    "name_jp": "もりくぼのの",
+    "name_kr": "모리쿠보 노노",
+    "name_en": "morikubo nono",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "森久保乃々",
+    "img": "nono4"
   },
   {
     "card_name": "心躍る新春",
-    "name_jp": "村上巴",
-    "name_kr": "村上巴",
-    "name_en": "村上巴",
+    "name_jp": "むらかみともえ",
+    "name_kr": "무라카미 토모에",
+    "name_en": "murakami tomoe",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "村上巴",
+    "img": "tomoe3"
   },
   {
     "card_name": "影に揺れる光",
-    "name_jp": "服部瞳子",
-    "name_kr": "服部瞳子",
-    "name_en": "服部瞳子",
+    "name_jp": "はっとりとうこ",
+    "name_kr": "핫토리 토코",
+    "name_en": "hattori toko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "服部瞳子",
+    "img": "toko1"
   },
   {
     "card_name": "ごーごー ! すまいらー ! ! ",
-    "name_jp": "野々村そら",
-    "name_kr": "野々村そら",
-    "name_en": "野々村そら",
+    "name_jp": "ののむらそら",
+    "name_kr": "노노무라 소라",
+    "name_en": "nonomura sora",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "野々村そら",
+    "img": "sora1"
   },
   {
     "card_name": "みんなのお姉さん",
-    "name_jp": "持田亜里沙",
-    "name_kr": "持田亜里沙",
-    "name_en": "持田亜里沙",
+    "name_jp": "もちだありさ",
+    "name_kr": "모치다 아리사",
+    "name_en": "mochida arisa",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "持田亜里沙",
+    "img": "arisa1"
   },
   {
     "card_name": "あの日の私を受け止めて",
-    "name_jp": "岡崎泰葉",
-    "name_kr": "岡崎泰葉",
-    "name_en": "岡崎泰葉",
+    "name_jp": "おかざきやすは",
+    "name_kr": "오카자키 야스하",
+    "name_en": "okazaki yasuha",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "岡崎泰葉",
+    "img": "yasuha1"
   },
   {
     "card_name": "スペシャルセクシー",
-    "name_jp": "松本沙理奈",
-    "name_kr": "松本沙理奈",
-    "name_en": "松本沙理奈",
+    "name_jp": "まつもとさりな",
+    "name_kr": "마츠모토 사리나",
+    "name_en": "matsumoto sarina",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "松本沙理奈",
+    "img": "sarina1"
   },
   {
     "card_name": "見つめて★レディ",
-    "name_jp": "的場梨沙",
-    "name_kr": "的場梨沙",
-    "name_en": "的場梨沙",
+    "name_jp": "まとばりさ",
+    "name_kr": "마토바 리사",
+    "name_en": "matoba risa",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "的場梨沙",
+    "img": "risa2"
   },
   {
     "card_name": "想いのアンサンブル",
-    "name_jp": "水本ゆかり",
-    "name_kr": "水本ゆかり",
-    "name_en": "水本ゆかり",
+    "name_jp": "みずもとゆかり",
+    "name_kr": "미즈모토 유카리",
+    "name_en": "mizumoto yukari",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "水本ゆかり",
+    "img": "yukari3"
   },
   {
     "card_name": "ご注文はひなですか？",
-    "name_jp": "荒木比奈",
-    "name_kr": "荒木比奈",
-    "name_en": "荒木比奈",
+    "name_jp": "あらきひな",
+    "name_kr": "아라키 히나",
+    "name_en": "araki hina",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "荒木比奈",
+    "img": "hina3"
   },
   {
     "card_name": "ラグジュアリィ・はぁと",
-    "name_jp": "佐藤心",
-    "name_kr": "佐藤心",
-    "name_en": "佐藤心",
+    "name_jp": "さとうしん",
+    "name_kr": "사토 신",
+    "name_en": "sato shin",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐藤心",
+    "img": "shin4"
   },
   {
     "card_name": "あるがまま咲く花",
-    "name_jp": "江上椿",
-    "name_kr": "江上椿",
-    "name_en": "江上椿",
+    "name_jp": "えがみつばき",
+    "name_kr": "에가미 츠바키",
+    "name_en": "egami tsubaki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "江上椿",
+    "img": "tsubaki1"
   },
   {
     "card_name": "マックスビューティー",
-    "name_jp": "斉藤洋子",
-    "name_kr": "斉藤洋子",
-    "name_en": "斉藤洋子",
+    "name_jp": "さいとうようこ",
+    "name_kr": "사이토 요코",
+    "name_en": "saito yoko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "斉藤洋子",
+    "img": "yoko1"
   },
   {
     "card_name": "早耶の瞳に恋してる",
-    "name_jp": "松原早耶",
-    "name_kr": "松原早耶",
-    "name_en": "松原早耶",
+    "name_jp": "まつばらさや",
+    "name_kr": "마츠바라 사야",
+    "name_en": "matsubara saya",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "松原早耶",
+    "img": "saya1"
   },
   {
     "card_name": "みゆきとあそぼ ! ",
-    "name_jp": "柳瀬美由紀",
-    "name_kr": "柳瀬美由紀",
-    "name_en": "柳瀬美由紀",
+    "name_jp": "やなせみゆき",
+    "name_kr": "야나세 미유키",
+    "name_en": "yanase miyuki",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "柳瀬美由紀",
+    "img": "miyuki1"
   },
   {
     "card_name": "華麗なパピヨン",
-    "name_jp": "岸部彩華",
-    "name_kr": "岸部彩華",
-    "name_en": "岸部彩華",
+    "name_jp": "きしべあやか",
+    "name_kr": "키시베 아야카",
+    "name_en": "kishibe ayaka",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "岸部彩華",
+    "img": "ayaka1"
   },
   {
     "card_name": "黒薔薇は小夜に咲く",
-    "name_jp": "櫻井桃華",
-    "name_kr": "櫻井桃華",
-    "name_en": "櫻井桃華",
+    "name_jp": "さくらいももか",
+    "name_kr": "사쿠라이 모모카",
+    "name_en": "sakurai momoka",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "櫻井桃華",
+    "img": "momoka4"
   },
   {
     "card_name": "おとぎの国のものがたり",
-    "name_jp": "市原仁奈",
-    "name_kr": "市原仁奈",
-    "name_en": "市原仁奈",
+    "name_jp": "いちはらにな",
+    "name_kr": "이치하라 니나",
+    "name_en": "ichihara nina",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "市原仁奈",
+    "img": "nina4"
   },
   {
     "card_name": "ひとり、時は過ぎて",
-    "name_jp": "白雪千夜",
-    "name_kr": "白雪千夜",
-    "name_en": "白雪千夜",
+    "name_jp": "しらゆきちよ",
+    "name_kr": "시라유키 치요",
+    "name_en": "shirayuki chiyo",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "白雪千夜",
+    "img": "chiyo2"
   },
   {
     "card_name": "ビギニング・スカイ",
-    "name_jp": "橘ありす",
-    "name_kr": "橘ありす",
-    "name_en": "橘ありす",
+    "name_jp": "たちばなありす",
+    "name_kr": "타치바나 아리스",
+    "name_en": "tachibana arisu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "橘ありす",
+    "img": "arisu4"
   },
   {
     "card_name": "わるなぎスタイル",
-    "name_jp": "久川凪",
-    "name_kr": "久川凪",
-    "name_en": "久川凪",
+    "name_jp": "ひさかわなぎ",
+    "name_kr": "히사카와 나기",
+    "name_en": "hisakawa nagi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "久川凪",
+    "img": "nagi2"
   },
   {
     "card_name": "トゥインクル☆ラブリー",
-    "name_jp": "横山千佳",
-    "name_kr": "横山千佳",
-    "name_en": "横山千佳",
+    "name_jp": "よこやまちか",
+    "name_kr": "요코야마 치카",
+    "name_en": "yokoyama chika",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "横山千佳",
+    "img": "chika1"
   },
   {
     "card_name": "愛・ビリーブ",
-    "name_jp": "有浦柑奈",
-    "name_kr": "有浦柑奈",
-    "name_en": "有浦柑奈",
+    "name_jp": "ありうらかんな",
+    "name_kr": "아리우라 칸나",
+    "name_en": "ariura kanna",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "有浦柑奈",
+    "img": "kanna1"
   },
   {
     "card_name": "憧れのメドレー",
-    "name_jp": "長富蓮実",
-    "name_kr": "長富蓮実",
-    "name_en": "長富蓮実",
+    "name_jp": "ながとみはすみ",
+    "name_kr": "나가토미 하스미",
+    "name_en": "nagatomi hasumi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "長富蓮実",
+    "img": "hasumi1"
   },
   {
     "card_name": "あたしコーディネート",
-    "name_jp": "衛藤美紗希",
-    "name_kr": "衛藤美紗希",
-    "name_en": "衛藤美紗希",
+    "name_jp": "えとうみさき",
+    "name_kr": "에토 미사키",
+    "name_en": "eto misaki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "衛藤美紗希",
+    "img": "misaki1"
   },
   {
     "card_name": "この身ひとつで",
-    "name_jp": "木場真奈美",
-    "name_kr": "木場真奈美",
-    "name_en": "木場真奈美",
+    "name_jp": "きばまなみ",
+    "name_kr": "키바 마나미",
+    "name_en": "kiba manami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "木場真奈美",
+    "img": "manami1"
   },
   {
     "card_name": "きらめきの幕開け",
-    "name_jp": "松尾千鶴",
-    "name_kr": "松尾千鶴",
-    "name_en": "松尾千鶴",
+    "name_jp": "まつおちづる",
+    "name_kr": "마츠오 치즈루",
+    "name_en": "matsuo chizuru",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "松尾千鶴",
+    "img": "chizuru1"
   },
   {
     "card_name": "放課後★ストロングシャウト",
-    "name_jp": "早坂美玲",
-    "name_kr": "早坂美玲",
-    "name_en": "早坂美玲",
+    "name_jp": "はやさかみれい",
+    "name_kr": "하야사카 미레이",
+    "name_en": "hayasaka mirei",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "早坂美玲",
+    "img": "mirei4"
   },
   {
     "card_name": "トキメキ☆ホーダイ",
-    "name_jp": "久川颯",
-    "name_kr": "久川颯",
-    "name_en": "久川颯",
+    "name_jp": "ひさかわはやて",
+    "name_kr": "히사카와 하야테",
+    "name_en": "hisakawa hayate",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "久川颯",
+    "img": "hayate2"
   },
   {
     "card_name": "はるべと咲くや",
-    "name_jp": "依田芳乃",
-    "name_kr": "依田芳乃",
-    "name_en": "依田芳乃",
+    "name_jp": "よりたよしの",
+    "name_kr": "요리타 요시노",
+    "name_en": "yorita yoshino",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "依田芳乃",
+    "img": "yoshino4"
   },
   {
     "card_name": "愛されブロッサム",
-    "name_jp": "月宮雅",
-    "name_kr": "月宮雅",
-    "name_en": "月宮雅",
+    "name_jp": "つきみやみやび",
+    "name_kr": "츠키미야 미야비",
+    "name_en": "tsukimiya miyabi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "月宮雅",
+    "img": "miyabi1"
   },
   {
     "card_name": "イン・ファイト",
-    "name_jp": "桐野アヤ",
-    "name_kr": "桐野アヤ",
-    "name_en": "桐野アヤ",
+    "name_jp": "きりのあや",
+    "name_kr": "키리노 아야",
+    "name_en": "kirino aya",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "桐野アヤ",
+    "img": "aya1"
   },
   {
     "card_name": "旅の呼び声",
-    "name_jp": "伊集院惠",
-    "name_kr": "伊集院惠",
-    "name_en": "伊集院惠",
+    "name_jp": "いじゅういんめぐみ",
+    "name_kr": "이쥬인 메구미",
+    "name_en": "ijuin megumi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "伊集院惠",
+    "img": "megumi1"
   },
   {
     "card_name": "飛び立つアナザースカイ",
-    "name_jp": "相馬夏美",
-    "name_kr": "相馬夏美",
-    "name_en": "相馬夏美",
+    "name_jp": "そうまなつみ",
+    "name_kr": "소마 나츠미",
+    "name_en": "soma natsumi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "相馬夏美",
+    "img": "natsumi1"
   },
   {
     "card_name": "'Tis Love that Makes Me",
-    "name_jp": "ケイト",
-    "name_kr": "ケイト",
-    "name_en": "ケイト",
+    "name_jp": "けいと",
+    "name_kr": "케이트",
+    "name_en": "kate",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "ケイト",
+    "img": "kate1"
   },
   {
     "card_name": "召しませ♪ぱーふぇくと",
-    "name_jp": "槙原志保",
-    "name_kr": "槙原志保",
-    "name_en": "槙原志保",
+    "name_jp": "まきはらしほ",
+    "name_kr": "마키하라 시호",
+    "name_en": "makihara shiho",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "槙原志保",
+    "img": "shiho1"
   },
   {
     "card_name": "女神は朝焼けの海に",
-    "name_jp": "新田美波",
-    "name_kr": "新田美波",
-    "name_en": "新田美波",
+    "name_jp": "にったみなみ",
+    "name_kr": "닛타 미나미",
+    "name_en": "nitta minami",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "新田美波",
+    "img": "minami4"
   },
   {
     "card_name": "フューチャー・スペース",
-    "name_jp": "島村卯月",
+    "name_jp": "しまむらうづき",
     "name_kr": "시마무라 우즈키",
     "name_en": "shimamura uzuki",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "島村卯月",
+    "img": "uzuki5"
   },
   {
     "card_name": "アストラル・スカイ",
-    "name_jp": "渋谷凛",
+    "name_jp": "しぶやりん",
     "name_kr": "시부야 린",
-    "name_en": "渋谷凛",
+    "name_en": "shibuya rin",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "渋谷凛",
+    "img": "rin5"
   },
   {
     "card_name": "パワー・オブ・ノヴァ",
-    "name_jp": "本田未央",
+    "name_jp": "ほんだみお",
     "name_kr": "혼다 미오",
-    "name_en": "本田未央",
+    "name_en": "honda mio",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "本田未央",
+    "img": "mio5"
   },
   {
     "card_name": "小さな私の大きな世界",
-    "name_jp": "日下部若葉",
-    "name_kr": "日下部若葉",
-    "name_en": "日下部若葉",
+    "name_jp": "くさかべわかば",
+    "name_kr": "쿠사카베 와카바",
+    "name_en": "kusakabe wakaba",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "日下部若葉",
+    "img": "wakaba1"
   },
   {
     "card_name": "笑顔の処方箋",
-    "name_jp": "柳清良",
-    "name_kr": "柳清良",
-    "name_en": "柳清良",
+    "name_jp": "やなぎきよら",
+    "name_kr": "야나기 키요라",
+    "name_en": "yanagi kiyora",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "柳清良",
+    "img": "kiyora1"
   },
   {
     "card_name": "ラグジュアリー・ルージュ",
-    "name_jp": "高橋礼子",
-    "name_kr": "高橋礼子",
-    "name_en": "高橋礼子",
+    "name_jp": "たかはしれいこ",
+    "name_kr": "타카하시 레이코",
+    "name_en": "takahashi reiko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "高橋礼子",
+    "img": "reiko1"
   },
   {
     "card_name": "ワイルドサラブレッド",
-    "name_jp": "浜川愛結奈",
-    "name_kr": "浜川愛結奈",
-    "name_en": "浜川愛結奈",
+    "name_jp": "はまかわあゆな",
+    "name_kr": "하마카와 아유나",
+    "name_en": "hamakawa ayuna",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "浜川愛結奈",
+    "img": "ayuna1"
   },
   {
     "card_name": "千年の誓約",
-    "name_jp": "黒埼ちとせ",
-    "name_kr": "黒埼ちとせ",
-    "name_en": "黒埼ちとせ",
+    "name_jp": "くろさきちとせ",
+    "name_kr": "쿠로사키 치토세",
+    "name_en": "kurosaki chitose",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "黒埼ちとせ",
+    "img": "chitose2"
   },
   {
     "card_name": "エターナル・マイラブ",
-    "name_jp": "川島瑞樹",
-    "name_kr": "川島瑞樹",
-    "name_en": "川島瑞樹",
+    "name_jp": "かわしまみずき",
+    "name_kr": "카와시마 미즈키",
+    "name_en": "kawashima mizuki",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "川島瑞樹",
+    "img": "mizuki4"
   },
   {
     "card_name": "祝福の花をあなたに",
-    "name_jp": "イヴ・サンタクロース",
-    "name_kr": "イヴ・サンタクロース",
-    "name_en": "イヴ・サンタクロース",
+    "name_jp": "いうﾞ・さんたくろーす",
+    "name_kr": "이브 산타클로스",
+    "name_en": "eve santaclaus",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "イヴ・サンタクロース",
+    "img": "santaclaus2"
   },
   {
     "card_name": "少女の微笑",
-    "name_jp": "古澤頼子",
-    "name_kr": "古澤頼子",
-    "name_en": "古澤頼子",
+    "name_jp": "ふるさわよりこ",
+    "name_kr": "후루사와 요리코",
+    "name_en": "furusawa yoriko",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "古澤頼子",
+    "img": "yoriko1"
   },
   {
     "card_name": "探偵アイドル都の事件簿",
-    "name_jp": "安斎都",
-    "name_kr": "安斎都",
-    "name_en": "安斎都",
+    "name_jp": "あんざいみやこ",
+    "name_kr": "안자이 미야코",
+    "name_en": "anzai miyako",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "安斎都",
+    "img": "miyako1"
   },
   {
     "card_name": "ふんわり和心",
-    "name_jp": "海老原菜帆",
-    "name_kr": "海老原菜帆",
-    "name_en": "海老原菜帆",
+    "name_jp": "えびはらなほ",
+    "name_kr": "에비하라 나호",
+    "name_en": "ebihara naho",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "海老原菜帆",
+    "img": "naho1"
   },
   {
     "card_name": "フレ・デ・ラ・モード",
-    "name_jp": "宮本フレデリカ",
-    "name_kr": "宮本フレデリカ",
-    "name_en": "宮本フレデリカ",
+    "name_jp": "みやもとふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "宮本フレデリカ",
+    "img": "frederica5"
   },
   {
     "card_name": "やすらぎの温度",
-    "name_jp": "高森藍子",
-    "name_kr": "高森藍子",
-    "name_en": "高森藍子",
+    "name_jp": "たかもりあいこ",
+    "name_kr": "타카모리 아이코",
+    "name_en": "takamori aiko",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "高森藍子",
+    "img": "aiko4"
   },
   {
     "card_name": "ほしにねがいを",
-    "name_jp": "遊佐こずえ",
-    "name_kr": "遊佐こずえ",
-    "name_en": "遊佐こずえ",
+    "name_jp": "ゆさこずえ",
+    "name_kr": "유사 코즈에",
+    "name_en": "yusa kozue",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "遊佐こずえ",
+    "img": "kozue3"
   },
   {
     "card_name": "#この瞬間を楽しんで",
-    "name_jp": "砂塚あきら",
-    "name_kr": "砂塚あきら",
-    "name_en": "砂塚あきら",
+    "name_jp": "すなづかあきら",
+    "name_kr": "스나즈카 아키라",
+    "name_en": "sunazuka akira",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "砂塚あきら",
+    "img": "akira2"
   },
   {
     "card_name": "一夜の煌きは永遠に",
-    "name_jp": "ナターリア",
-    "name_kr": "ナターリア",
-    "name_en": "ナターリア",
+    "name_jp": "なたーりあ",
+    "name_kr": "나탈리아",
+    "name_en": "natalia",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "ナターリア",
+    "img": "natalia3"
   },
   {
     "card_name": "純朴の若草",
-    "name_jp": "奥山沙織",
-    "name_kr": "奥山沙織",
-    "name_en": "奥山沙織",
+    "name_jp": "おくやまさおり",
+    "name_kr": "오쿠야마 사오리",
+    "name_en": "okuyama saori",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "奥山沙織",
+    "img": "saori1"
   },
   {
     "card_name": "ストイック・マイスタイル",
-    "name_jp": "小室千奈美",
-    "name_kr": "小室千奈美",
-    "name_en": "小室千奈美",
+    "name_jp": "こむろちなみ",
+    "name_kr": "코무로 치나미",
+    "name_en": "komuro chinami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "小室千奈美",
+    "img": "chinami1"
   },
   {
     "card_name": "アモローソ・ファンタジア",
-    "name_jp": "梅木音葉",
-    "name_kr": "梅木音葉",
-    "name_en": "梅木音葉",
+    "name_jp": "うめきおとは",
+    "name_kr": "우메키 오토하",
+    "name_en": "umeki otoha",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "梅木音葉",
+    "img": "otoha1"
   },
   {
     "card_name": "栄光へのアーチ",
-    "name_jp": "愛野渚",
-    "name_kr": "愛野渚",
-    "name_en": "愛野渚",
+    "name_jp": "あいのなぎさ",
+    "name_kr": "아이노 나기사",
+    "name_en": "aino nagisa",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "愛野渚",
+    "img": "nagisa1"
   },
   {
     "card_name": "魅惑のピクチュアポーズ",
-    "name_jp": "篠原礼",
-    "name_kr": "篠原礼",
-    "name_en": "篠原礼",
+    "name_jp": "しのはられい",
+    "name_kr": "시노하라 레이",
+    "name_en": "shinohara rei",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "篠原礼",
+    "img": "rei1"
   },
   {
     "card_name": "まごころの看板娘",
-    "name_jp": "首藤葵",
-    "name_kr": "首藤葵",
-    "name_en": "首藤葵",
+    "name_jp": "しゅとうあおい",
+    "name_kr": "슈토 아오이",
+    "name_en": "syuto aoi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "首藤葵",
+    "img": "aoi1"
   },
   {
     "card_name": "はじけてサマーアップル",
-    "name_jp": "辻野あかり",
-    "name_kr": "辻野あかり",
-    "name_en": "辻野あかり",
+    "name_jp": "つじのあかり",
+    "name_kr": "츠지노 아카리",
+    "name_en": "tsujino akari",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "辻野あかり",
+    "img": "akari2"
   },
   {
     "card_name": "うたかたマーメイド",
-    "name_jp": "鷹富士茄子",
-    "name_kr": "鷹富士茄子",
-    "name_en": "鷹富士茄子",
+    "name_jp": "たかふじかこ",
+    "name_kr": "타카후지 카코",
+    "name_en": "takafuji kako",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "鷹富士茄子",
+    "img": "kako4"
   },
   {
     "card_name": "スロウ・サマー・ヘヴン",
-    "name_jp": "十時愛梨",
-    "name_kr": "十時愛梨",
-    "name_en": "十時愛梨",
+    "name_jp": "とときあいり",
+    "name_kr": "토토키 아이리",
+    "name_en": "totoki airi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "十時愛梨",
+    "img": "airi5"
   },
   {
     "card_name": "はつらつムードメーカー",
-    "name_jp": "矢口美羽",
-    "name_kr": "矢口美羽",
-    "name_en": "矢口美羽",
+    "name_jp": "やぐちみう",
+    "name_kr": "야구치 미우",
+    "name_en": "yaguchi miu",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "矢口美羽",
+    "img": "miu1"
   },
   {
     "card_name": "ヴァン・ドゥ・リベルテ",
-    "name_jp": "間中美里",
-    "name_kr": "間中美里",
-    "name_en": "間中美里",
+    "name_jp": "まなかみさと",
+    "name_kr": "마나카 미사토",
+    "name_en": "manaka misato",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "間中美里",
+    "img": "misato1"
   },
   {
     "card_name": "麗しの射手",
-    "name_jp": "水野翠",
-    "name_kr": "水野翠",
-    "name_en": "水野翠",
+    "name_jp": "みずのみどり",
+    "name_kr": "미즈노 미도리",
+    "name_en": "mizuno midori",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "水野翠",
+    "img": "midori1"
   },
   {
     "card_name": "新・世・界",
-    "name_jp": "ヘレン",
-    "name_kr": "ヘレン",
-    "name_en": "ヘレン",
+    "name_jp": "へれん",
+    "name_kr": "헬렌",
+    "name_en": "helen",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "ヘレン",
+    "img": "helen1"
   },
   {
     "card_name": "天に歌、地に器",
-    "name_jp": "藤原肇",
-    "name_kr": "藤原肇",
-    "name_en": "藤原肇",
+    "name_jp": "ふじわらはじめ",
+    "name_kr": "후지와라 하지메",
+    "name_en": "fujiwara hajime",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "藤原肇",
+    "img": "hajime4"
   },
   {
     "card_name": "夢見りあむしか勝たん",
-    "name_jp": "夢見りあむ",
-    "name_kr": "夢見りあむ",
-    "name_en": "夢見りあむ",
+    "name_jp": "ゆめみりあむ",
+    "name_kr": "유메미 리아무",
+    "name_en": "yumemi riamu",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "夢見りあむ",
+    "img": "riamu2"
   },
   {
     "card_name": "目指せ ! ユートピア",
-    "name_jp": "双葉杏",
-    "name_kr": "双葉杏",
-    "name_en": "双葉杏",
+    "name_jp": "ふたばあんず",
+    "name_kr": "후타바 안즈",
+    "name_en": "futaba anzu",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "双葉杏",
+    "img": "anzu5"
   },
   {
     "card_name": "セレブレイト・カレイド",
-    "name_jp": "速水奏",
-    "name_kr": "速水奏",
-    "name_en": "速水奏",
+    "name_jp": "はやみかなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "速水奏",
+    "img": "kanade5"
   },
   {
     "card_name": "メモリアル★ビーチサイド",
-    "name_jp": "城ヶ崎美嘉",
-    "name_kr": "城ヶ崎美嘉",
-    "name_en": "城ヶ崎美嘉",
+    "name_jp": "じょうがさきみか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "城ヶ崎美嘉",
+    "img": "mika5"
   },
   {
     "card_name": "自称・街の人気者",
-    "name_jp": "輿水幸子",
+    "name_jp": "こしみずさちこ",
     "name_kr": "코시미즈 사치코",
-    "name_en": "輿水幸子",
+    "name_en": "koshimizu sachiko",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "輿水幸子",
+    "img": "sachiko5"
   },
   {
     "card_name": "君色レンズ",
-    "name_jp": "上条春菜",
-    "name_kr": "上条春菜",
-    "name_en": "上条春菜",
+    "name_jp": "かみじょうはるな",
+    "name_kr": "카미죠 하루나",
+    "name_en": "kamijo haruna",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "上条春菜",
+    "img": "haruna2"
   },
   {
     "card_name": "青春のオピニオン",
-    "name_jp": "桐生つかさ",
-    "name_kr": "桐生つかさ",
-    "name_en": "桐生つかさ",
+    "name_jp": "きりゅうつかさ",
+    "name_kr": "키류 츠카사",
+    "name_en": "kiryu tsukasa",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "桐生つかさ",
+    "img": "tsukasa3"
   },
   {
     "card_name": "あわてふためけ全世界 ! ",
-    "name_jp": "小関麗奈",
-    "name_kr": "小関麗奈",
-    "name_en": "小関麗奈",
+    "name_jp": "こせきれいな",
+    "name_kr": "코세키 레이나",
+    "name_en": "koseki reina",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "小関麗奈",
+    "img": "reina2"
   },
   {
     "card_name": "永遠の結び愛",
-    "name_jp": "佐久間まゆ",
-    "name_kr": "佐久間まゆ",
-    "name_en": "佐久間まゆ",
+    "name_jp": "さくままゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "佐久間まゆ",
+    "img": "mayu5"
   },
   {
     "card_name": "うさぎさんわーるど",
-    "name_jp": "緒方智絵里",
+    "name_jp": "おがたちえり",
     "name_kr": "오가타 치에리",
-    "name_en": "緒方智絵里",
+    "name_en": "ogata chieri",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "緒方智絵里",
+    "img": "chieri5"
   },
   {
     "card_name": "キトゥンズガーデン",
-    "name_jp": "佐城雪美",
-    "name_kr": "佐城雪美",
-    "name_en": "佐城雪美",
+    "name_jp": "さじょうゆきみ",
+    "name_kr": "사죠 유키미",
+    "name_en": "sajo yukimi",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐城雪美",
+    "img": "yukimi3"
   },
   {
     "card_name": "あなたに捧ぐ王子様",
-    "name_jp": "喜多日菜子",
-    "name_kr": "喜多日菜子",
-    "name_en": "喜多日菜子",
+    "name_jp": "きたひなこ",
+    "name_kr": "키타 히나코",
+    "name_en": "kita hinako",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "喜多日菜子",
+    "img": "hinako4"
   },
   {
     "card_name": "おてんばスタートレイン",
-    "name_jp": "西園寺琴歌",
-    "name_kr": "西園寺琴歌",
-    "name_en": "西園寺琴歌",
+    "name_jp": "さいおんじことか",
+    "name_kr": "사이온지 코토카",
+    "name_en": "saionji kotoka",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "西園寺琴歌",
+    "img": "kotoka2"
   },
   {
     "card_name": "想いのリリーバー",
-    "name_jp": "姫川友紀",
-    "name_kr": "姫川友紀",
-    "name_en": "姫川友紀",
+    "name_jp": "ひめかわゆき",
+    "name_kr": "히메카와 유키",
+    "name_en": "himekawa yuki",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "姫川友紀",
+    "img": "yuki4"
   },
   {
     "card_name": "雨夜の誓い",
-    "name_jp": "黒川千秋",
-    "name_kr": "黒川千秋",
-    "name_en": "黒川千秋",
+    "name_jp": "くろかわちあき",
+    "name_kr": "쿠로카와 치아키",
+    "name_en": "kurokawa chiaki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "黒川千秋",
+    "img": "chiaki2"
   },
   {
     "card_name": "超 ! 難波の親善大使",
-    "name_jp": "難波笑美",
-    "name_kr": "難波笑美",
-    "name_en": "難波笑美",
+    "name_jp": "なんばえみ",
+    "name_kr": "남바 에미",
+    "name_en": "nanba emi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "難波笑美",
+    "img": "emi2"
   },
   {
     "card_name": "ワナビー・レジェンド",
-    "name_jp": "多田李衣菜",
-    "name_kr": "多田李衣菜",
-    "name_en": "多田李衣菜",
+    "name_jp": "ただりいな",
+    "name_kr": "타다 리이나",
+    "name_en": "tada riina",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "多田李衣菜",
+    "img": "riina5"
   },
   {
     "card_name": "深紅の心化粧",
-    "name_jp": "小早川紗枝",
-    "name_kr": "小早川紗枝",
-    "name_en": "小早川紗枝",
+    "name_jp": "こばやかわさえ",
+    "name_kr": "코바야카와 사에",
+    "name_en": "kobayakawa sae",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "小早川紗枝",
+    "img": "sae5"
   },
   {
     "card_name": "白き御使い",
-    "name_jp": "塩見周子",
+    "name_jp": "しおみしゅうこ",
     "name_kr": "시오미 슈코",
-    "name_en": "塩見周子",
+    "name_en": "shiomi syuko",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "塩見周子",
+    "img": "syuko5"
   },
   {
     "card_name": "艶炎小唄",
-    "name_jp": "木村夏樹",
-    "name_kr": "木村夏樹",
-    "name_en": "木村夏樹",
+    "name_jp": "きむらなつき",
+    "name_kr": "키무라 나츠키",
+    "name_en": "kimura natsuki",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "木村夏樹",
+    "img": "natsuki3"
   },
   {
     "card_name": "蒼海の道行き",
-    "name_jp": "大和亜季",
-    "name_kr": "大和亜季",
-    "name_en": "大和亜季",
+    "name_jp": "やまとあき",
+    "name_kr": "야마토 아키",
+    "name_en": "yamato aki",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "大和亜季",
+    "img": "aki2"
   },
   {
     "card_name": "天まで届く晴れ姿",
-    "name_jp": "浜口あやめ",
-    "name_kr": "浜口あやめ",
-    "name_en": "浜口あやめ",
+    "name_jp": "はまぐちあやめ",
+    "name_kr": "하마구치 아야메",
+    "name_en": "hamaguchi ayame",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "浜口あやめ",
+    "img": "ayame2"
   },
   {
     "card_name": "パンダフル・ライフ",
-    "name_jp": "大原みちる",
-    "name_kr": "大原みちる",
-    "name_en": "大原みちる",
+    "name_jp": "おおはらみちる",
+    "name_kr": "오오하라 미치루",
+    "name_en": "oohara michiru",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "大原みちる",
+    "img": "michiru2"
   },
   {
     "card_name": "こだわりチューンアップ",
-    "name_jp": "原田美世",
-    "name_kr": "原田美世",
-    "name_en": "原田美世",
+    "name_jp": "はらだみよ",
+    "name_kr": "하라다 미요",
+    "name_en": "harada miyo",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "原田美世",
+    "img": "miyo2"
   },
   {
     "card_name": "コドクノツドイ",
-    "name_jp": "星輝子",
-    "name_kr": "星輝子",
-    "name_en": "星輝子",
+    "name_jp": "ほししょうこ",
+    "name_kr": "호시 쇼코",
+    "name_en": "hoshi syoko",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "星輝子",
+    "img": "syoko5"
   },
   {
     "card_name": "ピュアホワイト・ハート",
-    "name_jp": "小日向美穂",
-    "name_kr": "小日向美穂",
-    "name_en": "小日向美穂",
+    "name_jp": "こひなたみほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "小日向美穂",
+    "img": "miho5"
   },
   {
     "card_name": "祝福のシュトラール",
-    "name_jp": "神崎蘭子",
-    "name_kr": "神崎蘭子",
-    "name_en": "神崎蘭子",
+    "name_jp": "かんざきらんこ",
+    "name_kr": "칸자키 란코",
+    "name_en": "kanzaki ranko",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "神崎蘭子",
+    "img": "ranko5"
   },
   {
     "card_name": "ホーリーホリデー",
-    "name_jp": "堀裕子",
-    "name_kr": "堀裕子",
-    "name_en": "堀裕子",
+    "name_jp": "ほりゆうこ",
+    "name_kr": "호리 유코",
+    "name_en": "hori yuko",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "堀裕子",
+    "img": "yuko4"
   },
   {
     "card_name": "その身、果てるとも",
-    "name_jp": "財前時子",
-    "name_kr": "財前時子",
-    "name_en": "財前時子",
+    "name_jp": "ざいぜんときこ",
+    "name_kr": "자이젠 토키코",
+    "name_en": "zaizen tokiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "財前時子",
+    "img": "tokiko2"
   },
   {
     "card_name": "麗しのミューズ",
-    "name_jp": "松永涼",
-    "name_kr": "松永涼",
-    "name_en": "松永涼",
+    "name_jp": "まつながりょう",
+    "name_kr": "마츠나가 료",
+    "name_en": "matsunaga ryo",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "松永涼",
+    "img": "ryo2"
   },
   {
     "card_name": "ゴスペルクワイアの福音",
-    "name_jp": "クラリス",
-    "name_kr": "クラリス",
-    "name_en": "クラリス",
+    "name_jp": "くらりす",
+    "name_kr": "클라리스",
+    "name_en": "clarice",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "クラリス",
+    "img": "clarice2"
   },
   {
     "card_name": "止まらない冒険心",
-    "name_jp": "氏家むつみ",
-    "name_kr": "氏家むつみ",
-    "name_en": "氏家むつみ",
+    "name_jp": "うじいえむつみ",
+    "name_kr": "우지이에 무츠미",
+    "name_en": "ujiie mutsumi",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "氏家むつみ",
+    "img": "mutsumi2"
   },
   {
     "card_name": "黎明に願って",
-    "name_jp": "白菊ほたる",
-    "name_kr": "白菊ほたる",
-    "name_en": "白菊ほたる",
+    "name_jp": "しらぎくほたる",
+    "name_kr": "시라기쿠 호타루",
+    "name_en": "shiragiku hotaru",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "白菊ほたる",
+    "img": "hotaru3"
   },
   {
     "card_name": "謹賀のお出迎え",
-    "name_jp": "道明寺歌鈴",
-    "name_kr": "道明寺歌鈴",
-    "name_en": "道明寺歌鈴",
+    "name_jp": "どうみょうじかりん",
+    "name_kr": "도묘지 카린",
+    "name_en": "domyoji karin",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "道明寺歌鈴",
+    "img": "karin3"
   },
   {
     "card_name": "新春旅情",
-    "name_jp": "アナスタシア",
-    "name_kr": "アナスタシア",
-    "name_en": "アナスタシア",
+    "name_jp": "あなすたしあ",
+    "name_kr": "아나스타샤",
+    "name_en": "anastasia",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "アナスタシア",
+    "img": "anastasia5"
   },
   {
     "card_name": "甘カワ☆ニゅーいヤー",
-    "name_jp": "大槻唯",
-    "name_kr": "大槻唯",
-    "name_en": "大槻唯",
+    "name_jp": "おおつきゆい",
+    "name_kr": "오오츠키 유이",
+    "name_en": "ootsuki yui",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "大槻唯",
+    "img": "yui5"
   },
   {
     "card_name": "ハンドメイド・ドリーム",
-    "name_jp": "佐々木千枝",
-    "name_kr": "佐々木千枝",
-    "name_en": "佐々木千枝",
+    "name_jp": "ささきちえ",
+    "name_kr": "사사키 치에",
+    "name_en": "sasaki chie",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "佐々木千枝",
+    "img": "chie3"
   },
   {
     "card_name": "深淵なる月影",
-    "name_jp": "高垣楓",
-    "name_kr": "高垣楓",
-    "name_en": "高垣楓",
+    "name_jp": "たかがきかえで",
+    "name_kr": "타카가키 카에데",
+    "name_en": "takagaki kaede",
     "type": "cool",
-    "limited": "noir"
+    "limited": "noir",
+    "name": "高垣楓",
+    "img": "kaede5"
   },
   {
     "card_name": "スウィンギング・ナイト",
-    "name_jp": "松山久美子",
-    "name_kr": "松山久美子",
-    "name_en": "松山久美子",
+    "name_jp": "まつやまくみこ",
+    "name_kr": "마츠야마 쿠미코",
+    "name_en": "matsuyama kumiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "松山久美子",
+    "img": "kumiko2"
   },
   {
     "card_name": "プリティハートキャッチャー",
-    "name_jp": "棟方愛海",
-    "name_kr": "棟方愛海",
-    "name_en": "棟方愛海",
+    "name_jp": "むなかたあつみ",
+    "name_kr": "무나카타 아츠미",
+    "name_en": "munakata atsumi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "棟方愛海",
+    "img": "atsumi3"
   },
   {
     "card_name": "ベル・アントルメ",
-    "name_jp": "三村かな子",
-    "name_kr": "三村かな子",
-    "name_en": "三村かな子",
+    "name_jp": "みむらかなこ",
+    "name_kr": "미무라 카나코",
+    "name_en": "mimura kanako",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "三村かな子",
+    "img": "kanako5"
   },
   {
     "card_name": "グレイスフル・テイスト",
-    "name_jp": "中野有香",
-    "name_kr": "中野有香",
-    "name_en": "中野有香",
+    "name_jp": "なかのゆか",
+    "name_kr": "나카노 유카",
+    "name_en": "nakano yuka",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "中野有香",
+    "img": "yuka3"
   },
   {
     "card_name": "甘美なる一夜",
-    "name_jp": "新田美波",
-    "name_kr": "新田美波",
-    "name_en": "新田美波",
+    "name_jp": "にったみなみ",
+    "name_kr": "닛타 미나미",
+    "name_en": "nitta minami",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "新田美波",
+    "img": "minami5"
   },
   {
     "card_name": "バトル☆バレンタイン",
-    "name_jp": "三好紗南",
-    "name_kr": "三好紗南",
-    "name_en": "三好紗南",
+    "name_jp": "みよしさな",
+    "name_kr": "미요시 사나",
+    "name_en": "miyoshi sana",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三好紗南",
+    "img": "sana2"
   },
   {
     "card_name": "ハートビートビューティー",
-    "name_jp": "斉藤洋子",
-    "name_kr": "斉藤洋子",
-    "name_en": "斉藤洋子",
+    "name_jp": "さいとうようこ",
+    "name_kr": "사이토 요코",
+    "name_en": "saito yoko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "斉藤洋子",
+    "img": "yoko2"
   },
   {
     "card_name": "ニャンダフル・ワールド",
-    "name_jp": "前川みく",
-    "name_kr": "前川みく",
-    "name_en": "前川みく",
+    "name_jp": "まえかわみく",
+    "name_kr": "마에카와 미쿠",
+    "name_en": "maekawa miku",
     "type": "cute",
-    "limited": "noir"
+    "limited": "noir",
+    "name": "前川みく",
+    "img": "miku5"
   },
   {
     "card_name": "ストリート・ステージ",
-    "name_jp": "水木聖來",
-    "name_kr": "水木聖來",
-    "name_en": "水木聖來",
+    "name_jp": "みずきせいら",
+    "name_kr": "미즈키 세이라",
+    "name_en": "mizuki seira",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "水木聖來",
+    "img": "seira2"
   },
   {
     "card_name": "ラビング☆マイロード",
-    "name_jp": "藤本里奈",
-    "name_kr": "藤本里奈",
-    "name_en": "藤本里奈",
+    "name_jp": "ふじもとりな",
+    "name_kr": "후지모토 리나",
+    "name_en": "fujimoto rina",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "藤本里奈",
+    "img": "rina2"
   },
   {
     "card_name": "爽春ノスタルジア",
-    "name_jp": "櫻井桃華",
-    "name_kr": "櫻井桃華",
-    "name_en": "櫻井桃華",
+    "name_jp": "さくらいももか",
+    "name_kr": "사쿠라이 모모카",
+    "name_en": "sakurai momoka",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "櫻井桃華",
+    "img": "momoka5"
   },
   {
     "card_name": "うぉーたーぱらだいす",
-    "name_jp": "浅利七海",
-    "name_kr": "浅利七海",
-    "name_en": "浅利七海",
+    "name_jp": "あさりななみ",
+    "name_kr": "아사리 나나미",
+    "name_en": "asari nanami",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "浅利七海",
+    "img": "nanami2"
   },
   {
     "card_name": "我龍天征",
-    "name_jp": "向井拓海",
-    "name_kr": "向井拓海",
-    "name_en": "向井拓海",
+    "name_jp": "むかいたくみ",
+    "name_kr": "무카이 타쿠미",
+    "name_en": "mukai takumi",
     "type": "passion",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "向井拓海",
+    "img": "takumi4"
   },
   {
     "card_name": "なぎ・はーととりっぷ",
-    "name_jp": "久川凪",
-    "name_kr": "久川凪",
-    "name_en": "久川凪",
+    "name_jp": "ひさかわなぎ",
+    "name_kr": "히사카와 나기",
+    "name_en": "hisakawa nagi",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "久川凪",
+    "img": "nagi3"
   },
   {
     "card_name": "誠の花道",
-    "name_jp": "脇山珠美",
-    "name_kr": "脇山珠美",
-    "name_en": "脇山珠美",
+    "name_jp": "わきやまたまみ",
+    "name_kr": "와키야마 타마미",
+    "name_en": "wakiyama tamami",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "脇山珠美",
+    "img": "tamami2"
   },
   {
     "card_name": "Fantast!c Now☆",
-    "name_jp": "赤城みりあ",
-    "name_kr": "赤城みりあ",
-    "name_en": "赤城みりあ",
+    "name_jp": "あかぎみりあ",
+    "name_kr": "아카기 미리아",
+    "name_en": "akagi miria",
     "type": "passion",
-    "limited": "noir"
+    "limited": "noir",
+    "name": "赤城みりあ",
+    "img": "miria5"
   },
   {
     "card_name": "イッツ・マイ・ワールド ! ",
-    "name_jp": "福山舞",
-    "name_kr": "福山舞",
-    "name_en": "福山舞",
+    "name_jp": "ふくやままい",
+    "name_kr": "후쿠야마 마이",
+    "name_en": "fukuyama mai",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "福山舞",
+    "img": "mai2"
   },
   {
     "card_name": "マイ・フェア・ドーリー",
-    "name_jp": "メアリー・コクラン",
-    "name_kr": "メアリー・コクラン",
-    "name_en": "メアリー・コクラン",
+    "name_jp": "めありー・こくらん",
+    "name_kr": "메어리 코크란",
+    "name_en": "mary cochran",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "メアリー・コクラン",
+    "img": "cochran2"
   },
   {
     "card_name": "アブナイオトモダチ",
-    "name_jp": "白坂小梅",
-    "name_kr": "白坂小梅",
-    "name_en": "白坂小梅",
+    "name_jp": "しらさかこうめ",
+    "name_kr": "시라사카 코우메",
+    "name_en": "shirasaka koume",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "白坂小梅",
+    "img": "koume4"
   },
   {
     "card_name": "ミライ∞ポテンシャル",
-    "name_jp": "持田亜里沙",
-    "name_kr": "持田亜里沙",
-    "name_en": "持田亜里沙",
+    "name_jp": "もちだありさ",
+    "name_kr": "모치다 아리사",
+    "name_en": "mochida arisa",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "持田亜里沙",
+    "img": "arisa2"
   },
   {
     "card_name": "教室の白百合",
-    "name_jp": "三船美優",
-    "name_kr": "三船美優",
-    "name_en": "三船美優",
+    "name_jp": "みふねみゆ",
+    "name_kr": "미후네 미유",
+    "name_en": "mifune miyu",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "三船美優",
+    "img": "miyu5"
   },
   {
     "card_name": "はぁとふるsweeteen☆",
-    "name_jp": "佐藤心",
-    "name_kr": "佐藤心",
-    "name_en": "佐藤心",
+    "name_jp": "さとうしん",
+    "name_kr": "사토 신",
+    "name_en": "sato shin",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "佐藤心",
+    "img": "shin5"
   },
   {
     "card_name": "ときめきの瞬間",
-    "name_jp": "松尾千鶴",
-    "name_kr": "松尾千鶴",
-    "name_en": "松尾千鶴",
+    "name_jp": "まつおちづる",
+    "name_kr": "마츠오 치즈루",
+    "name_en": "matsuo chizuru",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "松尾千鶴",
+    "img": "chizuru2"
   },
   {
     "card_name": "春霞の彼方",
-    "name_jp": "北条加蓮",
-    "name_kr": "北条加蓮",
-    "name_en": "北条加蓮",
+    "name_jp": "ほうじょうかれん",
+    "name_kr": "호죠 카렌",
+    "name_en": "hojo karen",
     "type": "cool",
-    "limited": "noir"
+    "limited": "noir",
+    "name": "北条加蓮",
+    "img": "karen5"
   },
   {
     "card_name": "愛しのスウィートハニー",
-    "name_jp": "榊原里美",
-    "name_kr": "榊原里美",
-    "name_en": "榊原里美",
+    "name_jp": "さかきばらさとみ",
+    "name_kr": "사카키바라 사토미",
+    "name_en": "sakakibara satomi",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "榊原里美",
+    "img": "satomi2"
   },
   {
     "card_name": "トラベリング・メモリー",
-    "name_jp": "並木芽衣子",
-    "name_kr": "並木芽衣子",
-    "name_en": "並木芽衣子",
+    "name_jp": "なみきめいこ",
+    "name_kr": "나미키 메이코",
+    "name_en": "namiki meiko",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "並木芽衣子",
+    "img": "meiko2"
   },
   {
     "card_name": "ビサイド・エタニティ",
-    "name_jp": "五十嵐響子",
-    "name_kr": "五十嵐響子",
-    "name_en": "五十嵐響子",
+    "name_jp": "いがらしきょうこ",
+    "name_kr": "이가라시 쿄코",
+    "name_en": "igarashi kyoko",
     "type": "cute",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "五十嵐響子",
+    "img": "kyoko5"
   },
   {
     "card_name": "忘失のローズルージュ",
-    "name_jp": "関裕美",
-    "name_kr": "関裕美",
-    "name_en": "関裕美",
+    "name_jp": "せきひろみ",
+    "name_kr": "세키 히로미",
+    "name_en": "seki hiromi",
     "type": "cute",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "関裕美",
+    "img": "hiromi4"
   },
   {
     "card_name": "チャーミング・スウィート",
-    "name_jp": "二宮飛鳥",
-    "name_kr": "二宮飛鳥",
-    "name_en": "二宮飛鳥",
+    "name_jp": "にのみやあすか",
+    "name_kr": "니노미야 아스카",
+    "name_en": "ninomiya asuka",
     "type": "cool",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "二宮飛鳥",
+    "img": "asuka5"
   },
   {
     "card_name": "夢見りあむが見た夢",
-    "name_jp": "夢見りあむ",
-    "name_kr": "夢見りあむ",
-    "name_en": "夢見りあむ",
+    "name_jp": "ゆめみりあむ",
+    "name_kr": "유메미 리아무",
+    "name_en": "yumemi riamu",
     "type": "passion",
-    "limited": "monthly"
+    "limited": "monthly",
+    "name": "夢見りあむ",
+    "img": "riamu3"
   },
   {
     "card_name": "モード・コンフィアンス",
-    "name_jp": "相川千夏",
-    "name_kr": "相川千夏",
-    "name_en": "相川千夏",
+    "name_jp": "あいかわちなつ",
+    "name_kr": "아이카와 치나츠",
+    "name_en": "aikawa chinatsu",
     "type": "cool",
-    "limited": "none"
+    "limited": "none",
+    "name": "相川千夏",
+    "img": "chinatsu2"
   },
   {
     "card_name": "トワイライト・ウサミン",
-    "name_jp": "安部菜々",
-    "name_kr": "安部菜々",
-    "name_en": "安部菜々",
+    "name_jp": "あべなな",
+    "name_kr": "아베 나나",
+    "name_en": "abe nana",
     "type": "cute",
-    "limited": "noir"
+    "limited": "noir",
+    "name": "安部菜々",
+    "img": "nana5"
   },
   {
     "card_name": "ピンキー・ラブリーデイ",
-    "name_jp": "村松さくら",
-    "name_kr": "村松さくら",
-    "name_en": "村松さくら",
+    "name_jp": "むらまつさくら",
+    "name_kr": "무라마츠 사쿠라",
+    "name_en": "muramatsu sakura",
     "type": "cute",
-    "limited": "none"
+    "limited": "none",
+    "name": "村松さくら",
+    "img": "sakura2"
   },
   {
     "card_name": "フルーティー・ポップ",
-    "name_jp": "相馬夏美",
-    "name_kr": "相馬夏美",
-    "name_en": "相馬夏美",
+    "name_jp": "そうまなつみ",
+    "name_kr": "소마 나츠미",
+    "name_en": "soma natsumi",
     "type": "passion",
-    "limited": "none"
+    "limited": "none",
+    "name": "相馬夏美",
+    "img": "natsumi2"
   },
   {
     "card_name": "ソラ駆けるオモイ",
-    "name_jp": "荒木比奈",
-    "name_kr": "荒木比奈",
-    "name_en": "荒木比奈",
+    "name_jp": "あらきひな",
+    "name_kr": "아라키 히나",
+    "name_en": "araki hina",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "荒木比奈",
+    "img": "hina4"
   },
   {
     "card_name": "この美しい世界を",
-    "name_jp": "上条春菜",
-    "name_kr": "上条春菜",
-    "name_en": "上条春菜",
+    "name_jp": "かみじょうはるな",
+    "name_kr": "카미죠 하루나",
+    "name_en": "kamijo haruna",
     "type": "cool",
-    "limited": "blanc"
+    "limited": "blanc",
+    "name": "上条春菜",
+    "img": "haruna3"
   }
 ]
