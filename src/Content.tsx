@@ -1,7 +1,6 @@
 import React from "react"
 import Data from "./data.json"
 import { Option } from "types/option"
-import Image from "url:./images/uzuki1.png"
 import "css/content.scss"
 
 interface ContentProps {
@@ -47,11 +46,19 @@ function Content(props: ContentProps) {
       style = { height: "55px" }
     }
     for (let i = 0; i < filtered.length; i++) {
+      let awaken = props.option.awaken ? "right" : "left"
+      let src = require(`./images/${filtered[i].img}.png`).default
       cards.push(
         <div className="card" key={i} style={style}>
-          <img src={Image} />
+          <div
+            className="card-image"
+            style={{
+              backgroundImage: `url(${src})`,
+              backgroundPositionX: `${awaken}`,
+            }}
+          />
           <div hidden={!props.option.showName}>
-            [{filtered[i].card_name}] {filtered[i].name_jp}
+            [{filtered[i].card_name}] {filtered[i].name}
           </div>
         </div>
       )
