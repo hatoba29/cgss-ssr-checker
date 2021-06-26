@@ -3,13 +3,12 @@ const HtmlWebPackPlugin = require("html-webpack-plugin")
 
 module.exports = {
   mode: "production",
-  entry: {
-    app: path.resolve(__dirname, "src", "App.tsx"),
-  },
+  entry: path.resolve(__dirname, "src", "App.tsx"),
   output: {
     path: path.resolve(__dirname, "build"),
     filename: "[name].js",
     chunkFilename: "[name].chunk.js",
+    clean: true,
   },
   resolve: {
     extensions: [".tsx", ".ts", ".js"],
@@ -22,24 +21,16 @@ module.exports = {
       {
         test: /\.(ts|tsx)$/,
         exclude: /node_modules/,
-        use: [
-          // {
-          //   loader: "babel-loader",
-          //   options: {
-          //     presets: ["@babel/preset-env", "@babel/preset-react"],
-          //     plugins: ["@babel/plugin-transform-runtime"],
-          //   },
-          // },
-          "ts-loader",
-        ],
+        use: ["ts-loader"],
       },
       {
         test: /\.scss$/,
         use: ["style-loader", "css-loader", "sass-loader"],
       },
       {
-        test: /\.(png|jpg|svg)$/,
-        use: ["file-loader"],
+        test: /\.png$/,
+        loader: "file-loader",
+        options: { name: "[hash:8].[ext]", outputPath: "img" },
       },
       {
         test: /\.html$/,
