@@ -1,4 +1,4 @@
-import React, { FormEvent, useState } from "react"
+import React, { FormEvent, SyntheticEvent, useState } from "react"
 import { IoIosArrowUp } from "react-icons/io"
 import { Option } from "types/option"
 import "css/search.scss"
@@ -19,9 +19,9 @@ function Search(props: SearchProps) {
     }
   }
 
+  // update option
   function update(e: FormEvent<HTMLInputElement>) {
     const target = e.currentTarget
-    let changed: boolean | string
 
     if (target.className == "type" || target.className == "limited") {
       props.setOption({
@@ -36,6 +36,12 @@ function Search(props: SearchProps) {
     } else {
       props.setOption({ ...props.option, [target.id]: target.value })
     }
+  }
+
+  // toggle checked status
+  function toggleChecked(e: SyntheticEvent) {
+    const target = e.currentTarget
+    target.classList.toggle("checked")
   }
 
   return (
@@ -53,7 +59,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="cute">Cute</label>
+          <label className="checked" htmlFor="cute" onClick={toggleChecked}>
+            Cute
+          </label>
           <input
             type="checkbox"
             id="cool"
@@ -61,7 +69,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="cool">Cool</label>
+          <label className="checked" htmlFor="cool" onClick={toggleChecked}>
+            Cool
+          </label>
           <input
             type="checkbox"
             id="passion"
@@ -69,7 +79,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="passion">Passion</label>
+          <label className="checked" htmlFor="passion" onClick={toggleChecked}>
+            Passion
+          </label>
         </div>
         <div className="option-item">
           Gacha
@@ -80,7 +92,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="none">none</label>
+          <label className="checked" htmlFor="none" onClick={toggleChecked}>
+            Normal
+          </label>
           <input
             type="checkbox"
             id="monthly"
@@ -88,7 +102,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="monthly">monthly</label>
+          <label className="checked" htmlFor="monthly" onClick={toggleChecked}>
+            Monthly
+          </label>
           <input
             type="checkbox"
             id="blanc"
@@ -96,7 +112,9 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="blanc">blanc</label>
+          <label className="checked" htmlFor="blanc" onClick={toggleChecked}>
+            Blanc Fes.
+          </label>
           <input
             type="checkbox"
             id="noir"
@@ -104,25 +122,29 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label htmlFor="noir">noir</label>
+          <label className="checked" htmlFor="noir" onClick={toggleChecked}>
+            Noir Fes.
+          </label>
         </div>
         <div className="option-item">
-          Card Name: <input id="cardName" onInput={update} />
+          Card Name <input type="text" id="cardName" onInput={update} />
         </div>
         <div className="option-item">
-          Idol Name: <input id="idolName" onInput={update} />
+          Idol Name <input type="text" id="idolName" onInput={update} />
         </div>
         <div className="option-item">
-          Show Card Name&nbsp;
+          <label className="checked" htmlFor="showName" onClick={toggleChecked}>
+            Show Card Name
+          </label>
           <input
             id="showName"
             type="checkbox"
             onInput={update}
             defaultChecked={props.option.showName}
           />
-        </div>
-        <div className="option-item">
-          Awaken&nbsp;
+          <label className="checked" htmlFor="awaken" onClick={toggleChecked}>
+            Awaken
+          </label>
           <input
             id="awaken"
             type="checkbox"

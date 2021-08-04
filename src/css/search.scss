@@ -1,8 +1,6 @@
 #search {
-  // position: absolute;
-  // top: calc(100vh - 48px);
   position: fixed;
-  bottom: -200px;
+  bottom: -214px;
   width: 100%;
   background-color: white;
 
@@ -17,6 +15,30 @@
 
   #options {
     height: 200px;
+    margin: 0 8px;
+
+    .option-item {
+      margin: 14px 0;
+    }
+
+    input[type="text"] {
+      border: 1px grey solid;
+      border-radius: 6px;
+    }
+
+    input[type="checkbox"] {
+      display: none;
+    }
+
+    label {
+      margin: 0 6px;
+      border-radius: 6px;
+      padding: 4px 8px;
+    }
+
+    label.checked {
+      background-color: #79a5ff;
+    }
   }
 
   &.open {
@@ -37,7 +59,7 @@
 
   @keyframes open {
     0% {
-      bottom: -200px;
+      bottom: -214px;
     }
     100% {
       bottom: 0;
@@ -49,7 +71,7 @@
       bottom: 0;
     }
     100% {
-      bottom: -200px;
+      bottom: -214px;
     }
   }
 
