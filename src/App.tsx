@@ -18,9 +18,6 @@ function Main() {
 
   return (
     <>
-      <header>
-        <span>CGSS SSR Checker</span>
-      </header>
       <Content option={option} />
       <Search option={option} setOption={setOption} />
     </>

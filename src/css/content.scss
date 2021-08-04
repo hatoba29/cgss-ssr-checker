@@ -24,18 +24,24 @@
     height: 110px;
     border: 1px solid #c8c8c8;
     font-size: 12px;
+
     img {
       display: block;
       width: 55px;
       height: 55px;
       margin: 0 auto;
     }
+
     .card-image {
       width: 55px;
       height: 55px;
       margin: 0 auto;
       background-size: 110px 55px;
     }
+  }
+
+  .card.checked {
+    background-color: cadetblue;
   }
 
   footer {

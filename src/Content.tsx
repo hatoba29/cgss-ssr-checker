@@ -1,4 +1,4 @@
-import React from "react"
+import React, { SyntheticEvent, useEffect, useState } from "react"
 import Data from "./data.json"
 import { Option } from "types/option"
 import "css/content.scss"
@@ -8,6 +8,18 @@ interface ContentProps {
 }
 
 function Content(props: ContentProps) {
+  // 이미 저장된 체크리스트가 있는지 확인
+  let initialData = {}
+  if (localStorage.getItem("checklist")) {
+    initialData = JSON.parse(localStorage.getItem("checklist"))
+  }
+  const [checklist, setChecklist] = useState(initialData)
+
+  // 체크리스트 바뀔 때마다 localStorage 갱신하기
+  useEffect(() => {
+    localStorage.setItem("checklist", JSON.stringify(checklist))
+  }, [checklist])
+
   // json 불러와서 Search 모듈에서 지정한 옵션에 따라 필터링하기
   function cardGenerator() {
     let cards = []
@@ -40,16 +52,23 @@ function Content(props: ContentProps) {
     })
 
     // 필터링된 카드들만 삽입하기
-    let style = {}
+    let cardHeight = {}
     if (!props.option.showName) {
       // 이름 없을 땐 높이 낮추기
-      style = { height: "55px" }
+      cardHeight = { height: "55px" }
     }
     for (let i = 0; i < filtered.length; i++) {
+      let check = checklist[filtered[i].img]
       let awaken = props.option.awaken ? "right" : "left"
       let src = require(`./images/${filtered[i].img}.png`).default
       cards.push(
-        <div className="card" key={i} style={style}>
+        <div
+          id={filtered[i].img}
+          className={`card ${check ? "checked" : ""}`}
+          key={i}
+          style={cardHeight}
+          onClick={toggleChecked}
+        >
           <div
             className="card-image"
             style={{
@@ -66,8 +85,21 @@ function Content(props: ContentProps) {
     return cards
   }
 
+  // 카드 클릭했을 때 상태 토글하기
+  function toggleChecked(e: SyntheticEvent) {
+    const id = e.currentTarget.id
+    if (checklist[id]) {
+      setChecklist({ ...checklist, [id]: false })
+    } else {
+      setChecklist({ ...checklist, [id]: true })
+    }
+  }
+
   return (
     <div id="content">
+      <header>
+        <span>✅ CGSS SSR Checker</span>
+      </header>
       <div id="card-container">{cardGenerator()}</div>
       <footer>ⓒ 2021. hatoba29 All Rights Reserved.</footer>
     </div>
