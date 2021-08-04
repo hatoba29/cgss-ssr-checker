@@ -69,7 +69,7 @@ function Content(props: ContentProps) {
   return (
     <div id="content">
       <div id="card-container">{cardGenerator()}</div>
-      <div id="footer">ⓒ 2021. hatoba29 All Rights Reserved.</div>
+      <footer>ⓒ 2021. hatoba29 All Rights Reserved.</footer>
     </div>
   )
 }

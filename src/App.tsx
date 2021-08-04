@@ -18,9 +18,9 @@ function Main() {
 
   return (
     <>
-      <div id="header">
+      <header>
         <span>CGSS SSR Checker</span>
-      </div>
+      </header>
       <Content option={option} />
       <Search option={option} setOption={setOption} />
     </>
