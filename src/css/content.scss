@@ -1,7 +1,6 @@
 #content {
-  height: calc(100vh - 96px);
+  height: calc(100vh - 64px);
   width: 100%;
-  background-color: azure;
   overflow: hidden scroll;
   padding-bottom: 12px;
 
@@ -19,11 +18,17 @@
   .card {
     @media (min-width: 640px) {
       width: 90px;
+      font-size: 12px;
     }
+    box-sizing: border-box;
     width: calc((100% / 4) - 2px);
-    height: 110px;
-    border: 1px solid #c8c8c8;
-    font-size: 12px;
+    height: 120px;
+    border: 1px solid #ccc;
+    padding: 0 4px;
+    font-size: 0.7rem;
+    font-weight: 300;
+    cursor: pointer;
+    user-select: none;
 
     img {
       display: block;
@@ -41,7 +46,7 @@
   }
 
   .card.checked {
-    background-color: cadetblue;
+    background-color: #c6e5f6;
   }
 
   footer {
