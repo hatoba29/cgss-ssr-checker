@@ -4600,14 +4600,14 @@
     "img": "yukari4"
   },
   {
-    "card_name": "ワンダーオブチャーム",
-    "name_jp": "おくやま さおり",
-    "name_kr": "오쿠야마 사오리",
-    "name_en": "okuyama saori",
-    "type": "cute",
-    "limited": "none",
-    "name": "奥山沙織",
-    "img": "saori2"
+    "card_name": "フラワリング・ウェディング",
+    "name_jp": "あいば ゆみ",
+    "name_kr": "아이바 유미",
+    "name_en": "aiba yumi",
+    "type": "passion",
+    "limited": "monthly",
+    "name": "相葉夕美",
+    "img": "yumi5"
   },
   {
     "card_name": "アドマイヤ・ブライド",
@@ -4620,24 +4620,14 @@
     "img": "arisu5"
   },
   {
-    "card_name": "コードネーム・キャット",
-    "name_jp": "わくい るみ",
-    "name_kr": "와쿠이 루미",
-    "name_en": "wakui rumi",
-    "type": "cool",
+    "card_name": "ワンダーオブチャーム",
+    "name_jp": "おくやま さおり",
+    "name_kr": "오쿠야마 사오리",
+    "name_en": "okuyama saori",
+    "type": "cute",
     "limited": "none",
-    "name": "和久井留美",
-    "img": "rumi2"
-  },
-  {
-    "card_name": "フラワリング・ウェディング",
-    "name_jp": "あいば ゆみ",
-    "name_kr": "아이바 유미",
-    "name_en": "aiba yumi",
-    "type": "passion",
-    "limited": "monthly",
-    "name": "相葉夕美",
-    "img": "yumi5"
+    "name": "奥山沙織",
+    "img": "saori2"
   },
   {
     "card_name": "風雅水鏡",
@@ -4650,6 +4640,16 @@
     "img": "yoshino5"
   },
   {
+    "card_name": "コードネーム・キャット",
+    "name_jp": "わくい るみ",
+    "name_kr": "와쿠이 루미",
+    "name_en": "wakui rumi",
+    "type": "cool",
+    "limited": "none",
+    "name": "和久井留美",
+    "img": "rumi2"
+  },
+  {
     "card_name": "ジョイフル☆フェアリー",
     "name_jp": "きたみ ゆず",
     "name_kr": "키타미 유즈",
@@ -4658,5 +4658,125 @@
     "limited": "none",
     "name": "喜多見柚",
     "img": "yuzu4"
+  },
+  {
+    "card_name": "むくなるさそい",
+    "name_jp": "ゆさ こずえ",
+    "name_kr": "유사 코즈에",
+    "name_en": "yusa kozue",
+    "type": "cute",
+    "limited": "blanc",
+    "name": "遊佐こずえ",
+    "img": "kozue4"
+  },
+  {
+    "card_name": "此岸の逢瀬",
+    "name_jp": "くろさき ちとせ",
+    "name_kr": "쿠로사키 치토세",
+    "name_en": "kurosaki chitose",
+    "type": "cute",
+    "limited": "monthly",
+    "name": "黒埼ちとせ",
+    "img": "chitose3"
+  },
+  {
+    "card_name": "ウィーバー☆フィーバー",
+    "name_jp": "じょうがさき りか",
+    "name_kr": "죠가사키 리카",
+    "name_en": "jougasaki rika",
+    "type": "passion",
+    "limited": "monthly",
+    "name": "城ヶ崎莉嘉",
+    "img": "rika5"
+  },
+  {
+    "card_name": "咲きすさぶ青嵐",
+    "name_jp": "しぶや りん",
+    "name_kr": "시부야 린",
+    "name_en": "shibuya rin",
+    "type": "cool",
+    "limited": "monthly",
+    "name": "渋谷凛",
+    "img": "rin6"
+  },
+  {
+    "card_name": "ファントム・ナイト",
+    "name_jp": "ふるさわ よりこ",
+    "name_kr": "후루사와 요리코",
+    "name_en": "furusawa yoriko",
+    "type": "cool",
+    "limited": "none",
+    "name": "古澤頼子",
+    "img": "yoriko2"
+  },
+  {
+    "card_name": "ブックマーク・メモリー",
+    "name_jp": "さぎさわ ふみか",
+    "name_kr": "사기사와 후미카",
+    "name_en": "sagisawa fumika",
+    "type": "cool",
+    "limited": "noir",
+    "name": "鷺沢文香",
+    "img": "fumika5"
+  },
+  {
+    "card_name": "エメラルド・パラダイス",
+    "name_jp": "にしじま かい",
+    "name_kr": "니시지마 카이",
+    "name_en": "nishijima kai",
+    "type": "passion",
+    "limited": "none",
+    "name": "西島櫂",
+    "img": "kai2"
+  },
+  {
+    "card_name": "ギャンブラーズプレジャー",
+    "name_jp": "ひょうどう れな",
+    "name_kr": "효도 레나",
+    "name_en": "hyodo rena",
+    "type": "cute",
+    "limited": "none",
+    "name": "兵藤レナ",
+    "img": "rena2"
+  },
+  {
+    "card_name": "ハートイグニッション",
+    "name_jp": "ひの あかね",
+    "name_kr": "히노 아카네",
+    "name_en": "hino akane",
+    "type": "passion",
+    "limited": "blanc",
+    "name": "日野茜",
+    "img": "akane4"
+  },
+  {
+    "card_name": "ルガール・エスティヴァル",
+    "name_jp": "みやもと ふれでりか",
+    "name_kr": "미야모토 프레데리카",
+    "name_en": "miyamoto frederica",
+    "type": "cute",
+    "limited": "monthly",
+    "name": "宮本フレデリカ",
+    "img": "frederica6"
+  },
+  {
+    "card_name": "カラマ・バケーション ! ",
+    "name_jp": "いうﾞ・さんたくろーす",
+    "name_kr": "이브 산타클로스",
+    "name_en": "eve santaclaus",
+    "type": "passion",
+    "limited": "monthly",
+    "name": "イヴ・サンタクロース",
+    "img": "santaclaus3"
+  },
+  {
+    "card_name": "びいどろの彩夏",
+    "name_jp": "ふじわら はじめ",
+    "name_kr": "후지와라 하지메",
+    "name_en": "fujiwara hajime",
+    "type": "cool",
+    "limited": "monthly",
+    "name": "藤原肇",
+    "img": "hajime5"
   }
 ]
