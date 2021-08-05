@@ -51,7 +51,7 @@ function Search(props: SearchProps) {
       </div>
       <div id="options">
         <div className="option-item">
-          Type
+          <div className="option-name">Type</div>
           <input
             type="checkbox"
             id="cute"
@@ -59,7 +59,11 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="cute" onClick={toggleChecked}>
+          <label
+            className="cute checked"
+            htmlFor="cute"
+            onClick={toggleChecked}
+          >
             Cute
           </label>
           <input
@@ -69,7 +73,11 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="cool" onClick={toggleChecked}>
+          <label
+            className="cool checked"
+            htmlFor="cool"
+            onClick={toggleChecked}
+          >
             Cool
           </label>
           <input
@@ -79,12 +87,16 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="passion" onClick={toggleChecked}>
+          <label
+            className="passion checked"
+            htmlFor="passion"
+            onClick={toggleChecked}
+          >
             Passion
           </label>
         </div>
         <div className="option-item">
-          Gacha
+          <div className="option-name">Gacha</div>
           <input
             type="checkbox"
             id="none"
@@ -127,23 +139,23 @@ function Search(props: SearchProps) {
           </label>
         </div>
         <div className="option-item">
-          Card Name <input type="text" id="cardName" onInput={update} />
+          <div className="option-name">Card Name </div>
+          <input type="text" id="cardName" onInput={update} />
         </div>
         <div className="option-item">
-          Idol Name <input type="text" id="idolName" onInput={update} />
+          <div className="option-name">Idol Name </div>
+          <input type="text" id="idolName" onInput={update} />
         </div>
         <div className="option-item">
-          <label className="checked" htmlFor="showName" onClick={toggleChecked}>
-            Show Card Name
-          </label>
+          <div className="option-name">Display Option</div>
           <input
             id="showName"
             type="checkbox"
             onInput={update}
             defaultChecked={props.option.showName}
           />
-          <label className="checked" htmlFor="awaken" onClick={toggleChecked}>
-            Awaken
+          <label className="checked" htmlFor="showName" onClick={toggleChecked}>
+            Show Card Name
           </label>
           <input
             id="awaken"
@@ -151,6 +163,9 @@ function Search(props: SearchProps) {
             onInput={update}
             defaultChecked={props.option.awaken}
           />
+          <label className="checked" htmlFor="awaken" onClick={toggleChecked}>
+            Awaken
+          </label>
         </div>
       </div>
     </div>

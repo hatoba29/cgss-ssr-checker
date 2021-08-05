@@ -1,6 +1,6 @@
 #search {
   position: fixed;
-  bottom: -214px;
+  bottom: -345px;
   width: 100%;
   background-color: white;
 
@@ -14,14 +14,23 @@
   }
 
   #options {
-    height: 200px;
+    height: 340px;
     margin: 0 8px;
 
+    .option-name {
+      margin-left: 8px;
+      margin-bottom: 8px;
+      font-size: 16px;
+      font-weight: bold;
+    }
+
     .option-item {
-      margin: 14px 0;
+      margin: 8px 0;
     }
 
     input[type="text"] {
+      width: 200px;
+      margin-left: 8px;
       border: 1px grey solid;
       border-radius: 6px;
     }
@@ -31,13 +40,32 @@
     }
 
     label {
+      @media (min-width: 640px) {
+        font-size: 16px;
+      }
+
       margin: 0 6px;
-      border-radius: 6px;
-      padding: 4px 8px;
+      border-radius: 16px;
+      padding: 4px 12px;
+      font-size: 0.8rem;
+      cursor: pointer;
+      user-select: none;
+      color: white;
+      background-color: #c8c8c8;
     }
 
     label.checked {
-      background-color: #79a5ff;
+      &.cute {
+        background-color: #f6006e;
+      }
+      &.cool {
+        background-color: #036bfb;
+      }
+      &.passion {
+        background-color: #fbb127;
+      }
+
+      background-color: #528bff;
     }
   }
 
@@ -59,7 +87,7 @@
 
   @keyframes open {
     0% {
-      bottom: -214px;
+      bottom: -345px;
     }
     100% {
       bottom: 0;
@@ -71,7 +99,7 @@
       bottom: 0;
     }
     100% {
-      bottom: -214px;
+      bottom: -345px;
     }
   }
 
