@@ -1,6 +1,7 @@
 import React, { SyntheticEvent, useEffect, useState } from "react"
 import Data from "./data.json"
 import { Option } from "types/option"
+import styles from "css/content.module.scss"
 
 interface ContentProps {
   option: Option
@@ -22,6 +23,16 @@ function Content(props: ContentProps) {
   useEffect(() => {
     localStorage.setItem("checklist", JSON.stringify(checklist))
   }, [checklist])
+
+  // 카드 클릭했을 때 상태 토글하기
+  function toggleChecked(e: SyntheticEvent) {
+    const id = e.currentTarget.id
+    if (checklist[id]) {
+      setChecklist({ ...checklist, [id]: false })
+    } else {
+      setChecklist({ ...checklist, [id]: true })
+    }
+  }
 
   // json 불러와서 Search 모듈에서 지정한 옵션에 따라 필터링하기
   function cardGenerator() {
@@ -64,17 +75,16 @@ function Content(props: ContentProps) {
     for (let i = 0; i < filtered.length; i++) {
       let check = checklist[filtered[i].img]
       let awaken = props.option.awaken ? "right" : "left"
-      // let src = require(`images/${filtered[i].img}.png`).default
       cards.push(
         <div
           id={filtered[i].img}
-          className={`card ${check ? "checked" : ""}`}
+          className={`${styles.card} ${check ? styles.checked : ""}`}
           key={i}
           style={cardHeight}
           onClick={toggleChecked}
         >
           <div
-            className="card-image"
+            className={styles.card_image}
             style={{
               backgroundImage: `url("${filtered[i].img}.png")`,
               backgroundPositionX: `${awaken}`,
@@ -89,22 +99,12 @@ function Content(props: ContentProps) {
     return cards
   }
 
-  // 카드 클릭했을 때 상태 토글하기
-  function toggleChecked(e: SyntheticEvent) {
-    const id = e.currentTarget.id
-    if (checklist[id]) {
-      setChecklist({ ...checklist, [id]: false })
-    } else {
-      setChecklist({ ...checklist, [id]: true })
-    }
-  }
-
   return (
-    <div id="content">
+    <div id={styles.content}>
       <header>
         <span>✅ CGSS SSR Checker</span>
       </header>
-      <div id="card-container">{cardGenerator()}</div>
+      <div id={styles.card_container}>{cardGenerator()}</div>
       <footer>ⓒ 2021. hatoba29 All Rights Reserved.</footer>
     </div>
   )

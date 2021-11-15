@@ -1,6 +1,7 @@
 import React, { FormEvent, SyntheticEvent, useState } from "react"
 import { IoIosArrowUp } from "react-icons/io"
 import { Option } from "types/option"
+import styles from "css/search.module.scss"
 
 interface SearchProps {
   option: Option
@@ -8,13 +9,13 @@ interface SearchProps {
 }
 
 function Search(props: SearchProps) {
+  // toggle search overlay
   let [isOpen, setOpen] = useState("")
-
   function showSearch() {
-    if (isOpen == "" || isOpen == "close") {
-      setOpen("open")
+    if (isOpen == "" || isOpen == styles.close) {
+      setOpen(styles.open)
     } else {
-      setOpen("close")
+      setOpen(styles.close)
     }
   }
 
@@ -22,6 +23,7 @@ function Search(props: SearchProps) {
   function update(e: FormEvent<HTMLInputElement>) {
     const target = e.currentTarget
 
+    // 리듀서 적용해볼 수 있나?
     if (target.className == "type" || target.className == "limited") {
       props.setOption({
         ...props.option,
@@ -40,17 +42,18 @@ function Search(props: SearchProps) {
   // toggle checked status
   function toggleChecked(e: SyntheticEvent) {
     const target = e.currentTarget
-    target.classList.toggle("checked")
+    target.classList.toggle(styles.checked)
   }
 
   return (
-    <div id="search" className={isOpen}>
-      <div id="opener" onClick={showSearch}>
-        <IoIosArrowUp id="arrow" className={isOpen} size="24px" />
+    <div id={styles.search} className={isOpen}>
+      <div id={styles.opener} onClick={showSearch}>
+        <IoIosArrowUp id={styles.arrow} className={isOpen} size="24px" />
       </div>
-      <div id="options">
-        <div className="option-item">
-          <div className="option-name">Type</div>
+
+      <div id={styles.options}>
+        <div className={styles.option_item}>
+          <div className={styles.option_name}>Type</div>
           <input
             type="checkbox"
             id="cute"
@@ -59,7 +62,7 @@ function Search(props: SearchProps) {
             onInput={update}
           />
           <label
-            className="cute checked"
+            className={`${styles.cute} ${styles.checked}`}
             htmlFor="cute"
             onClick={toggleChecked}
           >
@@ -73,7 +76,7 @@ function Search(props: SearchProps) {
             onInput={update}
           />
           <label
-            className="cool checked"
+            className={`${styles.cool} ${styles.checked}`}
             htmlFor="cool"
             onClick={toggleChecked}
           >
@@ -87,15 +90,16 @@ function Search(props: SearchProps) {
             onInput={update}
           />
           <label
-            className="passion checked"
+            className={`${styles.passion} ${styles.checked}`}
             htmlFor="passion"
             onClick={toggleChecked}
           >
             Passion
           </label>
         </div>
-        <div className="option-item">
-          <div className="option-name">Gacha</div>
+
+        <div className={styles.option_item}>
+          <div className={styles.option_name}>Gacha</div>
           <input
             type="checkbox"
             id="none"
@@ -103,7 +107,11 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="none" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="none"
+            onClick={toggleChecked}
+          >
             Normal
           </label>
           <input
@@ -113,7 +121,11 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="monthly" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="monthly"
+            onClick={toggleChecked}
+          >
             Monthly
           </label>
           <input
@@ -123,7 +135,11 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="blanc" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="blanc"
+            onClick={toggleChecked}
+          >
             Blanc Fes.
           </label>
           <input
@@ -133,27 +149,38 @@ function Search(props: SearchProps) {
             defaultChecked={true}
             onInput={update}
           />
-          <label className="checked" htmlFor="noir" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="noir"
+            onClick={toggleChecked}
+          >
             Noir Fes.
           </label>
         </div>
-        <div className="option-item">
-          <div className="option-name">Card Name </div>
+
+        <div className={styles.option_item}>
+          <div className={styles.option_name}>Card Name </div>
           <input type="text" id="cardName" onInput={update} />
         </div>
-        <div className="option-item">
-          <div className="option-name">Idol Name </div>
+
+        <div className={styles.option_item}>
+          <div className={styles.option_name}>Idol Name </div>
           <input type="text" id="idolName" onInput={update} />
         </div>
-        <div className="option-item">
-          <div className="option-name">Display Option</div>
+
+        <div className={styles.option_item}>
+          <div className={styles.option_name}>Display Option</div>
           <input
             id="showName"
             type="checkbox"
             onInput={update}
             defaultChecked={props.option.showName}
           />
-          <label className="checked" htmlFor="showName" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="showName"
+            onClick={toggleChecked}
+          >
             Show Card Name
           </label>
           <input
@@ -162,7 +189,11 @@ function Search(props: SearchProps) {
             onInput={update}
             defaultChecked={props.option.awaken}
           />
-          <label className="checked" htmlFor="awaken" onClick={toggleChecked}>
+          <label
+            className={styles.checked}
+            htmlFor="awaken"
+            onClick={toggleChecked}
+          >
             Awaken
           </label>
         </div>

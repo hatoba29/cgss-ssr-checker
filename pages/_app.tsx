@@ -1,8 +1,6 @@
 import type { AppProps } from "next/app"
 import Head from "next/head"
-import "css/content.scss"
 import "css/main.scss"
-import "css/search.scss"
 
 function App({ Component, pageProps }: AppProps) {
   return (
