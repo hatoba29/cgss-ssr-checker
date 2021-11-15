@@ -1,7 +1,6 @@
 import React, { FormEvent, SyntheticEvent, useState } from "react"
 import { IoIosArrowUp } from "react-icons/io"
 import { Option } from "types/option"
-import "css/search.scss"
 
 interface SearchProps {
   option: Option

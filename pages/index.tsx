@@ -1,10 +1,7 @@
-import React, { useState } from "react"
-import { render } from "react-dom"
-
-import Content from "./Content"
-import Search from "./Search"
+import { useState } from "react"
+import Content from "components/Content"
+import Search from "components/Search"
 import { Option } from "types/option"
-import "css/main.scss"
 
 function Main() {
   const [option, setOption] = useState<Option>({
@@ -17,11 +14,11 @@ function Main() {
   })
 
   return (
-    <>
+    <div id="root">
       <Content option={option} />
       <Search option={option} setOption={setOption} />
-    </>
+    </div>
   )
 }
 
-render(<Main />, document.getElementById("root"))
+export default Main

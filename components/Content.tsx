@@ -1,7 +1,6 @@
 import React, { SyntheticEvent, useEffect, useState } from "react"
 import Data from "./data.json"
 import { Option } from "types/option"
-import "css/content.scss"
 
 interface ContentProps {
   option: Option
@@ -9,11 +8,15 @@ interface ContentProps {
 
 function Content(props: ContentProps) {
   // 이미 저장된 체크리스트가 있는지 확인
-  let initialData = {}
-  if (localStorage.getItem("checklist")) {
-    initialData = JSON.parse(localStorage.getItem("checklist"))
-  }
-  const [checklist, setChecklist] = useState(initialData)
+  const [isLoaded, setLoaded] = useState(false)
+  const [checklist, setChecklist] = useState({})
+  useEffect(() => {
+    if (localStorage.getItem("checklist")) {
+      let initialData = JSON.parse(localStorage.getItem("checklist"))
+      setChecklist(initialData)
+    }
+    setLoaded(true)
+  }, [])
 
   // 체크리스트 바뀔 때마다 localStorage 갱신하기
   useEffect(() => {
@@ -22,6 +25,7 @@ function Content(props: ContentProps) {
 
   // json 불러와서 Search 모듈에서 지정한 옵션에 따라 필터링하기
   function cardGenerator() {
+    if (!isLoaded) return
     let cards = []
     let filtered = Data
     filtered = Data.filter((v) => {
@@ -60,7 +64,7 @@ function Content(props: ContentProps) {
     for (let i = 0; i < filtered.length; i++) {
       let check = checklist[filtered[i].img]
       let awaken = props.option.awaken ? "right" : "left"
-      let src = require(`./images/${filtered[i].img}.png`).default
+      // let src = require(`images/${filtered[i].img}.png`).default
       cards.push(
         <div
           id={filtered[i].img}
@@ -72,7 +76,7 @@ function Content(props: ContentProps) {
           <div
             className="card-image"
             style={{
-              backgroundImage: `url(${src})`,
+              backgroundImage: `url("${filtered[i].img}.png")`,
               backgroundPositionX: `${awaken}`,
             }}
           />
