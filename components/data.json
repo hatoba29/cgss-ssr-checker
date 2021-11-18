@@ -7,7 +7,7 @@
     "type": "cute",
     "limited": "none",
     "name": "島村卯月",
-    "img": "uzuki1"
+    "id": "100075"
   },
   {
     "card_name": "ステージオブマジック",
@@ -17,7 +17,7 @@
     "type": "cool",
     "limited": "none",
     "name": "渋谷凛",
-    "img": "rin1"
+    "id": "200071"
   },
   {
     "card_name": "ステージオブマジック",
@@ -27,7 +27,7 @@
     "type": "passion",
     "limited": "none",
     "name": "本田未央",
-    "img": "mio1"
+    "id": "300077"
   },
   {
     "card_name": "ぐうたら王国",
@@ -37,7 +37,7 @@
     "type": "cute",
     "limited": "none",
     "name": "双葉杏",
-    "img": "anzu1"
+    "id": "100077"
   },
   {
     "card_name": "薔薇の闇姫",
@@ -47,7 +47,7 @@
     "type": "cool",
     "limited": "none",
     "name": "神崎蘭子",
-    "img": "ranko1"
+    "id": "200073"
   },
   {
     "card_name": "グレイトプレゼント",
@@ -57,7 +57,7 @@
     "type": "passion",
     "limited": "none",
     "name": "諸星きらり",
-    "img": "kirari1"
+    "id": "300079"
   },
   {
     "card_name": "キャットパーティー",
@@ -67,7 +67,7 @@
     "type": "cute",
     "limited": "none",
     "name": "前川みく",
-    "img": "miku1"
+    "id": "100091"
   },
   {
     "card_name": "パンプキンパーティー",
@@ -77,7 +77,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "十時愛梨",
-    "img": "airi1"
+    "id": "300095"
   },
   {
     "card_name": "ホワイトウィッチ",
@@ -87,7 +87,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "三村かな子",
-    "img": "kanako1"
+    "id": "100097"
   },
   {
     "card_name": "ノーブルヴィーナス",
@@ -97,7 +97,7 @@
     "type": "cool",
     "limited": "none",
     "name": "新田美波",
-    "img": "minami1"
+    "id": "200095"
   },
   {
     "card_name": "夢色クローバー",
@@ -107,7 +107,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "緒方智絵里",
-    "img": "chieri1"
+    "id": "100107"
   },
   {
     "card_name": "ヒート＆ビート",
@@ -117,7 +117,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "多田李衣菜",
-    "img": "riina1"
+    "id": "200103"
   },
   {
     "card_name": "ブライトメモリーズ",
@@ -127,7 +127,7 @@
     "type": "cool",
     "limited": "none",
     "name": "鷺沢文香",
-    "img": "fumika1"
+    "id": "200107"
   },
   {
     "card_name": "キラデコ☆パレード",
@@ -137,7 +137,7 @@
     "type": "passion",
     "limited": "none",
     "name": "城ヶ崎莉嘉",
-    "img": "rika1"
+    "id": "300107"
   },
   {
     "card_name": "クリスタルスノー",
@@ -147,7 +147,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "アナスタシア",
-    "img": "anastasia1"
+    "id": "200117"
   },
   {
     "card_name": "バーニングプレゼント",
@@ -157,7 +157,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "日野茜",
-    "img": "akane1"
+    "id": "300119"
   },
   {
     "card_name": "自称・カンペキ",
@@ -167,7 +167,7 @@
     "type": "cute",
     "limited": "none",
     "name": "輿水幸子",
-    "img": "sachiko1"
+    "id": "100123"
   },
   {
     "card_name": "ともだちたくさん",
@@ -177,7 +177,7 @@
     "type": "passion",
     "limited": "none",
     "name": "市原仁奈",
-    "img": "nina1"
+    "id": "300123"
   },
   {
     "card_name": "プリプリウサミン",
@@ -187,7 +187,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "安部菜々",
-    "img": "nana1"
+    "id": "100125"
   },
   {
     "card_name": "ハート★オーバーフロー",
@@ -197,7 +197,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎美嘉",
-    "img": "mika1"
+    "id": "300125"
   },
   {
     "card_name": "エンドレスナイト",
@@ -207,7 +207,7 @@
     "type": "cool",
     "limited": "none",
     "name": "速水奏",
-    "img": "kanade1"
+    "id": "200137"
   },
   {
     "card_name": "フルスイング☆エール",
@@ -217,7 +217,7 @@
     "type": "passion",
     "limited": "none",
     "name": "姫川友紀",
-    "img": "yuki1"
+    "id": "300147"
   },
   {
     "card_name": "フィールマイハート",
@@ -227,7 +227,7 @@
     "type": "cute",
     "limited": "none",
     "name": "佐久間まゆ",
-    "img": "mayu1"
+    "id": "100165"
   },
   {
     "card_name": "ハッピーホイップ",
@@ -237,7 +237,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "赤城みりあ",
-    "img": "miria1"
+    "id": "300151"
   },
   {
     "card_name": "ラグジュアリーメモリー",
@@ -247,7 +247,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "川島瑞樹",
-    "img": "mizuki1"
+    "id": "200147"
   },
   {
     "card_name": "ミスティックエリクシル",
@@ -257,7 +257,7 @@
     "type": "cute",
     "limited": "none",
     "name": "一ノ瀬志希",
-    "img": "shiki1"
+    "id": "100153"
   },
   {
     "card_name": "オーバー・ザ・レインボー",
@@ -267,7 +267,7 @@
     "type": "cool",
     "limited": "none",
     "name": "神谷奈緒",
-    "img": "nao1"
+    "id": "200157"
   },
   {
     "card_name": "てづくりのしあわせ",
@@ -277,7 +277,7 @@
     "type": "passion",
     "limited": "none",
     "name": "高森藍子",
-    "img": "aiko1"
+    "id": "300163"
   },
   {
     "card_name": "夜風の誘い",
@@ -287,7 +287,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "高垣楓",
-    "img": "kaede1"
+    "id": "200165"
   },
   {
     "card_name": "ユースフルロマンス",
@@ -297,7 +297,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "小日向美穂",
-    "img": "miho1"
+    "id": "100173"
   },
   {
     "card_name": "煌めきのひととき",
@@ -307,7 +307,7 @@
     "type": "cool",
     "limited": "none",
     "name": "北条加蓮",
-    "img": "karen1"
+    "id": "200183"
   },
   {
     "card_name": "マッシュアップ★ボルテージ",
@@ -317,7 +317,7 @@
     "type": "passion",
     "limited": "none",
     "name": "星輝子",
-    "img": "syoko1"
+    "id": "300183"
   },
   {
     "card_name": "花舞うまほろば",
@@ -327,7 +327,7 @@
     "type": "cute",
     "limited": "none",
     "name": "小早川紗枝",
-    "img": "sae1"
+    "id": "100189"
   },
   {
     "card_name": "ローズフルール",
@@ -337,7 +337,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "櫻井桃華",
-    "img": "momoka1"
+    "id": "100191"
   },
   {
     "card_name": "拳火上等",
@@ -347,7 +347,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "向井拓海",
-    "img": "takumi1"
+    "id": "300191"
   },
   {
     "card_name": "《偶像》のフラグメント",
@@ -357,7 +357,7 @@
     "type": "cool",
     "limited": "none",
     "name": "二宮飛鳥",
-    "img": "asuka1"
+    "id": "200197"
   },
   {
     "card_name": "夢みるプリンセス",
@@ -367,7 +367,7 @@
     "type": "passion",
     "limited": "none",
     "name": "喜多日菜子",
-    "img": "hinako1"
+    "id": "300201"
   },
   {
     "card_name": "あったかハート",
@@ -377,7 +377,7 @@
     "type": "cute",
     "limited": "none",
     "name": "五十嵐響子",
-    "img": "kyoko1"
+    "id": "100205"
   },
   {
     "card_name": "エモーショナルビート",
@@ -387,7 +387,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "木村夏樹",
-    "img": "natsuki1"
+    "id": "300205"
   },
   {
     "card_name": "はじめての表情",
@@ -397,7 +397,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "橘ありす",
-    "img": "arisu1"
+    "id": "200205"
   },
   {
     "card_name": "センリツノヨル",
@@ -407,7 +407,7 @@
     "type": "cool",
     "limited": "none",
     "name": "白坂小梅",
-    "img": "koume1"
+    "id": "200213"
   },
   {
     "card_name": "アベニュー・モード",
@@ -417,7 +417,7 @@
     "type": "cute",
     "limited": "none",
     "name": "宮本フレデリカ",
-    "img": "frederica1"
+    "id": "100251"
   },
   {
     "card_name": "わだつみの導き手",
@@ -427,7 +427,7 @@
     "type": "passion",
     "limited": "none",
     "name": "依田芳乃",
-    "img": "yoshino1"
+    "id": "300217"
   },
   {
     "card_name": "運命の待ち人",
@@ -437,7 +437,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "神崎蘭子",
-    "img": "ranko2"
+    "id": "200247"
   },
   {
     "card_name": "ドリーミンブライド",
@@ -447,7 +447,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "前川みく",
-    "img": "miku2"
+    "id": "100227"
   },
   {
     "card_name": "はつらつハーヴェスト",
@@ -457,7 +457,7 @@
     "type": "passion",
     "limited": "none",
     "name": "及川雫",
-    "img": "shizuku1"
+    "id": "300225"
   },
   {
     "card_name": "夜色の暁風",
@@ -467,7 +467,7 @@
     "type": "cool",
     "limited": "none",
     "name": "塩見周子",
-    "img": "syuko1"
+    "id": "200221"
   },
   {
     "card_name": "マイ・フェアリーテイル",
@@ -477,7 +477,7 @@
     "type": "cute",
     "limited": "none",
     "name": "緒方智絵里",
-    "img": "chieri2"
+    "id": "100241"
   },
   {
     "card_name": "ピースフルデイズ",
@@ -487,7 +487,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "島村卯月",
-    "img": "uzuki2"
+    "id": "100255"
   },
   {
     "card_name": "オーバー・マイセルフ",
@@ -497,7 +497,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "渋谷凛",
-    "img": "rin2"
+    "id": "200253"
   },
   {
     "card_name": "ワンダーエンターテイナー",
@@ -507,7 +507,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "本田未央",
-    "img": "mio2"
+    "id": "300235"
   },
   {
     "card_name": "なまけものフェアリー",
@@ -517,7 +517,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "双葉杏",
-    "img": "anzu2"
+    "id": "100243"
   },
   {
     "card_name": "サマータイム☆ハイ",
@@ -527,7 +527,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "大槻唯",
-    "img": "yui1"
+    "id": "300233"
   },
   {
     "card_name": "ルージュクチュール",
@@ -537,7 +537,7 @@
     "type": "cool",
     "limited": "none",
     "name": "三船美優",
-    "img": "miyu1"
+    "id": "200257"
   },
   {
     "card_name": "束ねた気持ち",
@@ -547,7 +547,7 @@
     "type": "passion",
     "limited": "none",
     "name": "相葉夕美",
-    "img": "yumi1"
+    "id": "300243"
   },
   {
     "card_name": "スターティングデイズ",
@@ -557,7 +557,7 @@
     "type": "cute",
     "limited": "none",
     "name": "乙倉悠貴",
-    "img": "yuuki1"
+    "id": "100263"
   },
   {
     "card_name": "めろめろサマー",
@@ -567,7 +567,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "諸星きらり",
-    "img": "kirari2"
+    "id": "300251"
   },
   {
     "card_name": "夏色の南風",
@@ -577,7 +577,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "新田美波",
-    "img": "minami2"
+    "id": "200265"
   },
   {
     "card_name": "メイク★インパクト",
@@ -587,7 +587,7 @@
     "type": "cute",
     "limited": "none",
     "name": "早坂美玲",
-    "img": "mirei1"
+    "id": "100275"
   },
   {
     "card_name": "澄みきった世界",
@@ -597,7 +597,7 @@
     "type": "cool",
     "limited": "none",
     "name": "上条春菜",
-    "img": "haruna1"
+    "id": "200229"
   },
   {
     "card_name": "カップオブラブ",
@@ -607,7 +607,7 @@
     "type": "passion",
     "limited": "none",
     "name": "十時愛梨",
-    "img": "airi2"
+    "id": "300265"
   },
   {
     "card_name": "密やかな饗宴",
@@ -617,7 +617,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "鷺沢文香",
-    "img": "fumika2"
+    "id": "200281"
   },
   {
     "card_name": "インビテーション・ダイブ",
@@ -627,7 +627,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "一ノ瀬志希",
-    "img": "shiki2"
+    "id": "100281"
   },
   {
     "card_name": "セーシュンエナジー",
@@ -637,7 +637,7 @@
     "type": "passion",
     "limited": "none",
     "name": "堀裕子",
-    "img": "yuko1"
+    "id": "300273"
   },
   {
     "card_name": "星巡る物語",
@@ -647,7 +647,7 @@
     "type": "cool",
     "limited": "none",
     "name": "アナスタシア",
-    "img": "anastasia2"
+    "id": "200291"
   },
   {
     "card_name": "P.C.S",
@@ -657,7 +657,7 @@
     "type": "cute",
     "limited": "none",
     "name": "小日向美穂",
-    "img": "miho2"
+    "id": "100291"
   },
   {
     "card_name": "自称・スウィートヒロイン",
@@ -667,7 +667,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "輿水幸子",
-    "img": "sachiko2"
+    "id": "100297"
   },
   {
     "card_name": "茜色の彩り",
@@ -677,7 +677,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "高垣楓",
-    "img": "kaede2"
+    "id": "200293"
   },
   {
     "card_name": "グロリアス★グロウ",
@@ -687,7 +687,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "城ヶ崎美嘉",
-    "img": "mika2"
+    "id": "300279"
   },
   {
     "card_name": "トリート・オア・トリート",
@@ -697,7 +697,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "佐久間まゆ",
-    "img": "mayu2"
+    "id": "100299"
   },
   {
     "card_name": "ぱーりぃー★ひゃっはー",
@@ -707,7 +707,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "星輝子",
-    "img": "syoko2"
+    "id": "300281"
   },
   {
     "card_name": "くのいちのいろは",
@@ -717,7 +717,7 @@
     "type": "passion",
     "limited": "none",
     "name": "浜口あやめ",
-    "img": "ayame1"
+    "id": "300287"
   },
   {
     "card_name": "ただひとつの器",
@@ -727,7 +727,7 @@
     "type": "cool",
     "limited": "none",
     "name": "藤原肇",
-    "img": "hajime1"
+    "id": "200307"
   },
   {
     "card_name": "ドルチェ・クラシカ",
@@ -737,7 +737,7 @@
     "type": "cute",
     "limited": "none",
     "name": "三村かな子",
-    "img": "kanako2"
+    "id": "100307"
   },
   {
     "card_name": "ソング・フォー・ライフ",
@@ -747,7 +747,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "北条加蓮",
-    "img": "karen2"
+    "id": "200313"
   },
   {
     "card_name": "あたたかな居場所",
@@ -757,7 +757,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "高森藍子",
-    "img": "aiko2"
+    "id": "300303"
   },
   {
     "card_name": "ディアマイレディ",
@@ -767,7 +767,7 @@
     "type": "cute",
     "limited": "none",
     "name": "櫻井桃華",
-    "img": "momoka2"
+    "id": "100317"
   },
   {
     "card_name": "はぁとトゥハート",
@@ -777,7 +777,7 @@
     "type": "passion",
     "limited": "none",
     "name": "佐藤心",
-    "img": "shin1"
+    "id": "300309"
   },
   {
     "card_name": "森のものがたり",
@@ -787,7 +787,7 @@
     "type": "cool",
     "limited": "none",
     "name": "森久保乃々",
-    "img": "nono1"
+    "id": "200331"
   },
   {
     "card_name": "リュミエール・エトワール",
@@ -797,7 +797,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "宮本フレデリカ",
-    "img": "frederica2"
+    "id": "100325"
   },
   {
     "card_name": "ドレスアップナイト",
@@ -807,7 +807,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "神谷奈緒",
-    "img": "nao2"
+    "id": "200333"
   },
   {
     "card_name": "ひまわりサニーデイ",
@@ -817,7 +817,7 @@
     "type": "passion",
     "limited": "none",
     "name": "龍崎薫",
-    "img": "kaoru1"
+    "id": "300321"
   },
   {
     "card_name": "エアリアルメロディア",
@@ -827,7 +827,7 @@
     "type": "cute",
     "limited": "none",
     "name": "水本ゆかり",
-    "img": "yukari1"
+    "id": "100337"
   },
   {
     "card_name": "ネクスト☆ページ",
@@ -837,7 +837,7 @@
     "type": "cool",
     "limited": "none",
     "name": "荒木比奈",
-    "img": "hina1"
+    "id": "200343"
   },
   {
     "card_name": "ウサミン・ザ・シークレット",
@@ -847,7 +847,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "安部菜々",
-    "img": "nana2"
+    "id": "100343"
   },
   {
     "card_name": "うつつの華模様",
@@ -857,7 +857,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "塩見周子",
-    "img": "syuko2"
+    "id": "200345"
   },
   {
     "card_name": "ソル・パライソ",
@@ -867,7 +867,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "大槻唯",
-    "img": "yui2"
+    "id": "300335"
   },
   {
     "card_name": "華ほころびる宴",
@@ -877,7 +877,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "小早川紗枝",
-    "img": "sae2"
+    "id": "100345"
   },
   {
     "card_name": "ことほぎの祈り",
@@ -887,7 +887,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "依田芳乃",
-    "img": "yoshino2"
+    "id": "300329"
   },
   {
     "card_name": "メイクミー・キスユー",
@@ -897,7 +897,7 @@
     "type": "passion",
     "limited": "none",
     "name": "赤城みりあ",
-    "img": "miria2"
+    "id": "300327"
   },
   {
     "card_name": "インサイト・エクステンド",
@@ -907,7 +907,7 @@
     "type": "cool",
     "limited": "none",
     "name": "八神マキノ",
-    "img": "makino1"
+    "id": "200353"
   },
   {
     "card_name": "ラブ ! ストレート",
@@ -917,7 +917,7 @@
     "type": "cute",
     "limited": "none",
     "name": "中野有香",
-    "img": "yuka1"
+    "id": "100349"
   },
   {
     "card_name": "パレス・オブ・ファンタジア",
@@ -927,7 +927,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "二宮飛鳥",
-    "img": "asuka2"
+    "id": "200359"
   },
   {
     "card_name": "重ねた花びら",
@@ -937,7 +937,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "相葉夕美",
-    "img": "yumi2"
+    "id": "300343"
   },
   {
     "card_name": "Ring♪Ring♪フィーリン",
@@ -947,7 +947,7 @@
     "type": "cute",
     "limited": "none",
     "name": "椎名法子",
-    "img": "noriko1"
+    "id": "100353"
   },
   {
     "card_name": "ハイテンションスマッシュ",
@@ -957,7 +957,7 @@
     "type": "passion",
     "limited": "none",
     "name": "喜多見柚",
-    "img": "yuzu1"
+    "id": "300349"
   },
   {
     "card_name": "目をあけてみる夢",
@@ -967,7 +967,7 @@
     "type": "cool",
     "limited": "none",
     "name": "多田李衣菜",
-    "img": "riina2"
+    "id": "200365"
   },
   {
     "card_name": "ドラマティック・ナイト",
@@ -977,7 +977,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "五十嵐響子",
-    "img": "kyoko2"
+    "id": "100359"
   },
   {
     "card_name": "こころ、酔わせて",
@@ -987,7 +987,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "三船美優",
-    "img": "miyu2"
+    "id": "200367"
   },
   {
     "card_name": "セクシーBANG☆BANG",
@@ -997,7 +997,7 @@
     "type": "passion",
     "limited": "none",
     "name": "片桐早苗",
-    "img": "sanae1"
+    "id": "300361"
   },
   {
     "card_name": "SOUND A ROUND",
@@ -1007,7 +1007,7 @@
     "type": "cool",
     "limited": "none",
     "name": "松永涼",
-    "img": "ryo1"
+    "id": "200373"
   },
   {
     "card_name": "出逢えた憧憬",
@@ -1017,7 +1017,7 @@
     "type": "cute",
     "limited": "none",
     "name": "関裕美",
-    "img": "hiromi1"
+    "id": "100369"
   },
   {
     "card_name": "エンド・オブ・ザ・ブルー",
@@ -1027,7 +1027,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "速水奏",
-    "img": "kanade2"
+    "id": "200377"
   },
   {
     "card_name": "カム・ウィズミー ! ",
@@ -1037,7 +1037,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "乙倉悠貴",
-    "img": "yuuki2"
+    "id": "100371"
   },
   {
     "card_name": "サークル☆オブ☆フレンズ",
@@ -1047,7 +1047,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎莉嘉",
-    "img": "rika2"
+    "id": "300367"
   },
   {
     "card_name": "ひみつの小夜曲",
@@ -1057,7 +1057,7 @@
     "type": "cool",
     "limited": "none",
     "name": "佐城雪美",
-    "img": "yukimi1"
+    "id": "200381"
   },
   {
     "card_name": "ポジティブパッション",
@@ -1067,7 +1067,7 @@
     "type": "passion",
     "limited": "none",
     "name": "日野茜",
-    "img": "akane2"
+    "id": "300375"
   },
   {
     "card_name": "ラブモリ☆パーリィー",
@@ -1077,7 +1077,7 @@
     "type": "cute",
     "limited": "none",
     "name": "藤本里奈",
-    "img": "rina1"
+    "id": "100383"
   },
   {
     "card_name": "ヨモスガラ・パーティー",
@@ -1087,7 +1087,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "白坂小梅",
-    "img": "koume2"
+    "id": "200389"
   },
   {
     "card_name": "レッツゴー☆パレード",
@@ -1097,7 +1097,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "姫川友紀",
-    "img": "yuki2"
+    "id": "300377"
   },
   {
     "card_name": "ようせいのこ",
@@ -1107,7 +1107,7 @@
     "type": "cute",
     "limited": "none",
     "name": "遊佐こずえ",
-    "img": "kozue1"
+    "id": "100389"
   },
   {
     "card_name": "ステップトゥーミライ",
@@ -1117,7 +1117,7 @@
     "type": "cool",
     "limited": "none",
     "name": "佐々木千枝",
-    "img": "chie1"
+    "id": "200397"
   },
   {
     "card_name": "こぶし・紅",
@@ -1127,7 +1127,7 @@
     "type": "passion",
     "limited": "none",
     "name": "村上巴",
-    "img": "tomoe1"
+    "id": "300387"
   },
   {
     "card_name": "えにしの結び手",
@@ -1137,7 +1137,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "道明寺歌鈴",
-    "img": "karin1"
+    "id": "100397"
   },
   {
     "card_name": "エターナルブルーム",
@@ -1147,7 +1147,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "渋谷凛",
-    "img": "rin3"
+    "id": "200399"
   },
   {
     "card_name": "FEEL SO FREE",
@@ -1157,7 +1157,7 @@
     "type": "passion",
     "limited": "none",
     "name": "木村夏樹",
-    "img": "natsuki2"
+    "id": "300397"
   },
   {
     "card_name": "わきわきわんだほー",
@@ -1167,7 +1167,7 @@
     "type": "cute",
     "limited": "none",
     "name": "棟方愛海",
-    "img": "atsumi1"
+    "id": "100407"
   },
   {
     "card_name": "コマンドー・オブ・ステージ",
@@ -1177,7 +1177,7 @@
     "type": "cool",
     "limited": "none",
     "name": "大和亜季",
-    "img": "aki1"
+    "id": "200413"
   },
   {
     "card_name": "アヴァンチュール・シャト",
@@ -1187,7 +1187,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "前川みく",
-    "img": "miku3"
+    "id": "100395"
   },
   {
     "card_name": "自称・パーリーピーポー",
@@ -1197,7 +1197,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "輿水幸子",
-    "img": "sachiko3"
+    "id": "100411"
   },
   {
     "card_name": "ラブ・モゥ・スイート",
@@ -1207,7 +1207,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "及川雫",
-    "img": "shizuku2"
+    "id": "300403"
   },
   {
     "card_name": "真剣・一閃",
@@ -1217,7 +1217,7 @@
     "type": "cool",
     "limited": "none",
     "name": "脇山珠美",
-    "img": "tamami1"
+    "id": "200419"
   },
   {
     "card_name": "ビビッド★エゴイスト",
@@ -1227,7 +1227,7 @@
     "type": "passion",
     "limited": "none",
     "name": "的場梨沙",
-    "img": "risa1"
+    "id": "300409"
   },
   {
     "card_name": "手折られぬ花",
@@ -1237,7 +1237,7 @@
     "type": "cute",
     "limited": "none",
     "name": "白菊ほたる",
-    "img": "hotaru1"
+    "id": "100421"
   },
   {
     "card_name": "太陽より熱く ! ",
@@ -1247,7 +1247,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "中野有香",
-    "img": "yuka2"
+    "id": "100425"
   },
   {
     "card_name": "ブルー・ホライゾン",
@@ -1257,7 +1257,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "塩見周子",
-    "img": "syuko3"
+    "id": "200425"
   },
   {
     "card_name": "本日の主役",
@@ -1267,7 +1267,7 @@
     "type": "passion",
     "limited": "none",
     "name": "難波笑美",
-    "img": "emi1"
+    "id": "300417"
   },
   {
     "card_name": "アンビバレント・アクト",
@@ -1277,7 +1277,7 @@
     "type": "cool",
     "limited": "none",
     "name": "川島瑞樹",
-    "img": "mizuki2"
+    "id": "200429"
   },
   {
     "card_name": "メモリアルデイズ",
@@ -1287,7 +1287,7 @@
     "type": "cute",
     "limited": "none",
     "name": "今井加奈",
-    "img": "kana1"
+    "id": "100435"
   },
   {
     "card_name": "プライベート・メイド",
@@ -1297,7 +1297,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "十時愛梨",
-    "img": "airi3"
+    "id": "300411"
   },
   {
     "card_name": "ギフト・フォー・アンサー",
@@ -1307,7 +1307,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "森久保乃々",
-    "img": "nono2"
+    "id": "200435"
   },
   {
     "card_name": "ブリリアント・はぁと",
@@ -1317,7 +1317,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "佐藤心",
-    "img": "shin2"
+    "id": "300423"
   },
   {
     "card_name": "等身大の距離で",
@@ -1327,7 +1327,7 @@
     "type": "cool",
     "limited": "none",
     "name": "高垣楓",
-    "img": "kaede3"
+    "id": "200441"
   },
   {
     "card_name": "ピュア・ユーフォリア",
@@ -1337,7 +1337,7 @@
     "type": "cute",
     "limited": "none",
     "name": "西園寺琴歌",
-    "img": "kotoka1"
+    "id": "100445"
   },
   {
     "card_name": "ヒートビート・サンバ ! ",
@@ -1347,7 +1347,7 @@
     "type": "passion",
     "limited": "none",
     "name": "ナターリア",
-    "img": "natalia1"
+    "id": "300431"
   },
   {
     "card_name": "スマイル・アンド・トリート",
@@ -1357,7 +1357,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "島村卯月",
-    "img": "uzuki3"
+    "id": "100447"
   },
   {
     "card_name": "はろうぃんもんすたー",
@@ -1367,7 +1367,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "市原仁奈",
-    "img": "nina2"
+    "id": "300433"
   },
   {
     "card_name": "ありすのティーパーティー",
@@ -1377,7 +1377,7 @@
     "type": "cool",
     "limited": "none",
     "name": "橘ありす",
-    "img": "arisu2"
+    "id": "200453"
   },
   {
     "card_name": "プレイ・ザ・ゲーム ! ",
@@ -1387,7 +1387,7 @@
     "type": "passion",
     "limited": "none",
     "name": "三好紗南",
-    "img": "sana1"
+    "id": "300441"
   },
   {
     "card_name": "あこがれのプリンセス",
@@ -1397,7 +1397,7 @@
     "type": "cute",
     "limited": "none",
     "name": "古賀小春",
-    "img": "koharu1"
+    "id": "100455"
   },
   {
     "card_name": "極光のしらべ",
@@ -1407,7 +1407,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "アナスタシア",
-    "img": "anastasia3"
+    "id": "200449"
   },
   {
     "card_name": "ミスティック・ドーン",
@@ -1417,7 +1417,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "速水奏",
-    "img": "kanade3"
+    "id": "200459"
   },
   {
     "card_name": "トリック☆ジョーカー",
@@ -1427,7 +1427,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "堀裕子",
-    "img": "yuko2"
+    "id": "300447"
   },
   {
     "card_name": "夢追い人の光",
@@ -1437,7 +1437,7 @@
     "type": "cute",
     "limited": "none",
     "name": "工藤忍",
-    "img": "shinobu1"
+    "id": "100461"
   },
   {
     "card_name": "ロリポップ・ハニー",
@@ -1447,7 +1447,7 @@
     "type": "passion",
     "limited": "none",
     "name": "大槻唯",
-    "img": "yui3"
+    "id": "300453"
   },
   {
     "card_name": "異国に吹く風",
@@ -1457,7 +1457,7 @@
     "type": "cool",
     "limited": "none",
     "name": "ライラ",
-    "img": "layla1"
+    "id": "200467"
   },
   {
     "card_name": "メリー・メリー・ホワイト",
@@ -1467,7 +1467,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "緒方智絵里",
-    "img": "chieri3"
+    "id": "100467"
   },
   {
     "card_name": "カレイドスノー",
@@ -1477,7 +1477,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "本田未央",
-    "img": "mio3"
+    "id": "300457"
   },
   {
     "card_name": "オーダー・フォー・トップ",
@@ -1487,7 +1487,7 @@
     "type": "cool",
     "limited": "none",
     "name": "桐生つかさ",
-    "img": "tsukasa1"
+    "id": "200473"
   },
   {
     "card_name": "祝福のまなざし",
@@ -1497,7 +1497,7 @@
     "type": "cute",
     "limited": "none",
     "name": "クラリス",
-    "img": "clarice1"
+    "id": "100475"
   },
   {
     "card_name": "桃色怒髪天",
@@ -1507,7 +1507,7 @@
     "type": "passion",
     "limited": "none",
     "name": "向井拓海",
-    "img": "takumi2"
+    "id": "300465"
   },
   {
     "card_name": "おーる・ふぉー・ふぁん",
@@ -1517,7 +1517,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "双葉杏",
-    "img": "anzu3"
+    "id": "100479"
   },
   {
     "card_name": "はぴはぴ☆わんだーらんど",
@@ -1527,7 +1527,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "諸星きらり",
-    "img": "kirari3"
+    "id": "300467"
   },
   {
     "card_name": "新春の彩り",
@@ -1537,7 +1537,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "三村かな子",
-    "img": "kanako3"
+    "id": "100481"
   },
   {
     "card_name": "福を呼ぶ舞姫",
@@ -1547,7 +1547,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "鷹富士茄子",
-    "img": "kako1"
+    "id": "200481"
   },
   {
     "card_name": "クイーン・オブ・クイーン",
@@ -1557,7 +1557,7 @@
     "type": "passion",
     "limited": "none",
     "name": "財前時子",
-    "img": "tokiko1"
+    "id": "300473"
   },
   {
     "card_name": "ドリーミン☆ウサミン",
@@ -1567,7 +1567,7 @@
     "type": "cute",
     "limited": "none",
     "name": "安部菜々",
-    "img": "nana3"
+    "id": "100485"
   },
   {
     "card_name": "心躍るアドベンチャー",
@@ -1577,7 +1577,7 @@
     "type": "cool",
     "limited": "none",
     "name": "氏家むつみ",
-    "img": "mutsumi1"
+    "id": "200489"
   },
   {
     "card_name": "ビタースイート・タイム",
@@ -1587,7 +1587,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "小日向美穂",
-    "img": "miho3"
+    "id": "100491"
   },
   {
     "card_name": "ドキワク ! ユズレシピ",
@@ -1597,7 +1597,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "喜多見柚",
-    "img": "yuzu2"
+    "id": "300479"
   },
   {
     "card_name": "ニューウェーブ・ネイビー",
@@ -1607,7 +1607,7 @@
     "type": "cool",
     "limited": "none",
     "name": "大石泉",
-    "img": "izumi1"
+    "id": "200495"
   },
   {
     "card_name": "センター・オブ・ストリート",
@@ -1617,7 +1617,7 @@
     "type": "passion",
     "limited": "none",
     "name": "城ヶ崎美嘉",
-    "img": "mika3"
+    "id": "300487"
   },
   {
     "card_name": "すこやかな願い",
@@ -1627,7 +1627,7 @@
     "type": "cute",
     "limited": "none",
     "name": "栗原ネネ",
-    "img": "nene1"
+    "id": "100495"
   },
   {
     "card_name": "アイロニカル・エトランゼ",
@@ -1637,7 +1637,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "一ノ瀬志希",
-    "img": "shiki3"
+    "id": "100499"
   },
   {
     "card_name": "おしゃまなコアクマ",
@@ -1647,7 +1647,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "佐々木千枝",
-    "img": "chie2"
+    "id": "200507"
   },
   {
     "card_name": "ポッピン・ハイ☆",
@@ -1657,7 +1657,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "赤城みりあ",
-    "img": "miria3"
+    "id": "300491"
   },
   {
     "card_name": "ニューウェーブ・ピーチ",
@@ -1667,7 +1667,7 @@
     "type": "cute",
     "limited": "none",
     "name": "村松さくら",
-    "img": "sakura1"
+    "id": "100505"
   },
   {
     "card_name": "バーン・アンド・ドーン ! ! ",
@@ -1677,7 +1677,7 @@
     "type": "passion",
     "limited": "none",
     "name": "小関麗奈",
-    "img": "reina1"
+    "id": "300497"
   },
   {
     "card_name": "ブレイク・ワン・モーメント",
@@ -1687,7 +1687,7 @@
     "type": "cool",
     "limited": "none",
     "name": "水木聖來",
-    "img": "seira1"
+    "id": "200513"
   },
   {
     "card_name": "青春デビュー",
@@ -1697,7 +1697,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "関裕美",
-    "img": "hiromi2"
+    "id": "100515"
   },
   {
     "card_name": "放課後ロックスター",
@@ -1707,7 +1707,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "多田李衣菜",
-    "img": "riina3"
+    "id": "200515"
   },
   {
     "card_name": "ニューウェーブ・サルファー",
@@ -1717,7 +1717,7 @@
     "type": "passion",
     "limited": "none",
     "name": "土屋亜子",
-    "img": "ako1"
+    "id": "300501"
   },
   {
     "card_name": "プレイ・ウィズ・ミー",
@@ -1727,7 +1727,7 @@
     "type": "cool",
     "limited": "none",
     "name": "結城晴",
-    "img": "haru1"
+    "id": "200523"
   },
   {
     "card_name": "ひたむきな歩み",
@@ -1737,7 +1737,7 @@
     "type": "cute",
     "limited": "none",
     "name": "道明寺歌鈴",
-    "img": "karin2"
+    "id": "100525"
   },
   {
     "card_name": "幻想と神話の紡ぎ手",
@@ -1747,7 +1747,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "神崎蘭子",
-    "img": "ranko3"
+    "id": "200525"
   },
   {
     "card_name": "魅惑のショウタイム",
@@ -1757,7 +1757,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "佐久間まゆ",
-    "img": "mayu3"
+    "id": "100531"
   },
   {
     "card_name": "姉御の心粋",
@@ -1767,7 +1767,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "村上巴",
-    "img": "tomoe2"
+    "id": "300509"
   },
   {
     "card_name": "ビター・エレガンス",
@@ -1777,7 +1777,7 @@
     "type": "cool",
     "limited": "none",
     "name": "東郷あい",
-    "img": "ai1"
+    "id": "200531"
   },
   {
     "card_name": "パンパンの夢",
@@ -1787,7 +1787,7 @@
     "type": "cute",
     "limited": "none",
     "name": "大原みちる",
-    "img": "michiru1"
+    "id": "100535"
   },
   {
     "card_name": "ときめきトラベラー",
@@ -1797,7 +1797,7 @@
     "type": "passion",
     "limited": "none",
     "name": "並木芽衣子",
-    "img": "meiko1"
+    "id": "300517"
   },
   {
     "card_name": "渚の花嫁",
@@ -1807,7 +1807,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "新田美波",
-    "img": "minami3"
+    "id": "200537"
   },
   {
     "card_name": "永遠の相棒",
@@ -1817,7 +1817,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "片桐早苗",
-    "img": "sanae2"
+    "id": "300519"
   },
   {
     "card_name": "ひらめきロボティクス",
@@ -1827,7 +1827,7 @@
     "type": "cute",
     "limited": "none",
     "name": "池袋晶葉",
-    "img": "akiha1"
+    "id": "100545"
   },
   {
     "card_name": "笑うたい樹",
@@ -1837,7 +1837,7 @@
     "type": "passion",
     "limited": "none",
     "name": "上田鈴帆",
-    "img": "suzuho1"
+    "id": "300527"
   },
   {
     "card_name": "イン・ヒューマン",
@@ -1847,7 +1847,7 @@
     "type": "cool",
     "limited": "none",
     "name": "高峯のあ",
-    "img": "noa1"
+    "id": "200549"
   },
   {
     "card_name": "うたかたの結び手",
@@ -1857,7 +1857,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "依田芳乃",
-    "img": "yoshino3"
+    "id": "300529"
   },
   {
     "card_name": "モンスター・パーティー ! ",
@@ -1867,7 +1867,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "早坂美玲",
-    "img": "mirei2"
+    "id": "100551"
   },
   {
     "card_name": "星祭りの夜",
@@ -1877,7 +1877,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "鷺沢文香",
-    "img": "fumika3"
+    "id": "200553"
   },
   {
     "card_name": "超☆志貫徹",
@@ -1887,7 +1887,7 @@
     "type": "passion",
     "limited": "none",
     "name": "冴島清美",
-    "img": "kiyomi1"
+    "id": "300533"
   },
   {
     "card_name": "P.C.S",
@@ -1897,7 +1897,7 @@
     "type": "cute",
     "limited": "none",
     "name": "五十嵐響子",
-    "img": "kyoko3"
+    "id": "100557"
   },
   {
     "card_name": "すいすいオーシャン",
@@ -1907,7 +1907,7 @@
     "type": "cool",
     "limited": "none",
     "name": "浅利七海",
-    "img": "nanami1"
+    "id": "200561"
   },
   {
     "card_name": "愛盛り☆フラッペ",
@@ -1917,7 +1917,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "棟方愛海",
-    "img": "atsumi2"
+    "id": "100559"
   },
   {
     "card_name": "サマーサニーブーケ",
@@ -1927,7 +1927,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "相葉夕美",
-    "img": "yumi3"
+    "id": "300541"
   },
   {
     "card_name": "シーサイドドリーム",
@@ -1937,7 +1937,7 @@
     "type": "cool",
     "limited": "none",
     "name": "荒木比奈",
-    "img": "hina2"
+    "id": "200565"
   },
   {
     "card_name": "お祭り小町大作戦",
@@ -1947,7 +1947,7 @@
     "type": "cute",
     "limited": "none",
     "name": "桃井あずき",
-    "img": "azuki1"
+    "id": "100567"
   },
   {
     "card_name": "夢うたうチカラ",
@@ -1957,7 +1957,7 @@
     "type": "passion",
     "limited": "none",
     "name": "南条光",
-    "img": "hikaru1"
+    "id": "300549"
   },
   {
     "card_name": "憧れへのステップ",
@@ -1967,7 +1967,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "乙倉悠貴",
-    "img": "yuuki3"
+    "id": "100573"
   },
   {
     "card_name": "一陣の情熱",
@@ -1977,7 +1977,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "神谷奈緒",
-    "img": "nao3"
+    "id": "200571"
   },
   {
     "card_name": "トゥインクル・パーティー",
@@ -1987,7 +1987,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "北条加蓮",
-    "img": "karen3"
+    "id": "200575"
   },
   {
     "card_name": "笑顔のレセプション",
@@ -1997,7 +1997,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "高森藍子",
-    "img": "aiko3"
+    "id": "300553"
   },
   {
     "card_name": "P.C.S",
@@ -2007,7 +2007,7 @@
     "type": "cute",
     "limited": "none",
     "name": "島村卯月",
-    "img": "uzuki4"
+    "id": "100577"
   },
   {
     "card_name": "お菓子なドリーミング",
@@ -2017,7 +2017,7 @@
     "type": "passion",
     "limited": "none",
     "name": "喜多日菜子",
-    "img": "hinako2"
+    "id": "300559"
   },
   {
     "card_name": "なよ竹の美器",
@@ -2027,7 +2027,7 @@
     "type": "cool",
     "limited": "none",
     "name": "藤原肇",
-    "img": "hajime2"
+    "id": "200583"
   },
   {
     "card_name": "自称・魔法少女",
@@ -2037,7 +2037,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "輿水幸子",
-    "img": "sachiko4"
+    "id": "100583"
   },
   {
     "card_name": "はぴはぴ☆はろうぃん",
@@ -2047,7 +2047,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "諸星きらり",
-    "img": "kirari4"
+    "id": "300563"
   },
   {
     "card_name": "巡り会えた彩り",
@@ -2057,7 +2057,7 @@
     "type": "cool",
     "limited": "none",
     "name": "鷹富士茄子",
-    "img": "kako2"
+    "id": "200589"
   },
   {
     "card_name": "ライドオンステージ",
@@ -2067,7 +2067,7 @@
     "type": "cute",
     "limited": "none",
     "name": "原田美世",
-    "img": "miyo1"
+    "id": "100593"
   },
   {
     "card_name": "フリースタイル☆ライフ",
@@ -2077,7 +2077,7 @@
     "type": "passion",
     "limited": "none",
     "name": "小松伊吹",
-    "img": "ibuki1"
+    "id": "300569"
   },
   {
     "card_name": "オーダーメイド・はぁと",
@@ -2087,7 +2087,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "佐藤心",
-    "img": "shin3"
+    "id": "300571"
   },
   {
     "card_name": "ソレイユ・エ・リュヌ",
@@ -2097,7 +2097,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "宮本フレデリカ",
-    "img": "frederica3"
+    "id": "100597"
   },
   {
     "card_name": "灼熱のリベリオン",
@@ -2107,7 +2107,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "二宮飛鳥",
-    "img": "asuka3"
+    "id": "200597"
   },
   {
     "card_name": "individuals",
@@ -2117,7 +2117,7 @@
     "type": "passion",
     "limited": "none",
     "name": "星輝子",
-    "img": "syoko3"
+    "id": "300577"
   },
   {
     "card_name": "羽衣小町",
@@ -2127,7 +2127,7 @@
     "type": "cute",
     "limited": "none",
     "name": "小早川紗枝",
-    "img": "sae3"
+    "id": "100603"
   },
   {
     "card_name": "individuals",
@@ -2137,7 +2137,7 @@
     "type": "cool",
     "limited": "none",
     "name": "森久保乃々",
-    "img": "nono3"
+    "id": "200607"
   },
   {
     "card_name": "聖夜の約束",
@@ -2147,7 +2147,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "三船美優",
-    "img": "miyu3"
+    "id": "200609"
   },
   {
     "card_name": "キラピカ☆ホーリーナイト",
@@ -2157,7 +2157,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎莉嘉",
-    "img": "rika3"
+    "id": "300583"
   },
   {
     "card_name": "individuals",
@@ -2167,7 +2167,7 @@
     "type": "cute",
     "limited": "none",
     "name": "早坂美玲",
-    "img": "mirei3"
+    "id": "100607"
   },
   {
     "card_name": "ウォーミング・ハート",
@@ -2177,7 +2177,7 @@
     "type": "cool",
     "limited": "none",
     "name": "アナスタシア",
-    "img": "anastasia4"
+    "id": "200617"
   },
   {
     "card_name": "ミラクルホーリーナイト",
@@ -2187,7 +2187,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "イヴ・サンタクロース",
-    "img": "santaclaus1"
+    "id": "300597"
   },
   {
     "card_name": "ホワイト・ハピネス",
@@ -2197,7 +2197,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "緒方智絵里",
-    "img": "chieri4"
+    "id": "100611"
   },
   {
     "card_name": "一夜の魔法",
@@ -2207,7 +2207,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "赤城みりあ",
-    "img": "miria4"
+    "id": "300599"
   },
   {
     "card_name": "悠久の羽根",
@@ -2217,7 +2217,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "高垣楓",
-    "img": "kaede4"
+    "id": "200619"
   },
   {
     "card_name": "錦雅信念",
@@ -2227,7 +2227,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "向井拓海",
-    "img": "takumi3"
+    "id": "300601"
   },
   {
     "card_name": "ディーラーズディライト",
@@ -2237,7 +2237,7 @@
     "type": "cute",
     "limited": "none",
     "name": "兵藤レナ",
-    "img": "rena1"
+    "id": "100619"
   },
   {
     "card_name": "羽衣小町",
@@ -2247,7 +2247,7 @@
     "type": "cool",
     "limited": "none",
     "name": "塩見周子",
-    "img": "syuko4"
+    "id": "200623"
   },
   {
     "card_name": "ステップ・マイ・ステップ",
@@ -2257,7 +2257,7 @@
     "type": "cute",
     "limited": "none",
     "name": "福山舞",
-    "img": "mai1"
+    "id": "100623"
   },
   {
     "card_name": "ポジティブパッション",
@@ -2267,7 +2267,7 @@
     "type": "passion",
     "limited": "none",
     "name": "本田未央",
-    "img": "mio4"
+    "id": "300611"
   },
   {
     "card_name": "想いプレゼント",
@@ -2277,7 +2277,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "佐久間まゆ",
-    "img": "mayu4"
+    "id": "100627"
   },
   {
     "card_name": "スウィート・ミント",
@@ -2287,7 +2287,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "結城晴",
-    "img": "haru2"
+    "id": "200627"
   },
   {
     "card_name": "エレガンス・プラス",
@@ -2297,7 +2297,7 @@
     "type": "passion",
     "limited": "none",
     "name": "十時愛梨",
-    "img": "airi4"
+    "id": "300617"
   },
   {
     "card_name": "イノセント・ホワイト",
@@ -2307,7 +2307,7 @@
     "type": "cute",
     "limited": "none",
     "name": "櫻井桃華",
-    "img": "momoka3"
+    "id": "100635"
   },
   {
     "card_name": "色とりどりのゆめ",
@@ -2317,7 +2317,7 @@
     "type": "cool",
     "limited": "none",
     "name": "成宮由愛",
-    "img": "yume1"
+    "id": "200635"
   },
   {
     "card_name": "舞台上のエレガンテ",
@@ -2327,7 +2327,7 @@
     "type": "passion",
     "limited": "none",
     "name": "松山久美子",
-    "img": "kumiko1"
+    "id": "300623"
   },
   {
     "card_name": "ありすの物語",
@@ -2337,7 +2337,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "橘ありす",
-    "img": "arisu3"
+    "id": "200643"
   },
   {
     "card_name": "夜を脱いで、一小節",
@@ -2347,7 +2347,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "速水奏",
-    "img": "kanade4"
+    "id": "200645"
   },
   {
     "card_name": "ラブ・ワンダー",
@@ -2357,7 +2357,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "大槻唯",
-    "img": "yui4"
+    "id": "300629"
   },
   {
     "card_name": "しゅまいるプレゼント",
@@ -2367,7 +2367,7 @@
     "type": "cute",
     "limited": "none",
     "name": "大沼くるみ",
-    "img": "kurumi1"
+    "id": "100643"
   },
   {
     "card_name": "Triad Primus",
@@ -2377,7 +2377,7 @@
     "type": "cool",
     "limited": "none",
     "name": "渋谷凛",
-    "img": "rin4"
+    "id": "200649"
   },
   {
     "card_name": "にこにこキッチン",
@@ -2387,7 +2387,7 @@
     "type": "passion",
     "limited": "none",
     "name": "龍崎薫",
-    "img": "kaoru2"
+    "id": "300637"
   },
   {
     "card_name": "音色を抱きしめて",
@@ -2397,7 +2397,7 @@
     "type": "cute",
     "limited": "none",
     "name": "水本ゆかり",
-    "img": "yukari2"
+    "id": "100649"
   },
   {
     "card_name": "あんず色の青春",
@@ -2407,7 +2407,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "双葉杏",
-    "img": "anzu4"
+    "id": "100651"
   },
   {
     "card_name": "ぴかぴかのさくらぐみ♪",
@@ -2417,7 +2417,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "市原仁奈",
-    "img": "nina3"
+    "id": "300641"
   },
   {
     "card_name": "無限大オーバーフロー",
@@ -2427,7 +2427,7 @@
     "type": "passion",
     "limited": "none",
     "name": "真鍋いつき",
-    "img": "itsuki1"
+    "id": "300647"
   },
   {
     "card_name": "ブランニュー・ビート",
@@ -2437,7 +2437,7 @@
     "type": "cool",
     "limited": "none",
     "name": "多田李衣菜",
-    "img": "riina4"
+    "id": "200663"
   },
   {
     "card_name": "緋薔薇の令嬢",
@@ -2447,7 +2447,7 @@
     "type": "cute",
     "limited": "none",
     "name": "黒埼ちとせ",
-    "img": "chitose1"
+    "id": "100661"
   },
   {
     "card_name": "白面の騎士",
@@ -2457,7 +2457,7 @@
     "type": "cute",
     "limited": "none",
     "name": "白雪千夜",
-    "img": "chiyo1"
+    "id": "100663"
   },
   {
     "card_name": "ノブレス・ノワール",
@@ -2467,7 +2467,7 @@
     "type": "cool",
     "limited": "none",
     "name": "黒川千秋",
-    "img": "chiaki1"
+    "id": "200667"
   },
   {
     "card_name": "日向の乙女",
@@ -2477,7 +2477,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "小日向美穂",
-    "img": "miho4"
+    "id": "100669"
   },
   {
     "card_name": "ほの甘いロマンス",
@@ -2487,7 +2487,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "三村かな子",
-    "img": "kanako4"
+    "id": "100673"
   },
   {
     "card_name": "朱華色の夢",
@@ -2497,7 +2497,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "藤原肇",
-    "img": "hajime3"
+    "id": "200673"
   },
   {
     "card_name": "星へのピチカート",
@@ -2507,7 +2507,7 @@
     "type": "cute",
     "limited": "none",
     "name": "涼宮星花",
-    "img": "seika1"
+    "id": "100679"
   },
   {
     "card_name": "オンタイム・ハーモニー",
@@ -2517,7 +2517,7 @@
     "type": "cool",
     "limited": "none",
     "name": "久川颯",
-    "img": "hayate1"
+    "id": "200675"
   },
   {
     "card_name": "オフタイム・ナギルーム",
@@ -2527,7 +2527,7 @@
     "type": "passion",
     "limited": "none",
     "name": "久川凪",
-    "img": "nagi1"
+    "id": "300665"
   },
   {
     "card_name": "歓びのアティチュード",
@@ -2537,7 +2537,7 @@
     "type": "cool",
     "limited": "none",
     "name": "綾瀬穂乃香",
-    "img": "honoka1"
+    "id": "200677"
   },
   {
     "card_name": "いっぱいの感謝",
@@ -2547,7 +2547,7 @@
     "type": "cute",
     "limited": "none",
     "name": "相原雪乃",
-    "img": "yukino1"
+    "id": "100683"
   },
   {
     "card_name": "ル・マリアージュ",
@@ -2557,7 +2557,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "宮本フレデリカ",
-    "img": "frederica4"
+    "id": "100685"
   },
   {
     "card_name": "約束のまなざし",
@@ -2567,7 +2567,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎美嘉",
-    "img": "mika4"
+    "id": "300669"
   },
   {
     "card_name": "エール・フォー・オール",
@@ -2577,7 +2577,7 @@
     "type": "passion",
     "limited": "none",
     "name": "若林智香",
-    "img": "tomoka1"
+    "id": "300681"
   },
   {
     "card_name": "わたし色の羽根で",
@@ -2587,7 +2587,7 @@
     "type": "cute",
     "limited": "none",
     "name": "白菊ほたる",
-    "img": "hotaru2"
+    "id": "100687"
   },
   {
     "card_name": "ほわあまプリンセス",
@@ -2597,7 +2597,7 @@
     "type": "cute",
     "limited": "none",
     "name": "榊原里美",
-    "img": "satomi1"
+    "id": "100689"
   },
   {
     "card_name": "アップビート・ラン",
@@ -2607,7 +2607,7 @@
     "type": "passion",
     "limited": "none",
     "name": "北川真尋",
-    "img": "mahiro1"
+    "id": "300675"
   },
   {
     "card_name": "アドバンス・アバンチュール",
@@ -2617,7 +2617,7 @@
     "type": "cool",
     "limited": "none",
     "name": "川島瑞樹",
-    "img": "mizuki3"
+    "id": "200693"
   },
   {
     "card_name": "潮風の一頁",
@@ -2627,7 +2627,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "鷺沢文香",
-    "img": "fumika4"
+    "id": "200695"
   },
   {
     "card_name": "夜の一輪",
@@ -2637,7 +2637,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "相葉夕美",
-    "img": "yumi4"
+    "id": "300685"
   },
   {
     "card_name": "星逢う夜に",
@@ -2647,7 +2647,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "鷹富士茄子",
-    "img": "kako3"
+    "id": "200697"
   },
   {
     "card_name": "彩☆きっく乙女",
@@ -2657,7 +2657,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "堀裕子",
-    "img": "yuko3"
+    "id": "300689"
   },
   {
     "card_name": "おめかし☆あかりんご",
@@ -2667,7 +2667,7 @@
     "type": "cute",
     "limited": "none",
     "name": "辻野あかり",
-    "img": "akari1"
+    "id": "100701"
   },
   {
     "card_name": "夜更けに咲く才媛",
@@ -2677,7 +2677,7 @@
     "type": "cool",
     "limited": "none",
     "name": "和久井留美",
-    "img": "rumi1"
+    "id": "200701"
   },
   {
     "card_name": "想いは深く、歌声は遠く",
@@ -2687,7 +2687,7 @@
     "type": "cool",
     "limited": "none",
     "name": "瀬名詩織",
-    "img": "shiori1"
+    "id": "200707"
   },
   {
     "card_name": "エキゾチックプレイヤー",
@@ -2697,7 +2697,7 @@
     "type": "passion",
     "limited": "none",
     "name": "杉坂海",
-    "img": "umi1"
+    "id": "300693"
   },
   {
     "card_name": "カントリー・ステップ",
@@ -2707,7 +2707,7 @@
     "type": "cute",
     "limited": "none",
     "name": "関裕美",
-    "img": "hiromi3"
+    "id": "100705"
   },
   {
     "card_name": "レットイットキュート ! ",
@@ -2717,7 +2717,7 @@
     "type": "passion",
     "limited": "none",
     "name": "メアリー・コクラン",
-    "img": "cochran1"
+    "id": "300695"
   },
   {
     "card_name": "夏色☆サニーデイ",
@@ -2727,7 +2727,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "乙倉悠貴",
-    "img": "yuuki4"
+    "id": "100707"
   },
   {
     "card_name": "サンセットヴィーナス",
@@ -2737,7 +2737,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "三船美優",
-    "img": "miyu4"
+    "id": "200713"
   },
   {
     "card_name": "全力全開 ! サマーサプライズ",
@@ -2747,7 +2747,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "姫川友紀",
-    "img": "yuki3"
+    "id": "300699"
   },
   {
     "card_name": "ユリユリフェスティバル",
@@ -2757,7 +2757,7 @@
     "type": "cute",
     "limited": "none",
     "name": "大西由里子",
-    "img": "yuriko1"
+    "id": "100713"
   },
   {
     "card_name": "ライフ・オンライン",
@@ -2767,7 +2767,7 @@
     "type": "cool",
     "limited": "none",
     "name": "砂塚あきら",
-    "img": "akira1"
+    "id": "200719"
   },
   {
     "card_name": "プールサイド・マーメイド",
@@ -2777,7 +2777,7 @@
     "type": "passion",
     "limited": "none",
     "name": "西島櫂",
-    "img": "kai1"
+    "id": "300707"
   },
   {
     "card_name": "トップ・オブ・ウェーブ",
@@ -2787,7 +2787,7 @@
     "type": "passion",
     "limited": "none",
     "name": "沢田麻理菜",
-    "img": "marina1"
+    "id": "300709"
   },
   {
     "card_name": "プロミネンス・プライド",
@@ -2797,7 +2797,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "北条加蓮",
-    "img": "karen4"
+    "id": "200725"
   },
   {
     "card_name": "トゥルー・ドリーム",
@@ -2807,7 +2807,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "喜多日菜子",
-    "img": "hinako3"
+    "id": "300711"
   },
   {
     "card_name": "ドレスアップ☆ウサミン",
@@ -2817,7 +2817,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "安部菜々",
-    "img": "nana4"
+    "id": "100719"
   },
   {
     "card_name": "祝宴の白姫",
@@ -2827,7 +2827,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "神崎蘭子",
-    "img": "ranko4"
+    "id": "200729"
   },
   {
     "card_name": "軌跡のギフト",
@@ -2837,7 +2837,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "日野茜",
-    "img": "akane3"
+    "id": "300715"
   },
   {
     "card_name": "夢見りあむは救われたい",
@@ -2847,7 +2847,7 @@
     "type": "passion",
     "limited": "none",
     "name": "夢見りあむ",
-    "img": "riamu1"
+    "id": "300717"
   },
   {
     "card_name": "風のゆくさき",
@@ -2857,7 +2857,7 @@
     "type": "cute",
     "limited": "none",
     "name": "浅野風香",
-    "img": "fuuka1"
+    "id": "100727"
   },
   {
     "card_name": "幸せのお告げ",
@@ -2867,7 +2867,7 @@
     "type": "cool",
     "limited": "none",
     "name": "藤居朋",
-    "img": "tomo1"
+    "id": "200733"
   },
   {
     "card_name": "ブラッシング・ユー ! ",
@@ -2877,7 +2877,7 @@
     "type": "cute",
     "limited": "none",
     "name": "太田優",
-    "img": "yuu1"
+    "id": "100729"
   },
   {
     "card_name": "重ねた手と日々",
@@ -2887,7 +2887,7 @@
     "type": "cool",
     "limited": "none",
     "name": "佐城雪美",
-    "img": "yukimi2"
+    "id": "200739"
   },
   {
     "card_name": "いたずらキャット大集合♪",
@@ -2897,7 +2897,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "椎名法子",
-    "img": "noriko2"
+    "id": "100733"
   },
   {
     "card_name": "魔性の夜会",
@@ -2907,7 +2907,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "神谷奈緒",
-    "img": "nao4"
+    "id": "200741"
   },
   {
     "card_name": "ヒーローオブシャドウ",
@@ -2917,7 +2917,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "南条光",
-    "img": "hikaru2"
+    "id": "300723"
   },
   {
     "card_name": "学び舎のペルソナ",
@@ -2927,7 +2927,7 @@
     "type": "cool",
     "limited": "none",
     "name": "八神マキノ",
-    "img": "makino2"
+    "id": "200745"
   },
   {
     "card_name": "みんなの人気者",
@@ -2937,7 +2937,7 @@
     "type": "cute",
     "limited": "none",
     "name": "赤西瑛梨華",
-    "img": "erika1"
+    "id": "100741"
   },
   {
     "card_name": "笑いの中心",
@@ -2947,7 +2947,7 @@
     "type": "passion",
     "limited": "none",
     "name": "キャシー・グラハム",
-    "img": "graham1"
+    "id": "300727"
   },
   {
     "card_name": "戦国愛☆一代",
@@ -2957,7 +2957,7 @@
     "type": "cute",
     "limited": "none",
     "name": "丹羽仁美",
-    "img": "hitomi1"
+    "id": "100743"
   },
   {
     "card_name": "喝采のディーヴァ",
@@ -2967,7 +2967,7 @@
     "type": "cool",
     "limited": "none",
     "name": "西川保奈美",
-    "img": "honami1"
+    "id": "200751"
   },
   {
     "card_name": "風まとう光",
@@ -2977,7 +2977,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "小早川紗枝",
-    "img": "sae4"
+    "id": "100745"
   },
   {
     "card_name": "清澄のエッセンス",
@@ -2987,7 +2987,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "一ノ瀬志希",
-    "img": "shiki4"
+    "id": "100749"
   },
   {
     "card_name": "ワンマン・アイドルタイム",
@@ -2997,7 +2997,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "桐生つかさ",
-    "img": "tsukasa2"
+    "id": "200753"
   },
   {
     "card_name": "キノコがいっぱい",
@@ -3007,7 +3007,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "星輝子",
-    "img": "syoko4"
+    "id": "300739"
   },
   {
     "card_name": "華美爛漫",
@@ -3017,7 +3017,7 @@
     "type": "cute",
     "limited": "none",
     "name": "楊菲菲",
-    "img": "feifei1"
+    "id": "100755"
   },
   {
     "card_name": "モード・ラフィネ",
@@ -3027,7 +3027,7 @@
     "type": "cool",
     "limited": "none",
     "name": "相川千夏",
-    "img": "chinatsu1"
+    "id": "200757"
   },
   {
     "card_name": "ライジングビート",
@@ -3037,7 +3037,7 @@
     "type": "passion",
     "limited": "none",
     "name": "仙崎恵磨",
-    "img": "ema1"
+    "id": "300743"
   },
   {
     "card_name": "ライフイズアート",
@@ -3047,7 +3047,7 @@
     "type": "cool",
     "limited": "none",
     "name": "吉岡沙紀",
-    "img": "saki1"
+    "id": "200763"
   },
   {
     "card_name": "こずえからみんなへ",
@@ -3057,7 +3057,7 @@
     "type": "cute",
     "limited": "none",
     "name": "遊佐こずえ",
-    "img": "kozue2"
+    "id": "100759"
   },
   {
     "card_name": "スウィートハートロマンス",
@@ -3067,7 +3067,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "五十嵐響子",
-    "img": "kyoko4"
+    "id": "100761"
   },
   {
     "card_name": "ホワイトスノードール",
@@ -3077,7 +3077,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "白坂小梅",
-    "img": "koume3"
+    "id": "200767"
   },
   {
     "card_name": "フリータイム☆クリスマス",
@@ -3087,7 +3087,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "喜多見柚",
-    "img": "yuzu3"
+    "id": "300747"
   },
   {
     "card_name": "トワ・エ・モワ",
@@ -3097,7 +3097,7 @@
     "type": "cool",
     "limited": "none",
     "name": "柊志乃",
-    "img": "shino1"
+    "id": "200771"
   },
   {
     "card_name": "アットホーム・マイルーツ",
@@ -3107,7 +3107,7 @@
     "type": "passion",
     "limited": "none",
     "name": "ナターリア",
-    "img": "natalia2"
+    "id": "300755"
   },
   {
     "card_name": "私に恋をする私",
@@ -3117,7 +3117,7 @@
     "type": "cute",
     "limited": "none",
     "name": "井村雪菜",
-    "img": "setsuna1"
+    "id": "100765"
   },
   {
     "card_name": "聖歌の天使",
@@ -3127,7 +3127,7 @@
     "type": "cool",
     "limited": "none",
     "name": "望月聖",
-    "img": "hijiri1"
+    "id": "200777"
   },
   {
     "card_name": "エクステンド・ワールド",
@@ -3137,7 +3137,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "二宮飛鳥",
-    "img": "asuka4"
+    "id": "200779"
   },
   {
     "card_name": "トキメキ☆ラブハート",
@@ -3147,7 +3147,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "城ヶ崎莉嘉",
-    "img": "rika4"
+    "id": "300761"
   },
   {
     "card_name": "ハッピーにゃーイヤー",
@@ -3157,7 +3157,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "前川みく",
-    "img": "miku4"
+    "id": "100773"
   },
   {
     "card_name": "一歩ずつ前へ",
@@ -3167,7 +3167,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "森久保乃々",
-    "img": "nono4"
+    "id": "200781"
   },
   {
     "card_name": "心躍る新春",
@@ -3177,7 +3177,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "村上巴",
-    "img": "tomoe3"
+    "id": "300765"
   },
   {
     "card_name": "影に揺れる光",
@@ -3187,7 +3187,7 @@
     "type": "cool",
     "limited": "none",
     "name": "服部瞳子",
-    "img": "toko1"
+    "id": "200787"
   },
   {
     "card_name": "ごーごー ! すまいらー ! ! ",
@@ -3197,7 +3197,7 @@
     "type": "passion",
     "limited": "none",
     "name": "野々村そら",
-    "img": "sora1"
+    "id": "300767"
   },
   {
     "card_name": "みんなのお姉さん",
@@ -3207,7 +3207,7 @@
     "type": "cute",
     "limited": "none",
     "name": "持田亜里沙",
-    "img": "arisa1"
+    "id": "100779"
   },
   {
     "card_name": "あの日の私を受け止めて",
@@ -3217,7 +3217,7 @@
     "type": "cool",
     "limited": "none",
     "name": "岡崎泰葉",
-    "img": "yasuha1"
+    "id": "200785"
   },
   {
     "card_name": "スペシャルセクシー",
@@ -3227,7 +3227,7 @@
     "type": "cool",
     "limited": "none",
     "name": "松本沙理奈",
-    "img": "sarina1"
+    "id": "200791"
   },
   {
     "card_name": "見つめて★レディ",
@@ -3237,7 +3237,7 @@
     "type": "passion",
     "limited": "none",
     "name": "的場梨沙",
-    "img": "risa2"
+    "id": "300773"
   },
   {
     "card_name": "想いのアンサンブル",
@@ -3247,7 +3247,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "水本ゆかり",
-    "img": "yukari3"
+    "id": "100785"
   },
   {
     "card_name": "ご注文はひなですか？",
@@ -3257,7 +3257,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "荒木比奈",
-    "img": "hina3"
+    "id": "200793"
   },
   {
     "card_name": "ラグジュアリィ・はぁと",
@@ -3267,7 +3267,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "佐藤心",
-    "img": "shin4"
+    "id": "300775"
   },
   {
     "card_name": "あるがまま咲く花",
@@ -3277,7 +3277,7 @@
     "type": "cute",
     "limited": "none",
     "name": "江上椿",
-    "img": "tsubaki1"
+    "id": "100791"
   },
   {
     "card_name": "マックスビューティー",
@@ -3287,7 +3287,7 @@
     "type": "passion",
     "limited": "none",
     "name": "斉藤洋子",
-    "img": "yoko1"
+    "id": "300777"
   },
   {
     "card_name": "早耶の瞳に恋してる",
@@ -3297,7 +3297,7 @@
     "type": "cute",
     "limited": "none",
     "name": "松原早耶",
-    "img": "saya1"
+    "id": "100793"
   },
   {
     "card_name": "みゆきとあそぼ ! ",
@@ -3307,7 +3307,7 @@
     "type": "cute",
     "limited": "none",
     "name": "柳瀬美由紀",
-    "img": "miyuki1"
+    "id": "100795"
   },
   {
     "card_name": "華麗なパピヨン",
@@ -3317,7 +3317,7 @@
     "type": "cool",
     "limited": "none",
     "name": "岸部彩華",
-    "img": "ayaka1"
+    "id": "200805"
   },
   {
     "card_name": "黒薔薇は小夜に咲く",
@@ -3327,7 +3327,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "櫻井桃華",
-    "img": "momoka4"
+    "id": "100797"
   },
   {
     "card_name": "おとぎの国のものがたり",
@@ -3337,7 +3337,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "市原仁奈",
-    "img": "nina4"
+    "id": "300783"
   },
   {
     "card_name": "ひとり、時は過ぎて",
@@ -3347,7 +3347,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "白雪千夜",
-    "img": "chiyo2"
+    "id": "100799"
   },
   {
     "card_name": "ビギニング・スカイ",
@@ -3357,7 +3357,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "橘ありす",
-    "img": "arisu4"
+    "id": "200809"
   },
   {
     "card_name": "わるなぎスタイル",
@@ -3367,7 +3367,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "久川凪",
-    "img": "nagi2"
+    "id": "300787"
   },
   {
     "card_name": "トゥインクル☆ラブリー",
@@ -3377,7 +3377,7 @@
     "type": "cute",
     "limited": "none",
     "name": "横山千佳",
-    "img": "chika1"
+    "id": "100801"
   },
   {
     "card_name": "愛・ビリーブ",
@@ -3387,7 +3387,7 @@
     "type": "cute",
     "limited": "none",
     "name": "有浦柑奈",
-    "img": "kanna1"
+    "id": "100803"
   },
   {
     "card_name": "憧れのメドレー",
@@ -3397,7 +3397,7 @@
     "type": "cute",
     "limited": "none",
     "name": "長富蓮実",
-    "img": "hasumi1"
+    "id": "100807"
   },
   {
     "card_name": "あたしコーディネート",
@@ -3407,7 +3407,7 @@
     "type": "passion",
     "limited": "none",
     "name": "衛藤美紗希",
-    "img": "misaki1"
+    "id": "300791"
   },
   {
     "card_name": "この身ひとつで",
@@ -3417,7 +3417,7 @@
     "type": "cool",
     "limited": "none",
     "name": "木場真奈美",
-    "img": "manami1"
+    "id": "200819"
   },
   {
     "card_name": "きらめきの幕開け",
@@ -3427,7 +3427,7 @@
     "type": "cool",
     "limited": "none",
     "name": "松尾千鶴",
-    "img": "chizuru1"
+    "id": "200821"
   },
   {
     "card_name": "放課後★ストロングシャウト",
@@ -3437,7 +3437,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "早坂美玲",
-    "img": "mirei4"
+    "id": "100809"
   },
   {
     "card_name": "トキメキ☆ホーダイ",
@@ -3447,7 +3447,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "久川颯",
-    "img": "hayate2"
+    "id": "200823"
   },
   {
     "card_name": "はるべと咲くや",
@@ -3457,7 +3457,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "依田芳乃",
-    "img": "yoshino4"
+    "id": "300797"
   },
   {
     "card_name": "愛されブロッサム",
@@ -3467,7 +3467,7 @@
     "type": "cute",
     "limited": "none",
     "name": "月宮雅",
-    "img": "miyabi1"
+    "id": "100813"
   },
   {
     "card_name": "イン・ファイト",
@@ -3477,7 +3477,7 @@
     "type": "cool",
     "limited": "none",
     "name": "桐野アヤ",
-    "img": "aya1"
+    "id": "200829"
   },
   {
     "card_name": "旅の呼び声",
@@ -3487,7 +3487,7 @@
     "type": "cool",
     "limited": "none",
     "name": "伊集院惠",
-    "img": "megumi1"
+    "id": "200833"
   },
   {
     "card_name": "飛び立つアナザースカイ",
@@ -3497,7 +3497,7 @@
     "type": "passion",
     "limited": "none",
     "name": "相馬夏美",
-    "img": "natsumi1"
+    "id": "300805"
   },
   {
     "card_name": "'Tis Love that Makes Me",
@@ -3507,7 +3507,7 @@
     "type": "cool",
     "limited": "none",
     "name": "ケイト",
-    "img": "kate1"
+    "id": "200835"
   },
   {
     "card_name": "召しませ♪ぱーふぇくと",
@@ -3517,7 +3517,7 @@
     "type": "passion",
     "limited": "none",
     "name": "槙原志保",
-    "img": "shiho1"
+    "id": "300809"
   },
   {
     "card_name": "女神は朝焼けの海に",
@@ -3527,7 +3527,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "新田美波",
-    "img": "minami4"
+    "id": "200837"
   },
   {
     "card_name": "フューチャー・スペース",
@@ -3537,7 +3537,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "島村卯月",
-    "img": "uzuki5"
+    "id": "100823"
   },
   {
     "card_name": "アストラル・スカイ",
@@ -3547,7 +3547,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "渋谷凛",
-    "img": "rin5"
+    "id": "200843"
   },
   {
     "card_name": "パワー・オブ・ノヴァ",
@@ -3557,7 +3557,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "本田未央",
-    "img": "mio5"
+    "id": "300811"
   },
   {
     "card_name": "小さな私の大きな世界",
@@ -3567,7 +3567,7 @@
     "type": "cute",
     "limited": "none",
     "name": "日下部若葉",
-    "img": "wakaba1"
+    "id": "100827"
   },
   {
     "card_name": "笑顔の処方箋",
@@ -3577,7 +3577,7 @@
     "type": "cute",
     "limited": "none",
     "name": "柳清良",
-    "img": "kiyora1"
+    "id": "100831"
   },
   {
     "card_name": "ラグジュアリー・ルージュ",
@@ -3587,7 +3587,7 @@
     "type": "cool",
     "limited": "none",
     "name": "高橋礼子",
-    "img": "reiko1"
+    "id": "200845"
   },
   {
     "card_name": "ワイルドサラブレッド",
@@ -3597,7 +3597,7 @@
     "type": "passion",
     "limited": "none",
     "name": "浜川愛結奈",
-    "img": "ayuna1"
+    "id": "300815"
   },
   {
     "card_name": "千年の誓約",
@@ -3607,7 +3607,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "黒埼ちとせ",
-    "img": "chitose2"
+    "id": "100839"
   },
   {
     "card_name": "エターナル・マイラブ",
@@ -3617,7 +3617,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "川島瑞樹",
-    "img": "mizuki4"
+    "id": "200855"
   },
   {
     "card_name": "祝福の花をあなたに",
@@ -3627,7 +3627,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "イヴ・サンタクロース",
-    "img": "santaclaus2"
+    "id": "300817"
   },
   {
     "card_name": "少女の微笑",
@@ -3637,7 +3637,7 @@
     "type": "cool",
     "limited": "none",
     "name": "古澤頼子",
-    "img": "yoriko1"
+    "id": "200849"
   },
   {
     "card_name": "探偵アイドル都の事件簿",
@@ -3647,7 +3647,7 @@
     "type": "cute",
     "limited": "none",
     "name": "安斎都",
-    "img": "miyako1"
+    "id": "100837"
   },
   {
     "card_name": "ふんわり和心",
@@ -3657,7 +3657,7 @@
     "type": "passion",
     "limited": "none",
     "name": "海老原菜帆",
-    "img": "naho1"
+    "id": "300827"
   },
   {
     "card_name": "フレ・デ・ラ・モード",
@@ -3667,7 +3667,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "宮本フレデリカ",
-    "img": "frederica5"
+    "id": "100849"
   },
   {
     "card_name": "やすらぎの温度",
@@ -3677,7 +3677,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "高森藍子",
-    "img": "aiko4"
+    "id": "300829"
   },
   {
     "card_name": "ほしにねがいを",
@@ -3687,7 +3687,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "遊佐こずえ",
-    "img": "kozue3"
+    "id": "100851"
   },
   {
     "card_name": "#この瞬間を楽しんで",
@@ -3697,7 +3697,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "砂塚あきら",
-    "img": "akira2"
+    "id": "200865"
   },
   {
     "card_name": "一夜の煌きは永遠に",
@@ -3707,7 +3707,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "ナターリア",
-    "img": "natalia3"
+    "id": "300831"
   },
   {
     "card_name": "純朴の若草",
@@ -3717,7 +3717,7 @@
     "type": "cute",
     "limited": "none",
     "name": "奥山沙織",
-    "img": "saori1"
+    "id": "100855"
   },
   {
     "card_name": "ストイック・マイスタイル",
@@ -3727,7 +3727,7 @@
     "type": "cool",
     "limited": "none",
     "name": "小室千奈美",
-    "img": "chinami1"
+    "id": "200867"
   },
   {
     "card_name": "アモローソ・ファンタジア",
@@ -3737,7 +3737,7 @@
     "type": "cool",
     "limited": "none",
     "name": "梅木音葉",
-    "img": "otoha1"
+    "id": "200871"
   },
   {
     "card_name": "栄光へのアーチ",
@@ -3747,7 +3747,7 @@
     "type": "passion",
     "limited": "none",
     "name": "愛野渚",
-    "img": "nagisa1"
+    "id": "300841"
   },
   {
     "card_name": "魅惑のピクチュアポーズ",
@@ -3757,7 +3757,7 @@
     "type": "cool",
     "limited": "none",
     "name": "篠原礼",
-    "img": "rei1"
+    "id": "200877"
   },
   {
     "card_name": "まごころの看板娘",
@@ -3767,7 +3767,7 @@
     "type": "passion",
     "limited": "none",
     "name": "首藤葵",
-    "img": "aoi1"
+    "id": "300843"
   },
   {
     "card_name": "はじけてサマーアップル",
@@ -3777,7 +3777,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "辻野あかり",
-    "img": "akari2"
+    "id": "100863"
   },
   {
     "card_name": "うたかたマーメイド",
@@ -3787,7 +3787,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "鷹富士茄子",
-    "img": "kako4"
+    "id": "200879"
   },
   {
     "card_name": "スロウ・サマー・ヘヴン",
@@ -3797,7 +3797,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "十時愛梨",
-    "img": "airi5"
+    "id": "300845"
   },
   {
     "card_name": "はつらつムードメーカー",
@@ -3807,7 +3807,7 @@
     "type": "passion",
     "limited": "none",
     "name": "矢口美羽",
-    "img": "miu1"
+    "id": "300847"
   },
   {
     "card_name": "ヴァン・ドゥ・リベルテ",
@@ -3817,7 +3817,7 @@
     "type": "cute",
     "limited": "none",
     "name": "間中美里",
-    "img": "misato1"
+    "id": "100869"
   },
   {
     "card_name": "麗しの射手",
@@ -3827,7 +3827,7 @@
     "type": "cool",
     "limited": "none",
     "name": "水野翠",
-    "img": "midori1"
+    "id": "200889"
   },
   {
     "card_name": "新・世・界",
@@ -3837,7 +3837,7 @@
     "type": "cool",
     "limited": "none",
     "name": "ヘレン",
-    "img": "helen1"
+    "id": "200891"
   },
   {
     "card_name": "天に歌、地に器",
@@ -3847,7 +3847,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "藤原肇",
-    "img": "hajime4"
+    "id": "200893"
   },
   {
     "card_name": "夢見りあむしか勝たん",
@@ -3857,7 +3857,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "夢見りあむ",
-    "img": "riamu2"
+    "id": "300855"
   },
   {
     "card_name": "目指せ ! ユートピア",
@@ -3867,7 +3867,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "双葉杏",
-    "img": "anzu5"
+    "id": "100873"
   },
   {
     "card_name": "セレブレイト・カレイド",
@@ -3877,7 +3877,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "速水奏",
-    "img": "kanade5"
+    "id": "200895"
   },
   {
     "card_name": "メモリアル★ビーチサイド",
@@ -3887,7 +3887,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎美嘉",
-    "img": "mika5"
+    "id": "300861"
   },
   {
     "card_name": "自称・街の人気者",
@@ -3897,7 +3897,7 @@
     "type": "cute",
     "limited": "none",
     "name": "輿水幸子",
-    "img": "sachiko5"
+    "id": "100875"
   },
   {
     "card_name": "君色レンズ",
@@ -3907,7 +3907,7 @@
     "type": "cool",
     "limited": "none",
     "name": "上条春菜",
-    "img": "haruna2"
+    "id": "200899"
   },
   {
     "card_name": "青春のオピニオン",
@@ -3917,7 +3917,7 @@
     "type": "cool",
     "limited": "none",
     "name": "桐生つかさ",
-    "img": "tsukasa3"
+    "id": "200905"
   },
   {
     "card_name": "あわてふためけ全世界 ! ",
@@ -3927,7 +3927,7 @@
     "type": "passion",
     "limited": "none",
     "name": "小関麗奈",
-    "img": "reina2"
+    "id": "300869"
   },
   {
     "card_name": "永遠の結び愛",
@@ -3937,7 +3937,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "佐久間まゆ",
-    "img": "mayu5"
+    "id": "100881"
   },
   {
     "card_name": "うさぎさんわーるど",
@@ -3947,7 +3947,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "緒方智絵里",
-    "img": "chieri5"
+    "id": "100885"
   },
   {
     "card_name": "キトゥンズガーデン",
@@ -3957,7 +3957,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "佐城雪美",
-    "img": "yukimi3"
+    "id": "200909"
   },
   {
     "card_name": "あなたに捧ぐ王子様",
@@ -3967,7 +3967,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "喜多日菜子",
-    "img": "hinako4"
+    "id": "300871"
   },
   {
     "card_name": "おてんばスタートレイン",
@@ -3977,7 +3977,7 @@
     "type": "cute",
     "limited": "none",
     "name": "西園寺琴歌",
-    "img": "kotoka2"
+    "id": "100887"
   },
   {
     "card_name": "想いのリリーバー",
@@ -3987,7 +3987,7 @@
     "type": "passion",
     "limited": "none",
     "name": "姫川友紀",
-    "img": "yuki4"
+    "id": "300875"
   },
   {
     "card_name": "雨夜の誓い",
@@ -3997,7 +3997,7 @@
     "type": "cool",
     "limited": "none",
     "name": "黒川千秋",
-    "img": "chiaki2"
+    "id": "200911"
   },
   {
     "card_name": "超 ! 難波の親善大使",
@@ -4007,7 +4007,7 @@
     "type": "passion",
     "limited": "none",
     "name": "難波笑美",
-    "img": "emi2"
+    "id": "300883"
   },
   {
     "card_name": "ワナビー・レジェンド",
@@ -4017,7 +4017,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "多田李衣菜",
-    "img": "riina5"
+    "id": "200915"
   },
   {
     "card_name": "深紅の心化粧",
@@ -4027,7 +4027,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "小早川紗枝",
-    "img": "sae5"
+    "id": "100897"
   },
   {
     "card_name": "白き御使い",
@@ -4037,7 +4037,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "塩見周子",
-    "img": "syuko5"
+    "id": "200917"
   },
   {
     "card_name": "艶炎小唄",
@@ -4047,7 +4047,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "木村夏樹",
-    "img": "natsuki3"
+    "id": "300887"
   },
   {
     "card_name": "蒼海の道行き",
@@ -4057,7 +4057,7 @@
     "type": "cool",
     "limited": "none",
     "name": "大和亜季",
-    "img": "aki2"
+    "id": "200921"
   },
   {
     "card_name": "天まで届く晴れ姿",
@@ -4067,7 +4067,7 @@
     "type": "passion",
     "limited": "none",
     "name": "浜口あやめ",
-    "img": "ayame2"
+    "id": "300891"
   },
   {
     "card_name": "パンダフル・ライフ",
@@ -4077,7 +4077,7 @@
     "type": "cute",
     "limited": "none",
     "name": "大原みちる",
-    "img": "michiru2"
+    "id": "100903"
   },
   {
     "card_name": "こだわりチューンアップ",
@@ -4087,7 +4087,7 @@
     "type": "cute",
     "limited": "none",
     "name": "原田美世",
-    "img": "miyo2"
+    "id": "100905"
   },
   {
     "card_name": "コドクノツドイ",
@@ -4097,7 +4097,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "星輝子",
-    "img": "syoko5"
+    "id": "300895"
   },
   {
     "card_name": "ピュアホワイト・ハート",
@@ -4107,7 +4107,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "小日向美穂",
-    "img": "miho5"
+    "id": "100907"
   },
   {
     "card_name": "祝福のシュトラール",
@@ -4117,7 +4117,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "神崎蘭子",
-    "img": "ranko5"
+    "id": "200933"
   },
   {
     "card_name": "ホーリーホリデー",
@@ -4127,7 +4127,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "堀裕子",
-    "img": "yuko4"
+    "id": "300897"
   },
   {
     "card_name": "その身、果てるとも",
@@ -4137,7 +4137,7 @@
     "type": "passion",
     "limited": "none",
     "name": "財前時子",
-    "img": "tokiko2"
+    "id": "300899"
   },
   {
     "card_name": "麗しのミューズ",
@@ -4147,7 +4147,7 @@
     "type": "cool",
     "limited": "none",
     "name": "松永涼",
-    "img": "ryo2"
+    "id": "200941"
   },
   {
     "card_name": "ゴスペルクワイアの福音",
@@ -4157,7 +4157,7 @@
     "type": "cute",
     "limited": "none",
     "name": "クラリス",
-    "img": "clarice2"
+    "id": "100911"
   },
   {
     "card_name": "止まらない冒険心",
@@ -4167,7 +4167,7 @@
     "type": "cool",
     "limited": "none",
     "name": "氏家むつみ",
-    "img": "mutsumi2"
+    "id": "200943"
   },
   {
     "card_name": "黎明に願って",
@@ -4177,7 +4177,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "白菊ほたる",
-    "img": "hotaru3"
+    "id": "100913"
   },
   {
     "card_name": "謹賀のお出迎え",
@@ -4187,7 +4187,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "道明寺歌鈴",
-    "img": "karin3"
+    "id": "100917"
   },
   {
     "card_name": "新春旅情",
@@ -4197,7 +4197,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "アナスタシア",
-    "img": "anastasia5"
+    "id": "200949"
   },
   {
     "card_name": "甘カワ☆ニゅーいヤー",
@@ -4207,7 +4207,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "大槻唯",
-    "img": "yui5"
+    "id": "300909"
   },
   {
     "card_name": "ハンドメイド・ドリーム",
@@ -4217,7 +4217,7 @@
     "type": "cool",
     "limited": "none",
     "name": "佐々木千枝",
-    "img": "chie3"
+    "id": "200951"
   },
   {
     "card_name": "深淵なる月影",
@@ -4227,7 +4227,7 @@
     "type": "cool",
     "limited": "noir",
     "name": "高垣楓",
-    "img": "kaede5"
+    "id": "200945"
   },
   {
     "card_name": "スウィンギング・ナイト",
@@ -4237,7 +4237,7 @@
     "type": "passion",
     "limited": "none",
     "name": "松山久美子",
-    "img": "kumiko2"
+    "id": "300917"
   },
   {
     "card_name": "プリティハートキャッチャー",
@@ -4247,7 +4247,7 @@
     "type": "cute",
     "limited": "none",
     "name": "棟方愛海",
-    "img": "atsumi3"
+    "id": "100925"
   },
   {
     "card_name": "ベル・アントルメ",
@@ -4257,7 +4257,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "三村かな子",
-    "img": "kanako5"
+    "id": "100927"
   },
   {
     "card_name": "グレイスフル・テイスト",
@@ -4267,7 +4267,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "中野有香",
-    "img": "yuka3"
+    "id": "100929"
   },
   {
     "card_name": "甘美なる一夜",
@@ -4277,7 +4277,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "新田美波",
-    "img": "minami5"
+    "id": "200957"
   },
   {
     "card_name": "バトル☆バレンタイン",
@@ -4287,7 +4287,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "三好紗南",
-    "img": "sana2"
+    "id": "300923"
   },
   {
     "card_name": "ハートビートビューティー",
@@ -4297,7 +4297,7 @@
     "type": "passion",
     "limited": "none",
     "name": "斉藤洋子",
-    "img": "yoko2"
+    "id": "300925"
   },
   {
     "card_name": "ニャンダフル・ワールド",
@@ -4307,7 +4307,7 @@
     "type": "cute",
     "limited": "noir",
     "name": "前川みく",
-    "img": "miku5"
+    "id": "100935"
   },
   {
     "card_name": "ストリート・ステージ",
@@ -4317,7 +4317,7 @@
     "type": "cool",
     "limited": "none",
     "name": "水木聖來",
-    "img": "seira2"
+    "id": "200961"
   },
   {
     "card_name": "ラビング☆マイロード",
@@ -4327,7 +4327,7 @@
     "type": "cute",
     "limited": "none",
     "name": "藤本里奈",
-    "img": "rina2"
+    "id": "100939"
   },
   {
     "card_name": "爽春ノスタルジア",
@@ -4337,7 +4337,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "櫻井桃華",
-    "img": "momoka5"
+    "id": "100945"
   },
   {
     "card_name": "うぉーたーぱらだいす",
@@ -4347,7 +4347,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "浅利七海",
-    "img": "nanami2"
+    "id": "200967"
   },
   {
     "card_name": "我龍天征",
@@ -4357,7 +4357,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "向井拓海",
-    "img": "takumi4"
+    "id": "300931"
   },
   {
     "card_name": "なぎ・はーととりっぷ",
@@ -4367,7 +4367,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "久川凪",
-    "img": "nagi3"
+    "id": "300933"
   },
   {
     "card_name": "誠の花道",
@@ -4377,7 +4377,7 @@
     "type": "cool",
     "limited": "none",
     "name": "脇山珠美",
-    "img": "tamami2"
+    "id": "200971"
   },
   {
     "card_name": "Fantast!c Now☆",
@@ -4387,7 +4387,7 @@
     "type": "passion",
     "limited": "noir",
     "name": "赤城みりあ",
-    "img": "miria5"
+    "id": "300939"
   },
   {
     "card_name": "イッツ・マイ・ワールド ! ",
@@ -4397,7 +4397,7 @@
     "type": "cute",
     "limited": "none",
     "name": "福山舞",
-    "img": "mai2"
+    "id": "100947"
   },
   {
     "card_name": "マイ・フェア・ドーリー",
@@ -4407,7 +4407,7 @@
     "type": "passion",
     "limited": "none",
     "name": "メアリー・コクラン",
-    "img": "cochran2"
+    "id": "300943"
   },
   {
     "card_name": "アブナイオトモダチ",
@@ -4417,7 +4417,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "白坂小梅",
-    "img": "koume4"
+    "id": "200977"
   },
   {
     "card_name": "ミライ∞ポテンシャル",
@@ -4427,7 +4427,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "持田亜里沙",
-    "img": "arisa2"
+    "id": "100955"
   },
   {
     "card_name": "教室の白百合",
@@ -4437,7 +4437,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "三船美優",
-    "img": "miyu5"
+    "id": "200981"
   },
   {
     "card_name": "はぁとふるsweeteen☆",
@@ -4447,7 +4447,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "佐藤心",
-    "img": "shin5"
+    "id": "300945"
   },
   {
     "card_name": "ときめきの瞬間",
@@ -4457,7 +4457,7 @@
     "type": "cool",
     "limited": "none",
     "name": "松尾千鶴",
-    "img": "chizuru2"
+    "id": "200983"
   },
   {
     "card_name": "春霞の彼方",
@@ -4467,7 +4467,7 @@
     "type": "cool",
     "limited": "noir",
     "name": "北条加蓮",
-    "img": "karen5"
+    "id": "200985"
   },
   {
     "card_name": "愛しのスウィートハニー",
@@ -4477,7 +4477,7 @@
     "type": "cute",
     "limited": "none",
     "name": "榊原里美",
-    "img": "satomi2"
+    "id": "100961"
   },
   {
     "card_name": "トラベリング・メモリー",
@@ -4487,7 +4487,7 @@
     "type": "passion",
     "limited": "none",
     "name": "並木芽衣子",
-    "img": "meiko2"
+    "id": "300955"
   },
   {
     "card_name": "ビサイド・エタニティ",
@@ -4497,7 +4497,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "五十嵐響子",
-    "img": "kyoko5"
+    "id": "100963"
   },
   {
     "card_name": "忘失のローズルージュ",
@@ -4507,7 +4507,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "関裕美",
-    "img": "hiromi4"
+    "id": "100965"
   },
   {
     "card_name": "チャーミング・スウィート",
@@ -4517,7 +4517,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "二宮飛鳥",
-    "img": "asuka5"
+    "id": "200993"
   },
   {
     "card_name": "夢見りあむが見た夢",
@@ -4527,7 +4527,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "夢見りあむ",
-    "img": "riamu3"
+    "id": "300959"
   },
   {
     "card_name": "モード・コンフィアンス",
@@ -4537,7 +4537,7 @@
     "type": "cool",
     "limited": "none",
     "name": "相川千夏",
-    "img": "chinatsu2"
+    "id": "200995"
   },
   {
     "card_name": "トワイライト・ウサミン",
@@ -4547,7 +4547,7 @@
     "type": "cute",
     "limited": "noir",
     "name": "安部菜々",
-    "img": "nana5"
+    "id": "100971"
   },
   {
     "card_name": "ピンキー・ラブリーデイ",
@@ -4557,7 +4557,7 @@
     "type": "cute",
     "limited": "none",
     "name": "村松さくら",
-    "img": "sakura2"
+    "id": "100977"
   },
   {
     "card_name": "フルーティー・ポップ",
@@ -4567,7 +4567,7 @@
     "type": "passion",
     "limited": "none",
     "name": "相馬夏美",
-    "img": "natsumi2"
+    "id": "300963"
   },
   {
     "card_name": "ソラ駆けるオモイ",
@@ -4577,7 +4577,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "荒木比奈",
-    "img": "hina4"
+    "id": "201001"
   },
   {
     "card_name": "この美しい世界を",
@@ -4587,7 +4587,7 @@
     "type": "cool",
     "limited": "blanc",
     "name": "上条春菜",
-    "img": "haruna3"
+    "id": "201003"
   },
   {
     "card_name": "さざ波の花嫁",
@@ -4597,7 +4597,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "水本ゆかり",
-    "img": "yukari4"
+    "id": "100981"
   },
   {
     "card_name": "フラワリング・ウェディング",
@@ -4607,7 +4607,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "相葉夕美",
-    "img": "yumi5"
+    "id": "300967"
   },
   {
     "card_name": "アドマイヤ・ブライド",
@@ -4617,7 +4617,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "橘ありす",
-    "img": "arisu5"
+    "id": "201007"
   },
   {
     "card_name": "ワンダーオブチャーム",
@@ -4627,7 +4627,7 @@
     "type": "cute",
     "limited": "none",
     "name": "奥山沙織",
-    "img": "saori2"
+    "id": "100983"
   },
   {
     "card_name": "風雅水鏡",
@@ -4637,7 +4637,7 @@
     "type": "passion",
     "limited": "noir",
     "name": "依田芳乃",
-    "img": "yoshino5"
+    "id": "300971"
   },
   {
     "card_name": "コードネーム・キャット",
@@ -4647,7 +4647,7 @@
     "type": "cool",
     "limited": "none",
     "name": "和久井留美",
-    "img": "rumi2"
+    "id": "201017"
   },
   {
     "card_name": "ジョイフル☆フェアリー",
@@ -4657,7 +4657,7 @@
     "type": "passion",
     "limited": "none",
     "name": "喜多見柚",
-    "img": "yuzu4"
+    "id": "300975"
   },
   {
     "card_name": "むくなるさそい",
@@ -4667,7 +4667,7 @@
     "type": "cute",
     "limited": "blanc",
     "name": "遊佐こずえ",
-    "img": "kozue4"
+    "id": "100989"
   },
   {
     "card_name": "此岸の逢瀬",
@@ -4677,7 +4677,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "黒埼ちとせ",
-    "img": "chitose3"
+    "id": "100993"
   },
   {
     "card_name": "ウィーバー☆フィーバー",
@@ -4687,7 +4687,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "城ヶ崎莉嘉",
-    "img": "rika5"
+    "id": "300977"
   },
   {
     "card_name": "咲きすさぶ青嵐",
@@ -4697,7 +4697,7 @@
     "type": "cool",
     "limited": "monthly",
     "name": "渋谷凛",
-    "img": "rin6"
+    "id": "201021"
   },
   {
     "card_name": "ファントム・ナイト",
@@ -4707,7 +4707,7 @@
     "type": "cool",
     "limited": "none",
     "name": "古澤頼子",
-    "img": "yoriko2"
+    "id": "201023"
   },
   {
     "card_name": "ブックマーク・メモリー",
@@ -4717,7 +4717,7 @@
     "type": "cool",
     "limited": "noir",
     "name": "鷺沢文香",
-    "img": "fumika5"
+    "id": "201025"
   },
   {
     "card_name": "エメラルド・パラダイス",
@@ -4727,7 +4727,7 @@
     "type": "passion",
     "limited": "none",
     "name": "西島櫂",
-    "img": "kai2"
+    "id": "300987"
   },
   {
     "card_name": "ギャンブラーズプレジャー",
@@ -4737,7 +4737,7 @@
     "type": "cute",
     "limited": "none",
     "name": "兵藤レナ",
-    "img": "rena2"
+    "id": "100999"
   },
   {
     "card_name": "ハートイグニッション",
@@ -4747,7 +4747,7 @@
     "type": "passion",
     "limited": "blanc",
     "name": "日野茜",
-    "img": "akane4"
+    "id": "300989"
   },
   {
     "card_name": "ルガール・エスティヴァル",
@@ -4757,7 +4757,7 @@
     "type": "cute",
     "limited": "monthly",
     "name": "宮本フレデリカ",
-    "img": "frederica6"
+    "id": "101005"
   },
   {
     "card_name": "カラマ・バケーション ! ",
@@ -4767,7 +4767,7 @@
     "type": "passion",
     "limited": "monthly",
     "name": "イヴ・サンタクロース",
-    "img": "santaclaus3"
+    "id": "300991"
   },
   {
     "card_name": "びいどろの彩夏",
@@ -4777,6 +4777,276 @@
     "type": "cool",
     "limited": "monthly",
     "name": "藤原肇",
-    "img": "hajime5"
+    "id": "201029"
+  },
+  {
+    "id": "201031",
+    "card_name": "チェンジ・セクシーパワー ! ",
+    "name": "松本沙理奈",
+    "name_jp": "まつもと さりな",
+    "name_kr": "마츠모토 사리나",
+    "name_en": "matsumoto sarina",
+    "type": "cool",
+    "limited": "none"
+  },
+  {
+    "id": "300995",
+    "card_name": "黒き森の乙女",
+    "name": "高森藍子",
+    "name_jp": "たかもり あいこ",
+    "name_kr": "타카모리 아이코",
+    "name_en": "takamori aiko",
+    "type": "passion",
+    "limited": "noir"
+  },
+  {
+    "id": "300997",
+    "card_name": "ミッドナイトビューティー",
+    "name": "仙崎恵磨",
+    "name_jp": "せんざき えま",
+    "name_kr": "센자키 에마",
+    "name_en": "senzaki ema",
+    "type": "passion",
+    "limited": "none"
+  },
+  {
+    "id": "101013",
+    "card_name": "しとやかな清雅",
+    "name": "栗原ネネ",
+    "name_jp": "くりはら ねね",
+    "name_kr": "쿠리하라 네네",
+    "name_en": "kurihara nene",
+    "type": "cute",
+    "limited": "none"
+  },
+  {
+    "id": "201039",
+    "card_name": "星降る森のおとぎ話",
+    "name": "森久保乃々",
+    "name_jp": "もりくぼ のの",
+    "name_kr": "모리쿠보 노노",
+    "name_en": "morikubo nono",
+    "type": "cool",
+    "limited": "blanc"
+  },
+  {
+    "id": "201045",
+    "card_name": "スタートアップ・ミライ",
+    "name": "久川颯",
+    "name_jp": "ひさかわ はやて",
+    "name_kr": "히사카와 하야테",
+    "name_en": "hisakawa hayate",
+    "type": "cool",
+    "limited": "monthly"
+  },
+  {
+    "id": "101015",
+    "card_name": "心ふれあえば",
+    "name": "佐久間まゆ",
+    "name_jp": "さくま まゆ",
+    "name_kr": "사쿠마 마유",
+    "name_en": "sakuma mayu",
+    "type": "cute",
+    "limited": "monthly"
+  },
+  {
+    "id": "300999",
+    "card_name": "超光のミーティア",
+    "name": "本田未央",
+    "name_jp": "ほんだ みお",
+    "name_kr": "혼다 미오",
+    "name_en": "honda mio",
+    "type": "passion",
+    "limited": "monthly"
+  },
+  {
+    "id": "301001",
+    "card_name": "てのひらファンタジック",
+    "name": "龍崎薫",
+    "name_jp": "りゅうざき かおる",
+    "name_kr": "류자키 카오루",
+    "name_en": "ryuzaki kaoru",
+    "type": "passion",
+    "limited": "none"
+  },
+  {
+    "id": "101019",
+    "card_name": "ハロー ! マイラブリー",
+    "name": "椎名法子",
+    "name_jp": "しいな のりこ",
+    "name_kr": "시이나 노리코",
+    "name_en": "shiina noriko",
+    "type": "cute",
+    "limited": "none"
+  },
+  {
+    "id": "101021",
+    "card_name": "メリーバッドユートピア",
+    "name": "一ノ瀬志希",
+    "name_jp": "いちのせ しき",
+    "name_kr": "이치노세 시키",
+    "name_en": "ichinose shiki",
+    "type": "cute",
+    "limited": "noir"
+  },
+  {
+    "id": "201053",
+    "card_name": "ぴちぴち☆マーメイド",
+    "name": "浅利七海",
+    "name_jp": "あさり ななみ",
+    "name_kr": "아사리 나나미",
+    "name_en": "asari nanami",
+    "type": "cool",
+    "limited": "none"
+  },
+  {
+    "id": "101025",
+    "card_name": "おめざめ☆あかりんご",
+    "name": "辻野あかり",
+    "name_jp": "つじの あかり",
+    "name_kr": "츠지노 아카리",
+    "name_en": "tsujino akari",
+    "type": "cute",
+    "limited": "blanc"
+  },
+  {
+    "id": "301007",
+    "card_name": "清き紅姫",
+    "name": "村上巴",
+    "name_jp": "むらかみ ともえ",
+    "name_kr": "무라카미 토모에",
+    "name_en": "murakami tomoe",
+    "type": "passion",
+    "limited": "monthly"
+  },
+  {
+    "id": "201055",
+    "card_name": "テンプテーション・ブラッド",
+    "name": "速水奏",
+    "name_jp": "はやみ かなで",
+    "name_kr": "하야미 카나데",
+    "name_en": "hayami kanade",
+    "type": "cool",
+    "limited": "monthly"
+  },
+  {
+    "id": "101029",
+    "card_name": "ファンタスティック・ナイト",
+    "name": "乙倉悠貴",
+    "name_jp": "おとくら ゆうき",
+    "name_kr": "오토쿠라 유우키",
+    "name_en": "otokura yuuki",
+    "type": "cute",
+    "limited": "monthly"
+  },
+  {
+    "id": "201059",
+    "card_name": "友進のナッツクラッカー",
+    "name": "綾瀬穂乃香",
+    "name_jp": "あやせ ほのか",
+    "name_kr": "아야세 호노카",
+    "name_en": "ayase honoka",
+    "type": "cool",
+    "limited": "none"
+  },
+  {
+    "id": "301013",
+    "card_name": "ドラマティック☆ダンス",
+    "name": "小松伊吹",
+    "name_jp": "こまつ いぶき",
+    "name_kr": "코마츠 이부키",
+    "name_en": "komatsu ibuki",
+    "type": "passion",
+    "limited": "none"
+  },
+  {
+    "id": "201061",
+    "card_name": "ダンシン・イン・ザ・レイン",
+    "name": "神谷奈緒",
+    "name_jp": "かみや なお",
+    "name_kr": "카미야 나오",
+    "name_en": "kamiya nao",
+    "type": "cool",
+    "limited": "noir"
+  },
+  {
+    "id": "201065",
+    "card_name": "ミステリアス・ビューティー",
+    "name": "八神マキノ",
+    "name_jp": "やがみ まきの",
+    "name_kr": "야가미 마키노",
+    "name_en": "yagami makino",
+    "type": "cool",
+    "limited": "none"
+  },
+  {
+    "id": "301015",
+    "card_name": "ワールド・ディストーション",
+    "name": "堀裕子",
+    "name_jp": "ほり ゆうこ",
+    "name_kr": "호리 유코",
+    "name_en": "hori yuko",
+    "type": "passion",
+    "limited": "blanc"
+  },
+  {
+    "id": "101037",
+    "card_name": "とこしえの想い",
+    "name": "小日向美穂",
+    "name_jp": "こひなた みほ",
+    "name_kr": "코히나타 미호",
+    "name_en": "kohinata miho",
+    "type": "cute",
+    "limited": "monthly"
+  },
+  {
+    "id": "301017",
+    "card_name": "ツヤメキ★いろは",
+    "name": "城ヶ崎美嘉",
+    "name_jp": "じょうがさき みか",
+    "name_kr": "죠가사키 미카",
+    "name_en": "jougasaki mika",
+    "type": "passion",
+    "limited": "monthly"
+  },
+  {
+    "id": "201069",
+    "card_name": "たそがれ抒情",
+    "name": "佐城雪美",
+    "name_jp": "さじょう ゆきみ",
+    "name_kr": "사죠 유키미",
+    "name_en": "sajo yukimi",
+    "type": "cool",
+    "limited": "monthly"
+  },
+  {
+    "id": "101043",
+    "card_name": "涼やかなる熱意",
+    "name": "涼宮星花",
+    "name_jp": "すずみや せいか",
+    "name_kr": "스즈미야 세이카",
+    "name_en": "suzumiya seika",
+    "type": "cute",
+    "limited": "none"
+  },
+  {
+    "id": "201071",
+    "card_name": "スウィング・ウィズ・ミー",
+    "name": "東郷あい",
+    "name_jp": "とうごう あい",
+    "name_kr": "토고 아이",
+    "name_en": "togo ai",
+    "type": "cool",
+    "limited": "none"
+  },
+  {
+    "id": "301023",
+    "card_name": "綺羅星のエンプレス",
+    "name": "諸星きらり",
+    "name_jp": "もろぼし きらり",
+    "name_kr": "모로보시 키라리",
+    "name_en": "moroboshi kirari",
+    "type": "passion",
+    "limited": "noir"
   }
 ]

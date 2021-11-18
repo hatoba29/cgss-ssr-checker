@@ -1,4 +1,5 @@
 import React, { SyntheticEvent, useEffect, useState } from "react"
+import Image from "next/image"
 import Data from "./data.json"
 import { Option } from "types/option"
 import styles from "css/content.module.scss"
@@ -28,7 +29,8 @@ function Content(props: ContentProps) {
   function toggleChecked(e: SyntheticEvent) {
     const id = e.currentTarget.id
     if (checklist[id]) {
-      setChecklist({ ...checklist, [id]: false })
+      delete checklist[id]
+      setChecklist({ ...checklist })
     } else {
       setChecklist({ ...checklist, [id]: true })
     }
@@ -38,8 +40,7 @@ function Content(props: ContentProps) {
   function cardGenerator() {
     if (!isLoaded) return
     let cards = []
-    let filtered = Data
-    filtered = Data.filter((v) => {
+    let filtered = Data.filter((v, i) => {
       let hit = true
       // type
       if (!props.option.type[v.type]) {
@@ -66,30 +67,34 @@ function Content(props: ContentProps) {
       return hit
     })
 
-    // 필터링된 카드들만 삽입하기
+    // 이름 없을 땐 높이 낮추기
     let cardHeight = {}
     if (!props.option.showName) {
-      // 이름 없을 땐 높이 낮추기
       cardHeight = { height: "55px" }
     }
+
+    // 필터링된 카드들만 삽입하기
+    const IMG = "https://hidamarirhodonite.kirara.ca/icon_card/"
     for (let i = 0; i < filtered.length; i++) {
-      let check = checklist[filtered[i].img]
-      let awaken = props.option.awaken ? "right" : "left"
+      let check = checklist[filtered[i].id]
+      let img_src = Number(filtered[i].id) + Number(props.option.awaken)
       cards.push(
         <div
-          id={filtered[i].img}
+          id={filtered[i].id}
           className={`${styles.card} ${check ? styles.checked : ""}`}
           key={i}
           style={cardHeight}
           onClick={toggleChecked}
         >
-          <div
-            className={styles.card_image}
-            style={{
-              backgroundImage: `url("${filtered[i].img}.png")`,
-              backgroundPositionX: `${awaken}`,
-            }}
-          />
+          <div className={styles.card_image}>
+            <Image
+              src={`${IMG + img_src}.png`}
+              width={55}
+              height={55}
+              priority
+              alt=""
+            />
+          </div>
           <div hidden={!props.option.showName}>
             [{filtered[i].card_name}] {filtered[i].name}
           </div>
