@@ -4,11 +4,9 @@ import Data from "./data.json"
 import { Option } from "types/option"
 import styles from "css/content.module.scss"
 
-interface ContentProps {
-  option: Option
-}
+function Content(props: { option: Option }) {
+  const opt = props.option
 
-function Content(props: ContentProps) {
   // 이미 저장된 체크리스트가 있는지 확인
   const [isLoaded, setLoaded] = useState(false)
   const [checklist, setChecklist] = useState({})
@@ -43,59 +41,45 @@ function Content(props: ContentProps) {
     let filtered = Data.filter((v, i) => {
       let hit = true
       // type
-      if (!props.option.type[v.type]) {
+      if (!opt.type[v.type]) {
         hit = false
       }
       // gacha type
-      if (!props.option.limited[v.limited]) {
+      if (!opt.limited[v.limited]) {
         hit = false
       }
       // idol name
-      if (props.option.idolName) {
+      if (opt.idolName) {
         let local_hit = false
         local_hit =
           local_hit ||
-          v.name_kr.includes(props.option.idolName) ||
-          v.name_en.includes(props.option.idolName) ||
-          v.name_jp.includes(props.option.idolName)
+          v.name_kr.includes(opt.idolName) ||
+          v.name_en.includes(opt.idolName) ||
+          v.name_jp.includes(opt.idolName)
         hit = hit && local_hit
       }
       // card name
-      if (props.option.cardName) {
-        hit = hit && v.card_name.toLowerCase().includes(props.option.cardName)
+      if (opt.cardName) {
+        hit = hit && v.card_name.toLowerCase().includes(opt.cardName)
       }
       return hit
     })
 
-    // 이름 없을 땐 높이 낮추기
-    let cardHeight = {}
-    if (!props.option.showName) {
-      cardHeight = { height: "55px" }
-    }
-
     // 필터링된 카드들만 삽입하기
     const IMG = "https://hidamarirhodonite.kirara.ca/icon_card/"
     for (let i = 0; i < filtered.length; i++) {
-      let check = checklist[filtered[i].id]
-      let img_src = Number(filtered[i].id) + Number(props.option.awaken)
+      const checked = checklist[filtered[i].id] ? styles.checked : ""
+      const id = Number(filtered[i].id)
       cards.push(
         <div
           id={filtered[i].id}
-          className={`${styles.card} ${check ? styles.checked : ""}`}
+          className={`${styles.card} ${checked}`}
           key={i}
-          style={cardHeight}
           onClick={toggleChecked}
         >
-          <div className={styles.card_image}>
-            <Image
-              src={`${IMG + img_src}.png`}
-              width={55}
-              height={55}
-              priority
-              alt=""
-            />
-          </div>
-          <div hidden={!props.option.showName}>
+          <Image width={55} height={55} src={`${IMG}${id}.png`} alt="" />
+          <Image width={55} height={55} src={`${IMG}${id + 1}.png`} alt="" />
+          <div className={styles.card_name}>
             [{filtered[i].card_name}] {filtered[i].name}
           </div>
         </div>
@@ -104,12 +88,17 @@ function Content(props: ContentProps) {
     return cards
   }
 
+  // display option
+  const showName = opt.showName ? "" : styles.hide_name
+  const awaken = opt.awaken ? styles.awaken : styles.normal
   return (
     <div id={styles.content}>
       <header>
         <span>✅ CGSS SSR Checker</span>
       </header>
-      <div id={styles.card_container}>{cardGenerator()}</div>
+      <div id={styles.card_container} className={`${showName} ${awaken}`}>
+        {cardGenerator()}
+      </div>
       <footer>ⓒ 2021. hatoba29 All Rights Reserved.</footer>
     </div>
   )
