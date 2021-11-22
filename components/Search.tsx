@@ -1,14 +1,15 @@
 import React, { FormEvent, SyntheticEvent, useState } from "react"
+import { useDispatch } from "react-redux"
 import { IoIosArrowUp } from "react-icons/io"
-import { Option } from "types/option"
 import styles from "css/search.module.scss"
+import {
+  updateText,
+  updateType,
+  updateLimited,
+  updateBool,
+} from "./redux/search"
 
-interface SearchProps {
-  option: Option
-  setOption: React.Dispatch<React.SetStateAction<Option>>
-}
-
-function Search(props: SearchProps) {
+function Search() {
   // toggle search overlay
   let [isOpen, setOpen] = useState("")
   function showSearch() {
@@ -20,22 +21,18 @@ function Search(props: SearchProps) {
   }
 
   // update option
+  const dispatch = useDispatch()
   function update(e: FormEvent<HTMLInputElement>) {
     const target = e.currentTarget
 
-    // 리듀서 적용해볼 수 있나?
-    if (target.className == "type" || target.className == "limited") {
-      props.setOption({
-        ...props.option,
-        [target.className]: {
-          ...props.option[target.className],
-          [target.id]: target.checked,
-        },
-      })
-    } else if (target.type == "checkbox") {
-      props.setOption({ ...props.option, [target.id]: target.checked })
+    if (target.type == "text") {
+      dispatch(updateText(target))
+    } else if (target.className == "type") {
+      dispatch(updateType(target))
+    } else if (target.className == "limited") {
+      dispatch(updateLimited(target))
     } else {
-      props.setOption({ ...props.option, [target.id]: target.value })
+      dispatch(updateBool(target))
     }
   }
 
@@ -174,7 +171,7 @@ function Search(props: SearchProps) {
             id="showName"
             type="checkbox"
             onInput={update}
-            defaultChecked={props.option.showName}
+            defaultChecked
           />
           <label
             className={styles.checked}
@@ -183,12 +180,7 @@ function Search(props: SearchProps) {
           >
             Show Card Name
           </label>
-          <input
-            id="awaken"
-            type="checkbox"
-            onInput={update}
-            defaultChecked={props.option.awaken}
-          />
+          <input id="awaken" type="checkbox" onInput={update} defaultChecked />
           <label
             className={styles.checked}
             htmlFor="awaken"

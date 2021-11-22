@@ -1,23 +1,18 @@
-import { useState } from "react"
+import { Provider } from "react-redux"
+import configureStore from "components/redux/configureStore"
 import Content from "components/Content"
 import Search from "components/Search"
-import { Option } from "types/option"
 
 function Main() {
-  const [option, setOption] = useState<Option>({
-    cardName: "",
-    idolName: "",
-    limited: { none: true, monthly: true, blanc: true, noir: true },
-    type: { cute: true, cool: true, passion: true },
-    showName: true,
-    awaken: true,
-  })
+  const store = configureStore()
 
   return (
-    <div id="root">
-      <Content option={option} />
-      <Search option={option} setOption={setOption} />
-    </div>
+    <Provider store={store}>
+      <div id="root">
+        <Content />
+        <Search />
+      </div>
+    </Provider>
   )
 }
 
