@@ -94,7 +94,7 @@ function Content(props: { option: Option }) {
   return (
     <div id={styles.content}>
       <header>
-        <span>✅ CGSS SSR Checker</span>
+        <span>✅&nbsp;</span>CGSS SSR Checker
       </header>
       <div id={styles.card_container} className={`${showName} ${awaken}`}>
         {cardGenerator()}
