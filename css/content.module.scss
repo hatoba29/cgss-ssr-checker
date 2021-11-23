@@ -18,6 +18,7 @@
   margin: 0 8px;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 
   &.hide_name > div > .card_name {
     display: none;
