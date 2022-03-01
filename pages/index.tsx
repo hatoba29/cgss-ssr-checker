@@ -3,7 +3,7 @@ import configureStore from "components/redux/configureStore"
 import Content from "components/Content"
 import Search from "components/Search"
 
-function Main() {
+const Main = () => {
   const store = configureStore()
 
   return (
