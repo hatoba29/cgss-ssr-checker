@@ -4,7 +4,7 @@ import Data from "./data.json"
 import styles from "css/content.module.scss"
 import { useAppSelector } from "./redux/configureStore"
 
-function Content() {
+const Content = () => {
   const opt = useAppSelector((state) => state)
 
   // 이미 저장된 체크리스트가 있는지 확인
@@ -24,7 +24,7 @@ function Content() {
   }, [checklist])
 
   // 카드 클릭했을 때 상태 토글하기
-  function toggleChecked(e: SyntheticEvent) {
+  const toggleChecked = (e: SyntheticEvent) => {
     const id = e.currentTarget.id
     if (checklist[id]) {
       delete checklist[id]
@@ -35,7 +35,7 @@ function Content() {
   }
 
   // json 불러와서 Search 모듈에서 지정한 옵션에 따라 필터링하기
-  function cardGenerator() {
+  const cardGenerator = () => {
     if (!isLoaded) return
     let cards = []
     let filtered = Data.filter((v, i) => {

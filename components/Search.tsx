@@ -9,10 +9,10 @@ import {
   updateBool,
 } from "./redux/search"
 
-function Search() {
+const Search = () => {
   // toggle search overlay
   let [isOpen, setOpen] = useState("")
-  function showSearch() {
+  const showSearch = () => {
     if (isOpen == "" || isOpen == styles.close) {
       setOpen(styles.open)
     } else {
@@ -22,7 +22,7 @@ function Search() {
 
   // update option
   const dispatch = useDispatch()
-  function update(e: FormEvent<HTMLInputElement>) {
+  const update = (e: FormEvent<HTMLInputElement>) => {
     const target = e.currentTarget
 
     if (target.type == "text") {
@@ -37,7 +37,7 @@ function Search() {
   }
 
   // toggle checked status
-  function toggleChecked(e: SyntheticEvent) {
+  const toggleChecked = (e: SyntheticEvent) => {
     const target = e.currentTarget
     target.classList.toggle(styles.checked)
   }
