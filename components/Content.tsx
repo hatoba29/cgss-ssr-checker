@@ -2,10 +2,10 @@ import React, { SyntheticEvent, useEffect, useState } from "react"
 import Image from "next/image"
 import Data from "./data.json"
 import styles from "css/content.module.scss"
-import { useAppSelector } from "./redux/configureStore"
+import { useOptionSelector } from "redux-store/store"
 
 const Content = () => {
-  const opt = useAppSelector((state) => state)
+  const opt = useOptionSelector((state) => state)
 
   // 이미 저장된 체크리스트가 있는지 확인
   const [isLoaded, setLoaded] = useState(false)
