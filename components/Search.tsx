@@ -1,13 +1,8 @@
 import React, { FormEvent, SyntheticEvent, useState } from "react"
-import { useDispatch } from "react-redux"
 import { IoIosArrowUp } from "react-icons/io"
 import styles from "css/search.module.scss"
-import {
-  updateText,
-  updateType,
-  updateLimited,
-  updateBool,
-} from "./redux/search"
+import { useOptionDispatch } from "redux-store/store"
+import { setLimited, setTextBool, setType } from "redux-store/slice"
 
 const Search = () => {
   // toggle search overlay
@@ -21,18 +16,18 @@ const Search = () => {
   }
 
   // update option
-  const dispatch = useDispatch()
+  const dispatch = useOptionDispatch()
   const update = (e: FormEvent<HTMLInputElement>) => {
     const target = e.currentTarget
 
     if (target.type == "text") {
-      dispatch(updateText(target))
+      dispatch(setTextBool([target.id, target.value]))
     } else if (target.className == "type") {
-      dispatch(updateType(target))
+      dispatch(setType([target.id, target.checked]))
     } else if (target.className == "limited") {
-      dispatch(updateLimited(target))
+      dispatch(setLimited([target.id, target.checked]))
     } else {
-      dispatch(updateBool(target))
+      dispatch(setTextBool([target.id, target.checked]))
     }
   }
 
