@@ -6,10 +6,8 @@ import Search from "components/Search"
 const Main = () => {
   return (
     <Provider store={store}>
-      <div id="root">
-        <Content />
-        <Search />
-      </div>
+      <Content />
+      <Search />
     </Provider>
   )
 }
