@@ -1,11 +1,11 @@
 import React, { SyntheticEvent, useEffect, useState } from "react"
 import Image from "next/image"
+import styled from "@emotion/styled"
 import Data from "./data.json"
-import styles from "css/content.module.scss"
-import { useAppSelector } from "./redux/configureStore"
+import { useOptionSelector } from "redux-store/store"
 
 const Content = () => {
-  const opt = useAppSelector((state) => state)
+  const opt = useOptionSelector((state) => state)
 
   // 이미 저장된 체크리스트가 있는지 확인
   const [isLoaded, setLoaded] = useState(false)
@@ -68,40 +68,105 @@ const Content = () => {
     // 필터링된 카드들만 삽입하기
     const IMG = "https://hidamarirhodonite.kirara.ca/icon_card/"
     for (let i = 0; i < filtered.length; i++) {
-      const checked = checklist[filtered[i].id] ? styles.checked : ""
+      const checked = checklist[filtered[i].id] ? "checked" : ""
       const id = Number(filtered[i].id)
       cards.push(
-        <div
+        <Card
           id={filtered[i].id}
-          className={`${styles.card} ${checked}`}
+          className={checked}
           key={i}
           onClick={toggleChecked}
         >
           <Image width={55} height={55} src={`${IMG}${id}.png`} alt="" />
           <Image width={55} height={55} src={`${IMG}${id + 1}.png`} alt="" />
-          <div className={styles.card_name}>
+          <div className="card_name">
             [{filtered[i].card_name}] {filtered[i].name}
           </div>
-        </div>
+        </Card>
       )
     }
     return cards
   }
 
   // display option
-  const showName = opt.showName ? "" : styles.hide_name
-  const awaken = opt.awaken ? styles.awaken : styles.normal
+  const showName = opt.showName ? "" : "hide_name"
+  const awaken = opt.awaken ? "awaken" : "normal"
   return (
-    <div id={styles.content}>
-      <header>
-        <span>✅&nbsp;</span>CGSS SSR Checker
-      </header>
-      <div id={styles.card_container} className={`${showName} ${awaken}`}>
+    <Main>
+      <Title>✅&nbsp;CGSS SSR Checker</Title>
+      <CardContainer className={`${showName} ${awaken}`}>
         {cardGenerator()}
-      </div>
+      </CardContainer>
       <footer>ⓒ 2021. hatoba29 All Rights Reserved.</footer>
-    </div>
+    </Main>
   )
 }
+
+const Main = styled.main`
+  width: 100%;
+  height: calc(100vh - 64px);
+  padding-bottom: 12px;
+  overflow: hidden scroll;
+`
+
+const Title = styled.header`
+  height: 36px;
+  margin: 12px 0;
+  padding: 0 8px;
+
+  display: flex;
+  align-items: center;
+
+  font-size: 20px;
+  font-weight: 700;
+`
+
+const CardContainer = styled.section`
+  margin: 0 8px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  &.hide_name > article > .card_name {
+    display: none;
+  }
+
+  & > article > span {
+    display: none !important;
+  }
+  &.normal > article > span:nth-child(1) {
+    display: block !important;
+  }
+  &.awaken > article > span:nth-child(2) {
+    display: block !important;
+  }
+`
+
+const Card = styled.article`
+  @media (min-width: 640px) {
+    width: 90px;
+    font-size: 12px;
+  }
+
+  width: calc((100% / 4) - 2px);
+  border: 1px solid #ccc;
+  padding: 4px 6px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  font-size: 0.7rem;
+  font-weight: 300;
+
+  cursor: pointer;
+  user-select: none;
+
+  transition: background-color 0.3s;
+
+  &.checked {
+    background-color: #c6e5f6;
+  }
+`
 
 export default Content
