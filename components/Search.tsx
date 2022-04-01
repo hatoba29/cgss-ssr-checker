@@ -264,10 +264,6 @@ const OptionName = styled.h1`
 `
 
 const OptionLabel = styled.label`
-  @media (min-width: 640px) {
-    font-size: 16px;
-  }
-
   margin: 0 6px;
   border-radius: 16px;
   padding: 4px 12px;
@@ -277,8 +273,12 @@ const OptionLabel = styled.label`
   user-select: none;
 
   color: white;
-  font-size: 0.8rem;
+  font-size: 16px;
   line-height: 1.4rem;
+
+  @media (max-width: 640px) {
+    font-size: 0.8rem;
+  }
 
   &.checked {
     &.cute {
