@@ -79,9 +79,9 @@ const Content = () => {
         >
           <Image width={55} height={55} src={`${IMG}${id}.png`} alt="" />
           <Image width={55} height={55} src={`${IMG}${id + 1}.png`} alt="" />
-          <div className="card_name">
+          <CardName className="card-name">
             [{filtered[i].card_name}] {filtered[i].name}
-          </div>
+          </CardName>
         </Card>
       )
     }
@@ -123,11 +123,12 @@ const Title = styled.header`
 
 const CardContainer = styled.section`
   margin: 0 8px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
 
-  &.hide_name > article > .card_name {
+  display: grid;
+  grid-auto-rows: auto;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+
+  &.hide_name > article > .card-name {
     display: none;
   }
 
@@ -143,20 +144,15 @@ const CardContainer = styled.section`
 `
 
 const Card = styled.article`
-  @media (min-width: 640px) {
-    width: 90px;
-    font-size: 12px;
-  }
-
-  width: calc((100% / 4) - 2px);
+  max-width: 100%;
   border: 1px solid #ccc;
-  padding: 4px 6px;
+  padding: 6px;
 
   display: flex;
   flex-direction: column;
   align-items: center;
 
-  font-size: 0.7rem;
+  font-size: 12px;
   font-weight: 300;
 
   cursor: pointer;
@@ -164,9 +160,17 @@ const Card = styled.article`
 
   transition: background-color 0.3s;
 
+  @media (max-width: 640px) {
+    font-size: 0.7rem;
+  }
+
   &.checked {
     background-color: #c6e5f6;
   }
+`
+
+const CardName = styled.div`
+  margin-top: 4px;
 `
 
 export default Content
